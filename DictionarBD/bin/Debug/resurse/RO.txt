@@ -1,0 +1,9572 @@
+"a";1
+"abandona (a)";2
+"abanos";3
+"abataj";4
+"abate (a)";5
+"abate(a se)";6
+"abatere";7
+"abatut";8
+"abecedar";9
+"abia";10
+"abil";11
+"abilitate";12
+"abnegatie";13
+"abonament";14
+"abrogare";15
+"abrupt";16
+"absent";17
+"absenta";18
+"absolut";19
+"absolvent";20
+"absolvi (a)";21
+"absolvire";22
+"absorbi (a)";23
+"abstinent";24
+"abstinenta";25
+"absurd";26
+"abtibilduri";27
+"abtine de la(a se)";28
+"abtine(a se)";29
+"abundent";30
+"abundenta";31
+"abur";32
+"abur(eala)";33
+"aburul cimpiei";34
+"abuz";35
+"ac";36
+"ac (cu gamalie)";37
+"acadea";38
+"acaret";39
+"acasa";40
+"accent";41
+"accentua (a)";42
+"accepta (a)";43
+"acceptabil";44
+"acces";45
+"acces de tuse";46
+"accesorii";47
+"accesoriu fix";48
+"accident";49
+"accidentat";50
+"acea";51
+"aceasta";52
+"acei";53
+"acel";54
+"acelasi";55
+"acele";56
+"acest";57
+"acest lucru";58
+"acesta din urma";59
+"aceste";60
+"acesti";61
+"achitare";62
+"acolada";63
+"acolit";64
+"acolo";65
+"acont";66
+"acoperi (a)";67
+"acoperis";68
+"acord";69
+"acord(aj)";70
+"acorda (a)";71
+"acreditive";72
+"acri (a)";73
+"acri(a se)";74
+"acritura";75
+"acrobat";76
+"acru";77
+"act de identitate";78
+"actiune";79
+"actiuni";80
+"activ";81
+"activa (a)";82
+"activist";83
+"activitate";84
+"actual";85
+"acum";86
+"acut";87
+"acuzare (punere sub)";88
+"acuzatie";89
+"acuzativ";90
+"acvilin";91
+"adapare";92
+"adapost";93
+"adauga(a se)";94
+"ademeni (a)";95
+"ademenitor";96
+"adept";97
+"adesea";98
+"adeseori";99
+"adevar";100
+"adevar spus numai pe jumatate";101
+"adevarat";102
+"adevarat (cu)";103
+"adica";104
+"adiere";105
+"adinc";106
+"adinc(ime)";107
+"adinci (a)(se)";108
+"adio !";109
+"adjunct";110
+"administra (a)";111
+"administratie";112
+"administrator";113
+"admonesta (a)";114
+"admonestare";115
+"adolescent(a)";116
+"adolescenta";117
+"adora (a)";118
+"adorator";119
+"adormit";120
+"adormit (a)";121
+"adormit(or)";122
+"aduce (a)";123
+"aduce pe cale buna (a)";124
+"aduce pe cap (a)";125
+"adumelca (a)";126
+"adumelcare";127
+"aduna (a se)";128
+"aduna (a)";129
+"aduna(a se)";130
+"adunare";131
+"adversar";132
+"aer solemn";133
+"aere";134
+"aerian";135
+"aeronava";136
+"afacere";137
+"afacerist";138
+"afara";139
+"afara (pe din)";140
+"afectat";141
+"afectiune";142
+"aferat";143
+"afin(a)";144
+"afirma (a)";145
+"afirmare";146
+"afirmatie";147
+"afis";148
+"afla (a)";149
+"afla(a se)";150
+"afluent";151
+"aflux";152
+"afuma (a)";153
+"afumat";154
+"afurisit";155
+"agata (a)";156
+"agata(a se)";157
+"agatat";158
+"agatatoare";159
+"ageamiu";160
+"agenda";161
+"agent";162
+"agent de bursa";163
+"ager";164
+"agerime";165
+"agita (a)";166
+"agita (a)(se)";167
+"agita(a se)";168
+"agitat";169
+"agitatie";170
+"agitatie publica";171
+"aglomera (a)";172
+"aglomerat";173
+"aglomeratie";174
+"agrafa";175
+"agresiv";176
+"aha";177
+"ai";178
+"aidoma";179
+"aitatie";180
+"aiura (a)";181
+"aiurea";182
+"aiureala";183
+"aiureli";184
+"aiurit";185
+"ajun";186
+"ajunge (a)";187
+"ajunge din urma (a)";188
+"ajur";189
+"ajura (a)";190
+"ajustor";191
+"ajutor";192
+"ajutor de somaj";193
+"al";194
+"al cui";195
+"al ei";196
+"al lor";197
+"al meu";198
+"al nostru";199
+"al tau";200
+"al vostru";201
+"alai";202
+"alama";203
+"alapta (a)";204
+"alaturare";205
+"alaturat";206
+"alaturi de";207
+"alb";208
+"albastrui";209
+"albi (a)(se)";210
+"albie";211
+"albina";212
+"alcatui (a)";213
+"alcatuire";214
+"alcatuit din (a fi)";215
+"ale";216
+"alee";217
+"alegator";218
+"alege (a)";219
+"alegere";220
+"alergare";221
+"alergator";222
+"alergatura";223
+"ales";224
+"aliat";225
+"alifie";226
+"aliment";227
+"aliment(are)";228
+"alimenta (a)";229
+"alimentatie proasta";230
+"alimente";231
+"alina (a)";232
+"alinare";233
+"alocatie";234
+"alpinism";235
+"alpinist";236
+"alt";237
+"alteta";238
+"altfel";239
+"altoi(re)";240
+"altruism";241
+"altruist";242
+"aluat";243
+"aluna";244
+"aluneca (a)";245
+"alunecare";246
+"alunecos";247
+"alungare";248
+"alungit";249
+"aluzie";250
+"amabil";251
+"amabilitate";252
+"amagitor";253
+"amanet";254
+"amanta";255
+"amanunt";256
+"amanuntit";257
+"amari (a)";258
+"amarnic";259
+"amator";260
+"amator de plimabari";261
+"ambala (a)";262
+"ambalaj";263
+"ambarcatiune";264
+"ambasada";265
+"ambianta";266
+"ambulant";267
+"amenda";268
+"ameninta (a)";269
+"amenintare";270
+"amenintator";271
+"american";272
+"amestec";273
+"amesteca (a)";274
+"amesteca (a)(se)";275
+"amesteca(a se)";276
+"amestecat";277
+"amestecatura";278
+"ameteala";279
+"ametit";280
+"amiaza";281
+"amigdalita";282
+"amina (a)";283
+"aminare";284
+"amindoi";285
+"aminti (a)";286
+"aminti (a-si)";287
+"amintire";288
+"amorti (a)";289
+"amortit";290
+"amurg";291
+"amuzament";292
+"amuzant";293
+"amvon";294
+"anafura";295
+"analfabet";296
+"analfabetism";297
+"analiza (a)";298
+"analiza gramatical (a)";299
+"ancheta";300
+"ancheta (a)";301
+"anexa";302
+"angaja (a se)";303
+"angaja (a)";304
+"angajament";305
+"angajare";306
+"angajat";307
+"angrenaj";308
+"anima (a)";309
+"animal";310
+"animal de casa";311
+"animale cu blana";312
+"animalic";313
+"animat";314
+"anonim";315
+"antebelic";316
+"antebrat";317
+"antena";318
+"anterior";319
+"anterior (pomenit)";320
+"antialcoolic";321
+"anticamera";322
+"antipatie";323
+"antrax";324
+"antrena (a)";325
+"antrenor";326
+"antrepenor";327
+"antreprenor";328
+"antreprenor de pompe funebre";329
+"anual";330
+"anula (a)";331
+"anulare";332
+"anume";333
+"anumit";334
+"anunt";335
+"anunt(are)";336
+"anunta (a)";337
+"anvapost";338
+"anvelopa";339
+"anvergura";340
+"apa";341
+"apa de scurgere";342
+"apa mica";343
+"apa oxigenata";344
+"apara (a)";345
+"aparare";346
+"aparat";347
+"aparat de masura";348
+"aparat de taxat";349
+"aparatoare";350
+"aparator";351
+"aparea (a)";352
+"aparent";353
+"aparenta";354
+"apartament";355
+"apas";356
+"apasare";357
+"apasat";358
+"apasator";359
+"apatic";360
+"apatie";361
+"apel";362
+"apendice";363
+"aplauze";364
+"apleca(a se)";365
+"aplecat";366
+"aplica (a)";367
+"apoi";368
+"apos";369
+"apreciere";370
+"aprimi";371
+"aprinde (a se)";372
+"aprins";373
+"aproape";374
+"aproape de";375
+"aproape tot";376
+"aprobare";377
+"aprod";378
+"apropia(a se)";379
+"apropiat";380
+"apropiere";381
+"aproviziona (a)";382
+"aproximativ";383
+"apuca (a)";384
+"apucare";385
+"apucator";386
+"apus";387
+"apusean";388
+"arama";389
+"aranja (a)";390
+"aranjare";391
+"arata coltii (a-si)";392
+"aratator";393
+"aratos";394
+"arbitra (a)";395
+"arbitru";396
+"arbitru de tusa";397
+"arbore";398
+"arboret";399
+"arbust";400
+"arcada";401
+"arcuit";402
+"arde (a)";403
+"ardei";404
+"ardei (iute)";405
+"arenda";406
+"arenda (a)";407
+"arendas";408
+"argaseala";409
+"argilos";410
+"argint";411
+"argintiu";412
+"argotic";413
+"argou";414
+"argumenta (a)";415
+"argumente";416
+"arhimandrit";417
+"arhiva";418
+"aripa";419
+"aripioara de peste";420
+"aritmetica";421
+"arivist";422
+"arlechin";423
+"arma";424
+"arma de foc";425
+"armament";426
+"armata";427
+"armistitiu";428
+"armonie";429
+"armonios";430
+"arogant";431
+"aroma";432
+"aromatiza (a)";433
+"arsura";434
+"arta culinara";435
+"artagos";436
+"artar";437
+"articol";438
+"articulatie";439
+"artista emerita";440
+"artizanat";441
+"arunca (a)";442
+"arunca (a)(se)";443
+"aruncare";444
+"arzator";445
+"arzind";446
+"as";447
+"asa";448
+"asa de";449
+"asa si asa";450
+"asa-zis";451
+"asalta (a)";452
+"asasin";453
+"ascedent";454
+"aschie";455
+"asculta (a)";456
+"asculta (de)(a)";457
+"ascultare";458
+"ascultator";459
+"ascunde (a)";460
+"ascunde (a)(se)";461
+"ascunde(a se)";462
+"ascuns";463
+"ascunzatoare";464
+"ascuti (a)";465
+"ascuti (a)(se)";466
+"ascutime";467
+"ascutis";468
+"ascutit";469
+"ascutitoare";470
+"asedia (a)";471
+"asediu";472
+"asemanare";473
+"asemanator";474
+"asemenea";475
+"asemui (a)";476
+"aservire";477
+"asexuat";478
+"aseza (a)";479
+"asezare";480
+"asezat";481
+"asigura (a)";482
+"asigura (a)(se)";483
+"asigurare";484
+"asigurari";485
+"asigurat";486
+"asimetric";487
+"asista la (a)";488
+"asociatie";489
+"asprime";490
+"aspru";491
+"astepta (a)";492
+"astepta la(a se)";493
+"asteptare";494
+"asterne pe hirtie (a)";495
+"asternut";496
+"astfel";497
+"astupa cu un dop (a)";498
+"asupri (a)";499
+"asuprit";500
+"asurzi (a)";501
+"ata";502
+"atac";503
+"atac banditesc";504
+"ataca (a)";505
+"atelier";506
+"atent";507
+"atentat";508
+"atentie";509
+"atenua (a)";510
+"aterizare";511
+"atinge (a)";512
+"atingere";513
+"atins";514
+"atipeala";515
+"atipi (a)";516
+"atirna (a)";517
+"atirnat";518
+"atita";519
+"atita (a)";520
+"atitudine";521
+"atractie";522
+"atractie turistica";523
+"atragatoare";524
+"atragator";525
+"atrage (a)";526
+"atribui (a)";527
+"atunci";528
+"au";529
+"auditie";530
+"aur";531
+"auriu";532
+"auster";533
+"autentic";534
+"auto viteza";535
+"autobuz";536
+"autograf";537
+"autohton";538
+"automobil";539
+"automultumire";540
+"autopsie";541
+"autor";542
+"autoritar";543
+"autoritate";544
+"autoritati";545
+"autoriza (a)";546
+"autorizat";547
+"autorizatie";548
+"autoservice";549
+"autosoc";550
+"autoturism";551
+"auxiliar";552
+"auz";553
+"auzi (a)";554
+"avangarda";555
+"avanpremiera";556
+"avantaj";557
+"avantajos";558
+"avarie";559
+"avea (a)";560
+"avea datorii (a)";561
+"avea voie (a)";562
+"aventura";563
+"aventuros";564
+"avere";565
+"avere mobila";566
+"aversa";567
+"aversiune";568
+"avertisment";569
+"avertiza (a)";570
+"aviator";571
+"avind in vedere";572
+"avint";573
+"avint economic";574
+"avion (trasantlantic)";575
+"avion cu reactie";576
+"avion de recunoastere";577
+"avocat";578
+"avocat pedant";579
+"avort";580
+"avorta (a)";581
+"azil";582
+"ba chiar";583
+"baba (rea)";584
+"babord";585
+"babornita";586
+"bac";587
+"bacan";588
+"bacanie";589
+"bacsis";590
+"badaran";591
+"baga in teaca (a)";592
+"baga(a se)";593
+"bagaje";594
+"bagaret";595
+"bagatela";596
+"bagheta";597
+"baiat";598
+"baiat bun";599
+"baiat de serviciu";600
+"baiete";601
+"baietos";602
+"bal mascat";603
+"balabani (a)(se)";604
+"balabani(a se)";605
+"balaceala";606
+"balaci(a se)";607
+"balama";608
+"balansoar";609
+"balaur";610
+"balcon";611
+"baldachin";612
+"balegar";613
+"balena";614
+"balerina";615
+"balot";616
+"balsam";617
+"baltag";618
+"baltat";619
+"baltoaca";620
+"balustrada";621
+"bambus";622
+"banal";623
+"banal(izat)";624
+"banaliza (a)";625
+"banc de nisip";626
+"banca";627
+"banda";628
+"bandaj";629
+"bandit";630
+"bani";631
+"bani (gheata)";632
+"banita";633
+"banuiala";634
+"banuitor";635
+"banut";636
+"bara";637
+"bara transversala";638
+"baraca";639
+"baragan";640
+"baragan cu ierburi";641
+"baraj";642
+"barba";643
+"barbar";644
+"barbarie";645
+"barbat";646
+"barbatesc";647
+"barbati";648
+"barbatie";649
+"barbatii";650
+"barbie";651
+"barbier";652
+"barbierit";653
+"barboteza";654
+"barca";655
+"barca cu fundul plat";656
+"bariera";657
+"baril";658
+"baroneasa";659
+"baronet";660
+"barou";661
+"basca";662
+"basica";663
+"basicuta";664
+"basm";665
+"basma";666
+"bastinas";667
+"baston";668
+"bataie";669
+"bataie (cu biciul)";670
+"bataie de cap";671
+"bataie usoara";672
+"bataios";673
+"batal";674
+"batalie";675
+"batatorit";676
+"bate (a)";677
+"bate cimpii (a)";678
+"bate pe burta(a se)";679
+"bate(a se)";680
+"baterea monezilor";681
+"baterie";682
+"baterist";683
+"batic";684
+"batjocori (a)";685
+"batjocoritor";686
+"batjocura";687
+"batjocura (obiect de)";688
+"batoza";689
+"batriior";690
+"batrin";691
+"batrinete";692
+"batut";693
+"batut de vinturi";694
+"bautura";695
+"bautura (alcoolica)";696
+"bautura (nealcoolica)";697
+"bautura alcoolica";698
+"bautura efervescenta";699
+"baza";700
+"bazar";701
+"beat";702
+"beat turta";703
+"bec";704
+"bec electric";705
+"becata";706
+"belciug";707
+"beletristica";708
+"belicos";709
+"belsug";710
+"bena";711
+"bentita";712
+"benzina";713
+"berbec";714
+"bere";715
+"beregata";716
+"beteala";717
+"betie";718
+"betivan";719
+"bibelou";720
+"biberon";721
+"biblioteca";722
+"bibliotecar";723
+"bici";724
+"bicicleta";725
+"biciui (a)";726
+"biciuire";727
+"bidinea";728
+"bidon";729
+"bifare";730
+"bifurcatie";731
+"bijbii (a)";732
+"bijbii (dupa) (a)";733
+"bijuterie";734
+"bijuterii";735
+"bijuterii false";736
+"bijutier";737
+"bilant";738
+"bilci";739
+"bilet";740
+"bilunar";741
+"bine";742
+"bine chibzuit";743
+"bine facut";744
+"bine fixat";745
+"bine format";746
+"binecrescut";747
+"binecuvinta (a)";748
+"binecuvintare";749
+"binevoitor";750
+"binisor";751
+"binoclu";752
+"birfa";753
+"birfeala";754
+"birfi (a)";755
+"birja";756
+"birou";757
+"biscuit";758
+"biserica";759
+"bisericesc";760
+"bisturiu";761
+"bivol";762
+"biziit";763
+"bizon";764
+"bizui(a se)";765
+"bizuire";766
+"blam";767
+"blana";768
+"blana (animale cu)";769
+"blana (cu)";770
+"blanar";771
+"blestem";772
+"blestema (a)";773
+"bleumarin";774
+"blid";775
+"blind";776
+"blindete";777
+"bling";778
+"bloc";779
+"bloca (a)";780
+"blugi";781
+"bluza";782
+"boala";783
+"bob";784
+"bob de mazare";785
+"bobina";786
+"bobinare";787
+"boboc";788
+"boboc de gisca";789
+"boccea";790
+"bocet";791
+"bogat";792
+"bogatie";793
+"bogatii";794
+"boiler";795
+"bol";796
+"bolboroseala";797
+"bolborosi (a)";798
+"bolnav";799
+"bolnav (incurabil)";800
+"bolnav de nervi";801
+"bolnav internat";802
+"bolnavicios";803
+"bolovan";804
+"bolt";805
+"bolta";806
+"bolta cerului";807
+"bolta de verdeata";808
+"bomba";809
+"bombarda (a)";810
+"bombastic";811
+"bomboana";812
+"bon";813
+"bon de cartela";814
+"boneta";815
+"bor";816
+"borangic";817
+"borcan";818
+"bord";819
+"bordura";820
+"boschete (ca gradina)";821
+"bot";822
+"boteza (a)";823
+"botnita";824
+"bou";825
+"box";826
+"boxa acuzatilor";827
+"boxer";828
+"bracona (a)";829
+"braconaj";830
+"braconier";831
+"brad";832
+"brandenburg";833
+"brat de picup";834
+"brat de riu";835
+"bratara";836
+"brava (a)";837
+"brazda";838
+"brazda (a)";839
+"breasla";840
+"breloc";841
+"breton";842
+"bricheta";843
+"brici";844
+"brindusa";845
+"brinza";846
+"briosa";847
+"britanic";848
+"briu";849
+"briza";850
+"broasca";851
+"broasca testoasa";852
+"broda (a)";853
+"broderie";854
+"bronzare";855
+"brosa";856
+"brosura";857
+"brosura.carticica";858
+"brotac";859
+"brusture";860
+"bruta";861
+"brutal";862
+"brutar";863
+"buba";864
+"bubuit";865
+"bubuitura";866
+"bucalat";867
+"bucata";868
+"bucata mare";869
+"bucata rotunda";870
+"bucatar";871
+"bucatarie";872
+"bucatarioara";873
+"bucatica";874
+"bucatica buna";875
+"buchet";876
+"bucla";877
+"bucle";878
+"bucluc";879
+"bucura (a)";880
+"bucura de(a se)";881
+"bucurie";882
+"bucuros";883
+"budinca";884
+"bufet";885
+"bufnita";886
+"bufnitura";887
+"bufon";888
+"buget";889
+"buimaci (a)";890
+"bujie";891
+"bujor";892
+"bulb";893
+"bulboana";894
+"bulevard";895
+"bulgar";896
+"bulgare";897
+"bumbac";898
+"bumbisor";899
+"bun";900
+"bun la gust";901
+"bun mobil";902
+"bun venit";903
+"bunastare";904
+"bunastiinta (cu)";905
+"bunatate";906
+"bunavointa";907
+"bunavointa (cu)";908
+"bune maniere";909
+"bunicuta";910
+"bunisor";911
+"bura (a)";912
+"burduf";913
+"burghez";914
+"buric";915
+"burnita";916
+"bursa";917
+"bursuc";918
+"burta (mare)";919
+"burta de vaca";920
+"burtica";921
+"buruiana";922
+"busel (cca 2 banite)";923
+"bustean";924
+"butas";925
+"butoi";926
+"butoias";927
+"butoniera";928
+"butuc";929
+"butucul rotii";930
+"buza";931
+"buza de deal";932
+"buzer";933
+"buzunar";934
+"cabana";935
+"cabina";936
+"cablu";937
+"cabrare";938
+"cacialma";939
+"cada";940
+"cadavru";941
+"cadea (a)";942
+"cadere";943
+"cadere(re)";944
+"cadou";945
+"cadran";946
+"cadre";947
+"cadril";948
+"cadru";949
+"cafenea";950
+"cafeniu";951
+"cai (de)(a se)";952
+"caier";953
+"caiet";954
+"caimac";955
+"cainta";956
+"caisa";957
+"cal";958
+"cal de calarie";959
+"cal de povara";960
+"cal sau masina de curse";961
+"cal(la sah)";962
+"calapod";963
+"calaret";964
+"calarie";965
+"calator";966
+"calatorie";967
+"calatorie pe apa";968
+"calau";969
+"calauza";970
+"calauzire";971
+"calca in picioare (a)";972
+"calcan";973
+"calcii";974
+"calcul";975
+"calcula (a)";976
+"cald";977
+"caldura";978
+"calduros";979
+"caldut";980
+"cale";981
+"calibru";982
+"calic";983
+"califica (a)";984
+"calificat";985
+"calit";986
+"calitate";987
+"calitate de membru";988
+"calitati";989
+"calitativ";990
+"calm";991
+"calomnie";992
+"calomnios";993
+"calugar";994
+"calugarita";995
+"calus";996
+"calusei";997
+"calut";998
+"calut de lemn";999
+"calvar";1000
+"cam pe unde";1001
+"camara";1002
+"camaruta";1003
+"camasa";1004
+"camata";1005
+"camatar";1006
+"camataresc";1007
+"cambula";1008
+"camera";1009
+"camera copiilor";1010
+"camera de baie";1011
+"camera de minge";1012
+"camfor";1013
+"camila";1014
+"camin";1015
+"camin ieftin sau gratuit";1016
+"camion";1017
+"camion de mobila";1018
+"campanie";1019
+"campion";1020
+"campionat";1021
+"camuflat";1022
+"cana";1023
+"cana sau sticla (de vin)";1024
+"canal";1025
+"canalizare";1026
+"canapea";1027
+"canava";1028
+"cancelar";1029
+"candel";1030
+"candelabru";1031
+"canditat propus";1032
+"cangur";1033
+"cantitate";1034
+"cantitate (mare)";1035
+"cap";1036
+"cap sec";1037
+"capa de blana";1038
+"capabil";1039
+"capac";1040
+"capacitate";1041
+"capastru";1042
+"capat";1043
+"capata (a)";1044
+"capatina";1045
+"capcana";1046
+"capcaun";1047
+"capela";1048
+"capetenie";1049
+"capita";1050
+"capital";1051
+"capitan";1052
+"capitol";1053
+"caporal";1054
+"capot";1055
+"capota";1056
+"capra";1057
+"capra neagra";1058
+"capra pentru gimnastica";1059
+"capricios";1060
+"capriciu";1061
+"caprioara";1062
+"capsa";1063
+"capsula";1064
+"captiva (a)";1065
+"captivitate";1066
+"captura";1067
+"captuseala";1068
+"captuseala groasa";1069
+"caputa";1070
+"car";1071
+"car alegoric";1072
+"cara (a)";1073
+"carabina";1074
+"caracatita";1075
+"caracter";1076
+"caracter daunator";1077
+"caracter definitiv";1078
+"caracter deschis";1079
+"caracter verosimil";1080
+"carafa";1081
+"caramela";1082
+"caramida";1083
+"carantina";1084
+"carapace";1085
+"caraus";1086
+"carbune";1087
+"care";1088
+"care dezbina";1089
+"care intra";1090
+"care merita";1091
+"care nu banuieste nimic";1092
+"care nu te angajeaza";1093
+"care pierde";1094
+"care se reface usor";1095
+"care tinjeste";1096
+"carena";1097
+"caricatura";1098
+"caricaturist";1099
+"cariera";1100
+"carne";1101
+"carne (moale)";1102
+"carne de berbec";1103
+"carne de caprioara";1104
+"carne de porc";1105
+"carne de vaca";1106
+"carne de vitel";1107
+"carne macra";1108
+"carne vie";1109
+"carnet( conducere)";1110
+"carnos";1111
+"caro";1112
+"carouri";1113
+"carpeta";1114
+"cart";1115
+"carta";1116
+"carte";1117
+"cartel";1118
+"cartier";1119
+"cartof";1120
+"carton";1121
+"carturar";1122
+"cartus";1123
+"carucior";1124
+"carucior de copil";1125
+"carunt";1126
+"carutas";1127
+"casa";1128
+"casa de bani";1129
+"casa de bilete";1130
+"casa de raport";1131
+"casa mare";1132
+"casa parohiala";1133
+"casact";1134
+"casatori (a)(se)";1135
+"casatorie";1136
+"casca";1137
+"cascat";1138
+"caseta";1139
+"casmir";1140
+"cast";1141
+"castan";1142
+"castaniu";1143
+"castel";1144
+"castor";1145
+"castravecior";1146
+"castravete";1147
+"castron";1148
+"castronas";1149
+"casuta";1150
+"casuta fara etaj";1151
+"casuta portarului";1152
+"cata";1153
+"catadicsi (a)";1154
+"cataplasma";1155
+"catar";1156
+"catara(a se)";1157
+"cataracta";1158
+"catarama";1159
+"catarg";1160
+"catea";1161
+"catedra";1162
+"categorie";1163
+"catel";1164
+"catelus";1165
+"catifea";1166
+"catifelat";1167
+"catir";1168
+"catrafuse";1169
+"catran";1170
+"catre";1171
+"catun";1172
+"catuse";1173
+"cauciuc";1174
+"cauciuc de roata";1175
+"caus";1176
+"caustic";1177
+"cauta (a)";1178
+"cautare";1179
+"cautatura urita";1180
+"cautiune";1181
+"cauza";1182
+"cavaler";1183
+"cavalerie";1184
+"cavalerism";1185
+"cavou";1186
+"caz";1187
+"cazan";1188
+"cazarma";1189
+"cazma";1190
+"ce";1191
+"ceafa";1192
+"ceai";1193
+"ceai dansant";1194
+"ceainic";1195
+"ceapa";1196
+"ceara";1197
+"cearsaf";1198
+"cearta";1199
+"ceas";1200
+"ceasca";1201
+"ceasca (ca volum)";1202
+"ceata";1203
+"ceata (cu fum)";1204
+"ceaun";1205
+"cec";1206
+"ceda (a)";1207
+"cedare";1208
+"ceh(a)";1209
+"cehoslovac(a)";1210
+"cei mai multi";1211
+"cel care coase";1212
+"cel ce numara";1213
+"cel mai de sus";1214
+"cel mai indepartat";1215
+"cel mai recent";1216
+"cel mai virstnic";1217
+"cel mult";1218
+"celalalt";1219
+"celebra (a)";1220
+"celebritate";1221
+"celebru";1222
+"celibat";1223
+"celibatar";1224
+"celula";1225
+"cent";1226
+"centru";1227
+"centura";1228
+"cenusa";1229
+"cenusiu";1230
+"cenzor";1231
+"cenzura";1232
+"cenzura (a)";1233
+"cer";1234
+"ceramica";1235
+"cerb";1236
+"cerb(batrin)";1237
+"cerc";1238
+"cerceta (a)";1239
+"cercetare";1240
+"cercetas";1241
+"cercevea";1242
+"cere (a)";1243
+"cere iertare (a-si)";1244
+"cere in casatorie (a)";1245
+"ceremonie";1246
+"ceremonios";1247
+"cerere";1248
+"ceresc";1249
+"cerinta";1250
+"cerne (a)(se)";1251
+"cerneala";1252
+"cersetor";1253
+"cersi (a)";1254
+"certa (a)";1255
+"certa(a se)";1256
+"certaret";1257
+"certitudine";1258
+"cerul gurii";1259
+"ceta";1260
+"cetate";1261
+"cetatean";1262
+"cetatenie";1263
+"cetos";1264
+"ceva";1265
+"cheag";1266
+"chef";1267
+"chef(uri)";1268
+"chefui (a)";1269
+"chei";1270
+"cheie";1271
+"chel";1272
+"chelalai (a)";1273
+"chelner";1274
+"chelnerita";1275
+"cheltuiala";1276
+"chema (a)";1277
+"chemare";1278
+"chenar";1279
+"cherchelit";1280
+"cherestea";1281
+"cherhana";1282
+"chezasie";1283
+"chiar";1284
+"chibrit";1285
+"chibzui (a)";1286
+"chibzuiala";1287
+"chibzuit";1288
+"chibzuita";1289
+"chicot";1290
+"chicoti (a)";1291
+"chicotit";1292
+"chilipir";1293
+"chiloti";1294
+"chiloti (de sport)";1295
+"chiloti de baie";1296
+"chimic";1297
+"chimie";1298
+"chimist";1299
+"chin";1300
+"chinui (a)";1301
+"chinuitor";1302
+"chinuri";1303
+"chior";1304
+"chior (cam)";1305
+"chiosc";1306
+"chip";1307
+"chiparos";1308
+"chipes";1309
+"chipurile";1310
+"chirci(a se)";1311
+"chirias";1312
+"chirpici";1313
+"chit";1314
+"chitanta";1315
+"chitara";1316
+"chitibus";1317
+"chitra";1318
+"chitui (a)";1319
+"chiul";1320
+"chiulangiu";1321
+"chiup";1322
+"chiuveta";1323
+"cicali (a)";1324
+"cicatrice";1325
+"ciclism";1326
+"ciclist";1327
+"ciclu";1328
+"cidru";1329
+"cifra";1330
+"cifru";1331
+"ciine (de vinatoare)";1332
+"ciine de vinatoare";1333
+"ciment";1334
+"cimp(de lupta)";1335
+"cimpie";1336
+"cimpoier";1337
+"cina";1338
+"cinci";1339
+"cinci(lire)";1340
+"cincilea (al)";1341
+"cincime";1342
+"cincizecea parte (a)";1343
+"cincizeci";1344
+"cind";1345
+"cind trebuie";1346
+"cindva";1347
+"cine";1348
+"cinema";1349
+"cinepa";1350
+"cinepar";1351
+"cineva";1352
+"cingatoare";1353
+"cinsprezece";1354
+"cinsprezecelea (al)";1355
+"cinste";1356
+"cinstit";1357
+"cinta";1358
+"cinta (a)";1359
+"cintar(deci-mal)";1360
+"cintare";1361
+"cintareata";1362
+"cintaret";1363
+"cintari (a)";1364
+"cintatul cocosului";1365
+"cintec";1366
+"cintec de leagan";1367
+"cioara";1368
+"ciob";1369
+"cioc de (pasare)";1370
+"ciocan";1371
+"ciocanit";1372
+"ciocanitoare";1373
+"ciocirlie";1374
+"ciocni(a se)";1375
+"ciocnire";1376
+"ciocoi";1377
+"ciomagi (a)";1378
+"ciondani(a se)";1379
+"ciopirti (a)";1380
+"ciopli (a)";1381
+"ciorap barbatesc";1382
+"ciorapi lungi";1383
+"ciorchine";1384
+"circ";1385
+"circel";1386
+"circiuma";1387
+"circiumar";1388
+"circiumaresa";1389
+"circula (a)";1390
+"circulatie";1391
+"circumspect";1392
+"cirdasie";1393
+"cireasa";1394
+"cires";1395
+"ciripi (a)";1396
+"ciripit";1397
+"cirja";1398
+"cirlig";1399
+"cirlig de rufe";1400
+"cirliont";1401
+"cirma";1402
+"cirmaci";1403
+"cirnat";1404
+"cirpa";1405
+"cirpaceala";1406
+"cirpaci";1407
+"cirpaci (a)";1408
+"cirpi (a)";1409
+"cirpi (ciorapi) (a)";1410
+"cirtita";1411
+"cismea";1412
+"cistig";1413
+"cistiga (a)";1414
+"cistiga prin truda (a)";1415
+"cistigator";1416
+"cit";1417
+"cit pe-aci";1418
+"cit pe-aici sa";1419
+"cita (a)";1420
+"citat";1421
+"citi (a)";1422
+"citi cu atentie (a)";1423
+"citire";1424
+"cititor";1425
+"citusi de putin";1426
+"ciucure";1427
+"ciuda";1428
+"ciudat";1429
+"ciudatenie";1430
+"ciuguli (a)";1431
+"ciulin";1432
+"ciuma";1433
+"ciung";1434
+"ciunti (a)";1435
+"ciuperca";1436
+"ciupit(ura)";1437
+"ciupitura";1438
+"ciupitura de varsat";1439
+"ciur";1440
+"civilizat";1441
+"cizela (a)";1442
+"cizma";1443
+"cizmar";1444
+"cladire";1445
+"claie peste gramada";1446
+"clama";1447
+"clantanit";1448
+"clapa";1449
+"clar";1450
+"clarifica (a)";1451
+"clasa";1452
+"clasifica (a)(se)";1453
+"clasificare";1454
+"clati (a)";1455
+"clatina (a)(se)";1456
+"clatina (pe picioare)(a se)";1457
+"clatina(a se)";1458
+"clatinare";1459
+"clatire";1460
+"clauza";1461
+"claxon";1462
+"claxona (a)";1463
+"clei";1464
+"cler";1465
+"cleste";1466
+"cleste de perforat";1467
+"cleste(de rac)";1468
+"clestisor";1469
+"client";1470
+"client obisnuit";1471
+"clientela";1472
+"clima";1473
+"climat ploios";1474
+"clinchet";1475
+"clinti(a se)";1476
+"clip";1477
+"clipa";1478
+"clipi (a)";1479
+"clipire";1480
+"clipit";1481
+"clisa";1482
+"cliseu";1483
+"cloci (a)";1484
+"clopot (sunet de)";1485
+"clopotnita";1486
+"clor";1487
+"closet";1488
+"clovn";1489
+"coace (a se)";1490
+"coace (a)(se)";1491
+"coada";1492
+"coada (la magazin)";1493
+"coaja";1494
+"coama";1495
+"coapsa";1496
+"coarda";1497
+"coarda (de sarit)";1498
+"coarne de cerb";1499
+"coasa";1500
+"coase (a)(se)";1501
+"coasta";1502
+"coata";1503
+"cobori (a)";1504
+"coborire";1505
+"coca-cola";1506
+"cochet";1507
+"cocheta";1508
+"cocheta (a)";1509
+"cocleala";1510
+"cocoasa";1511
+"cocon";1512
+"cocor";1513
+"cocos";1514
+"cocotare";1515
+"cocs";1516
+"cod(ice)";1517
+"codas";1518
+"codifica (a)";1519
+"codos";1520
+"codosi (a)";1521
+"codru";1522
+"coerent";1523
+"coicnire";1524
+"coif";1525
+"coji";1526
+"coji (a)";1527
+"coji(a se)";1528
+"colabora (a)";1529
+"colaborator";1530
+"colationa (a)";1531
+"colectie";1532
+"colectiv";1533
+"coleg";1534
+"colegiu";1535
+"coliba";1536
+"colibri";1537
+"colinda";1538
+"colindator";1539
+"colivie";1540
+"coloana";1541
+"colonist";1542
+"colonizare";1543
+"colorat";1544
+"colorit";1545
+"colos";1546
+"colporta (a)";1547
+"colt";1548
+"colt de stinca";1549
+"colturos";1550
+"comanda";1551
+"combativ";1552
+"combativitate";1553
+"combina";1554
+"combustibil";1555
+"comedie bufa";1556
+"comentariu";1557
+"comentator";1558
+"comercial";1559
+"comerciant";1560
+"comert";1561
+"comert cu amanuntul";1562
+"comestibil";1563
+"comic";1564
+"comis voiajor";1565
+"comision";1566
+"comitat";1567
+"comite (a)";1568
+"comod";1569
+"comotie";1570
+"compara (a)";1571
+"compartiment";1572
+"compensa (a)";1573
+"compensatie";1574
+"competenta";1575
+"competitie";1576
+"complet";1577
+"completa (a)";1578
+"complezenta";1579
+"complicat";1580
+"complicatie";1581
+"complice";1582
+"complimente";1583
+"complot";1584
+"comportare";1585
+"compresa";1586
+"compresor";1587
+"comprima (a)";1588
+"compus";1589
+"comun";1590
+"comunitate";1591
+"con";1592
+"conac";1593
+"concedia (a)";1594
+"concediere";1595
+"concediu";1596
+"concentra (a)(se)";1597
+"concentra(a se)";1598
+"concentrat";1599
+"concepe (a)";1600
+"conceptie";1601
+"conceptie (generala)";1602
+"conceptii largi";1603
+"concesiune";1604
+"concis";1605
+"concizie";1606
+"concluzie";1607
+"concretiza (a)";1608
+"concura (a)";1609
+"concurent";1610
+"concurs";1611
+"condamna";1612
+"condamna (a)";1613
+"condamnabil";1614
+"condamnat";1615
+"condensator";1616
+"condimentare";1617
+"conditia ca (cu)";1618
+"conditie esentiala";1619
+"conducator";1620
+"conducator de turma";1621
+"conduce (a)";1622
+"conducere";1623
+"conducta";1624
+"conductor de tren";1625
+"condurul-doamnei";1626
+"confectii";1627
+"conferentiar";1628
+"conferi (a)";1629
+"conferinta";1630
+"conferinta(geografica)";1631
+"confirma (a)";1632
+"confirmat";1633
+"confisca (a)";1634
+"confiscare";1635
+"conformism";1636
+"confort";1637
+"confort (sentiment de)";1638
+"confortabil";1639
+"confrati";1640
+"confuz";1641
+"confuzie";1642
+"congestionat";1643
+"congres";1644
+"conic";1645
+"conita";1646
+"conjunctura";1647
+"conopida";1648
+"consacra (a)(se)";1649
+"conserva";1650
+"conservator";1651
+"conserve";1652
+"consfinti (a)";1653
+"considera (a)";1654
+"consilier";1655
+"consola (a)";1656
+"consolare";1657
+"conspect";1658
+"consta (a)";1659
+"consta in (a)";1660
+"constant";1661
+"constanta";1662
+"constatari";1663
+"constient";1664
+"constiincios";1665
+"constiinta";1666
+"constipat";1667
+"constringe (a)";1668
+"constringere";1669
+"constructie";1670
+"constructii";1671
+"constructor";1672
+"construi (a)";1673
+"consulat";1674
+"consulta(a se)";1675
+"consultatie";1676
+"consumatie";1677
+"cont";1678
+"conta (a)";1679
+"contabil";1680
+"conte";1681
+"contempla (a)";1682
+"contesa";1683
+"contesta (a)";1684
+"contine (a)";1685
+"continent";1686
+"contingent";1687
+"continua (a)";1688
+"continuare";1689
+"continut";1690
+"continuu";1691
+"contopist";1692
+"contor";1693
+"contorsiune";1694
+"contra";1695
+"contra curentului";1696
+"contraacuzatie";1697
+"contrabalansa (a)";1698
+"contracara (a)";1699
+"contract";1700
+"contract de ucenie";1701
+"contragreutate";1702
+"contramanda (a)";1703
+"contramarca";1704
+"contrar";1705
+"contrast";1706
+"contraventie";1707
+"contrazice (a)";1708
+"contribui (cu) (a)";1709
+"control";1710
+"controlor";1711
+"controversa";1712
+"controversat";1713
+"contur";1714
+"contuzie";1715
+"convenabil";1716
+"convenabilitate";1717
+"conventie";1718
+"conventii";1719
+"conventional";1720
+"conversa (a)";1721
+"conversatie";1722
+"conversi(un)e";1723
+"convesatie";1724
+"convingator";1725
+"convinge (a)";1726
+"convingere";1727
+"convingere (putere de)";1728
+"convoca (a)";1729
+"convoi";1730
+"copie";1731
+"copil";1732
+"copil de pripas";1733
+"copil mic";1734
+"copil nelegitim";1735
+"copilaresc";1736
+"copilarie";1737
+"copilaros";1738
+"copilas";1739
+"copios";1740
+"copita";1741
+"coplesi (a)";1742
+"copoi";1743
+"copt";1744
+"cor";1745
+"corabioara";1746
+"corb";1747
+"corcitura";1748
+"corect";1749
+"corecta (a)";1750
+"corectitudine";1751
+"corespodent";1752
+"corespondent";1753
+"corespunzator";1754
+"corida";1755
+"corist";1756
+"corn";1757
+"cornet";1758
+"cornut";1759
+"coroana";1760
+"coroana funerara";1761
+"coronita";1762
+"coropcar";1763
+"corp de (armata)";1764
+"corpolent";1765
+"corporal";1766
+"corpuri legiuitoare";1767
+"corsaj";1768
+"cort";1769
+"cortina";1770
+"corupe (a)";1771
+"corupt";1772
+"coruptie";1773
+"corvoada";1774
+"cos";1775
+"cos (de vapor)";1776
+"cos de hirtii";1777
+"cos(pe fata)";1778
+"cosar";1779
+"cosas";1780
+"cosi (a)";1781
+"cosita";1782
+"cositor";1783
+"costisitor";1784
+"costita";1785
+"costul unui bilet de calatorie";1786
+"cosulet";1787
+"cot";1788
+"cot (unitate de masura)";1789
+"cota";1790
+"cotet (de ciine)";1791
+"coti (a)";1792
+"cotidian";1793
+"cotitura";1794
+"cotizatie";1795
+"cotlet";1796
+"cotlon";1797
+"cotofana";1798
+"cotor";1799
+"covasi(a se)";1800
+"covirsi (a)";1801
+"covirsitor";1802
+"covor";1803
+"cozoroc";1804
+"crab";1805
+"craciun";1806
+"crai";1807
+"crai-nou";1808
+"crampa";1809
+"craniu";1810
+"crantanit";1811
+"crap";1812
+"crapa de ziua(a se)";1813
+"crapatura";1814
+"cratima";1815
+"cratita";1816
+"cravasa";1817
+"cravata";1818
+"crea (a)";1819
+"creare";1820
+"creasta";1821
+"creator";1822
+"creatura";1823
+"crede (a)";1824
+"credincios";1825
+"credinta";1826
+"credit";1827
+"credul";1828
+"creier";1829
+"creion";1830
+"crema";1831
+"crema (neagra) de ghete";1832
+"crema de ghete";1833
+"crema de oua";1834
+"cremene";1835
+"crepuscul";1836
+"cresa";1837
+"cresta (a)";1838
+"crestatura";1839
+"creste (a)";1840
+"crestere";1841
+"cret";1842
+"creta";1843
+"cretin";1844
+"creton";1845
+"creuzet";1846
+"creveta";1847
+"crez";1848
+"crezare";1849
+"cric";1850
+"crima";1851
+"criminal";1852
+"criminalitate";1853
+"crin";1854
+"cring";1855
+"cripta";1856
+"cristal";1857
+"cristelnita";1858
+"criteriu";1859
+"critica";1860
+"critica (a)";1861
+"criza";1862
+"criza de nervi";1863
+"crizantema";1864
+"croaziera";1865
+"crocant";1866
+"crochet";1867
+"croi drum (a-si)";1868
+"croitor";1869
+"croitoreasa";1870
+"croitorie";1871
+"croncanit";1872
+"cronica";1873
+"cruce";1874
+"cruce de bariera";1875
+"cruciada";1876
+"crucis";1877
+"crucisator";1878
+"crud";1879
+"crunt";1880
+"crusta";1881
+"crustaceu";1882
+"cruta (a)";1883
+"cruzime";1884
+"ctitor";1885
+"ctiune (a)";1886
+"cub";1887
+"cubic";1888
+"cuc";1889
+"cuceri (a)";1890
+"cucerire";1891
+"cuceritor";1892
+"cucernic";1893
+"cucui";1894
+"cufar";1895
+"cufundare";1896
+"cugetator";1897
+"cui";1898
+"cuibari(a se)";1899
+"cuier";1900
+"cuint";1901
+"culca (a)";1902
+"culca(a se)";1903
+"culcat";1904
+"culcat pe burta";1905
+"culcus";1906
+"culege (a)";1907
+"culegere";1908
+"cules(al viei)";1909
+"culme";1910
+"culmina (a)";1911
+"culoar";1912
+"culoare";1913
+"culoare castanie";1914
+"culoare oliv";1915
+"cult";1916
+"cultiva (a)";1917
+"cultura";1918
+"cum";1919
+"cum se cuvine";1920
+"cum?";1921
+"cuminte";1922
+"cumnat";1923
+"cumpara (a)";1924
+"cumparator";1925
+"cumparatura";1926
+"cumpatare";1927
+"cumpatat";1928
+"cumplit";1929
+"cumva";1930
+"cunoaste (a)";1931
+"cunoaste bine (a)";1932
+"cunoastere";1933
+"cunoscator";1934
+"cunostinta";1935
+"cunostinte";1936
+"cuplu";1937
+"cupola";1938
+"cupon";1939
+"cuprinde (a)";1940
+"cuprindere";1941
+"cuprins";1942
+"cuprinzator";1943
+"cuptor";1944
+"curaj";1945
+"curajos";1946
+"curat";1947
+"curata (a)";1948
+"curatel";1949
+"curatenie";1950
+"curba";1951
+"curcubeu";1952
+"curea";1953
+"curelusa";1954
+"curent";1955
+"curge (a)";1956
+"curier";1957
+"curind";1958
+"curios";1959
+"curs";1960
+"cursa";1961
+"cursa de cai";1962
+"curse (de cai)";1963
+"curse de cai";1964
+"cursiv";1965
+"curta (a)";1966
+"curte";1967
+"curtezan";1968
+"cusatoreasa";1969
+"cusatura";1970
+"cusca";1971
+"cuseta";1972
+"custode";1973
+"cusut (haine de)";1974
+"cuta";1975
+"cute";1976
+"cuter";1977
+"cutie";1978
+"cutie de tinichea";1979
+"cutie postala";1980
+"cutit";1981
+"cutite";1982
+"cutreiera (a)";1983
+"cutremur";1984
+"cuva";1985
+"cuveni sa(a se)";1986
+"cuvenit";1987
+"cuvertura";1988
+"cuviincios";1989
+"cuvint";1990
+"cuvint de onoare";1991
+"cuvint de ordine";1992
+"cuvint(are)";1993
+"cuvintare";1994
+"cuvinte incrucisate";1995
+"da";1996
+"da (a)";1997
+"da (a)(re)";1998
+"da (o lovitura) (a)";1999
+"da cu imprumut (a)";2000
+"da cu sania(a se)";2001
+"da cu zgircenie (a)";2002
+"da roade (a)";2003
+"da uitarii (a)";2004
+"daca";2005
+"daca nu";2006
+"dactilografa";2007
+"dadaca";2008
+"dala";2009
+"dalta";2010
+"daltui (a)";2011
+"dama";2012
+"dama (ordinara)";2013
+"dana";2014
+"dangat";2015
+"dangat de clopot";2016
+"dangat(funerar)";2017
+"dans";2018
+"dansator";2019
+"dantela";2020
+"dar";2021
+"darac";2022
+"darima (a)";2023
+"darimare";2024
+"data";2025
+"datina";2026
+"dator";2027
+"datora (a)";2028
+"datorat";2029
+"datorie";2030
+"datorie (baneasca)";2031
+"datorii";2032
+"datorii (a avea)";2033
+"datorita";2034
+"datornic";2035
+"daunare";2036
+"daunator";2037
+"daune";2038
+"de acord (a fi)";2039
+"de aici";2040
+"de aici (inainte)";2041
+"de alama";2042
+"de asemenea";2043
+"de atunci";2044
+"de atunci incoace";2045
+"de aur";2046
+"de basm";2047
+"de bun gust";2048
+"de colo";2049
+"de conceput";2050
+"de conversatie";2051
+"de culoare";2052
+"de curind";2053
+"de dedesubt";2054
+"de demult";2055
+"de dorit";2056
+"de doua ori";2057
+"de dragul sau hatirul meu";2058
+"de farsa";2059
+"de femeie";2060
+"de fiecare";2061
+"de fier";2062
+"de fildes";2063
+"de gasit";2064
+"de griu";2065
+"de in";2066
+"de incredere";2067
+"de inteles";2068
+"de invidiat";2069
+"de jos";2070
+"de la";2071
+"de la care";2072
+"de lapte";2073
+"de lemn";2074
+"de lina";2075
+"de locuit";2076
+"de lup";2077
+"de lupta";2078
+"de matase";2079
+"de mijloc";2080
+"de mimica";2081
+"de nadejde";2082
+"de neatins";2083
+"de neconceput";2084
+"de necrezut";2085
+"de necucerit";2086
+"de nedescris";2087
+"de neiertat";2088
+"de neinteles";2089
+"de nemincat";2090
+"de nerecunoscut";2091
+"de nerezolvat";2092
+"de nesomn";2093
+"de nesters";2094
+"de netagaduit";2095
+"de netrecut";2096
+"de neuitat";2097
+"de nord";2098
+"de obicei";2099
+"de ocazie";2100
+"de pe";2101
+"de pe vremuri";2102
+"de peste";2103
+"de prisos";2104
+"de prost gust";2105
+"de pustnic";2106
+"de rau augur";2107
+"de stejar";2108
+"de sus";2109
+"de trei ori";2110
+"de umplutura";2111
+"de unde";2112
+"de vis";2113
+"de vizita";2114
+"de) interior";2115
+"de-a pururi";2116
+"deal";2117
+"deasupra";2118
+"deasupra capului";2119
+"debarca (a)";2120
+"debarcader";2121
+"debarcare";2122
+"debreia (a)";2123
+"debuseu";2124
+"decadere";2125
+"decalaj";2126
+"decan";2127
+"decantare";2128
+"decapita (a)";2129
+"deceda (a)";2130
+"deceniu";2131
+"deceniul al optulea";2132
+"deceniul al saptelea";2133
+"deceniul al treilea";2134
+"decent";2135
+"decenta";2136
+"deces";2137
+"decis";2138
+"decit";2139
+"decizie";2140
+"declama (a)";2141
+"declara (a)";2142
+"declara (o nastere) (a)";2143
+"declaratie";2144
+"declin";2145
+"decodor";2146
+"decolare";2147
+"decolora (a)(se)";2148
+"decolora(a se)";2149
+"decolorat";2150
+"decor";2151
+"decora (a)";2152
+"decret";2153
+"decreta (a)";2154
+"dedesubt";2155
+"dedica (a)";2156
+"deduce (a)";2157
+"deductie";2158
+"defaima (a)";2159
+"defaimare";2160
+"defect";2161
+"defectiv";2162
+"deficient";2163
+"deficient(mintal)";2164
+"defileu";2165
+"defini (a)";2166
+"definitiv";2167
+"definitiva (a)";2168
+"deforma (a)";2169
+"deformat";2170
+"deformitate";2171
+"defunct";2172
+"degeratura";2173
+"deget";2174
+"deget de la picior";2175
+"degetar";2176
+"degetul mare";2177
+"deghiza (a)";2178
+"degradant";2179
+"deinapoiere";2180
+"deja";2181
+"dejun";2182
+"delapida (a)";2183
+"delegat";2184
+"delegatie";2185
+"delfin";2186
+"delicat";2187
+"delicatese";2188
+"delicatete";2189
+"delicios";2190
+"demasca (a)";2191
+"demasca (a)(se)";2192
+"demascare";2193
+"dement";2194
+"dementa";2195
+"demisie";2196
+"demisiona din (a)";2197
+"demisionar";2198
+"demite (a)";2199
+"demiu";2200
+"demn";2201
+"demn de crezare";2202
+"demn de incredere";2203
+"demnitar";2204
+"demnitate";2205
+"demodat";2206
+"demonta (a)";2207
+"dens";2208
+"denunta (a)";2209
+"denuntare";2210
+"deoparte";2211
+"deosebi(a se)";2212
+"deosebit";2213
+"departe";2214
+"departe de tarm";2215
+"depasi (a)";2216
+"dependinta";2217
+"depinde (a)";2218
+"deplasat";2219
+"deplinge (a)";2220
+"deporta (a)";2221
+"deposeda (a)";2222
+"depou";2223
+"depozit";2224
+"deprecia (a)";2225
+"depresiune";2226
+"deprima (a)";2227
+"deprimare";2228
+"deprimat";2229
+"deprinde (a)";2230
+"deprinde(a se)";2231
+"depunere";2232
+"deranj(are)";2233
+"deranja (a)";2234
+"derapa (a)";2235
+"derbi";2236
+"desaga";2237
+"desamna (a)";2238
+"desavirsi (a)";2239
+"desavirsit";2240
+"descarca (a)";2241
+"descarcare";2242
+"descatusa (a)";2243
+"descendent";2244
+"descendenti";2245
+"descheia (a)";2246
+"deschide (a)";2247
+"deschide ghilimelele (a)";2248
+"deschidere";2249
+"deschis";2250
+"deschizator";2251
+"deschizatura";2252
+"descifra (a)";2253
+"descompune (a)(se)";2254
+"descompunere";2255
+"desconsiderare";2256
+"descoperi (a)";2257
+"descoperi (a)(se)";2258
+"descoperire";2259
+"descrestere";2260
+"descrie (a)";2261
+"descuia (a)";2262
+"descuraja (a)";2263
+"descurajat";2264
+"descurca (a)";2265
+"descurca(a se)";2266
+"deseara";2267
+"desen";2268
+"desen animat";2269
+"desena (a)";2270
+"desenator";2271
+"desert";2272
+"deseuri";2273
+"desface (a)";2274
+"desfacere";2275
+"desfacut";2276
+"desfasura (a)";2277
+"desfasura (a)(se)";2278
+"desfasurare";2279
+"desfata(a se)";2280
+"desfide (a)";2281
+"desfiinta (a)";2282
+"desfrinat";2283
+"desfriu";2284
+"desfrunzit";2285
+"desi";2286
+"desirat";2287
+"desolidariza(a se)";2288
+"despacheta (a)";2289
+"despadurit";2290
+"despagubi (a)";2291
+"despagubire";2292
+"desparti (a)";2293
+"despartire";2294
+"despartit";2295
+"despartitura";2296
+"desperat";2297
+"desperecheat";2298
+"despica (a)";2299
+"despicatura";2300
+"despleti (a)";2301
+"desprinde (a)";2302
+"despuiat";2303
+"destainui (a)(se)";2304
+"destept";2305
+"destin";2306
+"destinat";2307
+"destrabalat";2308
+"destrama (a)(se)";2309
+"destui";2310
+"destul (de)";2311
+"destupa (a)";2312
+"detalia (a)";2313
+"detaliu";2314
+"detasa (a)";2315
+"detasament";2316
+"detasament de asalt";2317
+"detectiv";2318
+"determina (a)";2319
+"determinant";2320
+"determinare";2321
+"detesta (a)";2322
+"detinator";2323
+"detine (a)";2324
+"deturna (fonduri) (a)";2325
+"deveni (a)";2326
+"dever";2327
+"deviz";2328
+"deviza";2329
+"devora (a)";2330
+"devotat";2331
+"devreme";2332
+"dezacord";2333
+"dezagreabil";2334
+"dezamagi (a)";2335
+"dezamagire";2336
+"dezapraba (a)";2337
+"dezaproba (a)";2338
+"dezaprobare";2339
+"dezarma (a)";2340
+"dezastru";2341
+"dezastruos";2342
+"dezavantaj";2343
+"dezbara de(a se)";2344
+"dezbate (a)";2345
+"dezbatere";2346
+"dezbateri";2347
+"dezbina (a)";2348
+"dezbina (a)(se)";2349
+"dezbraca (a)";2350
+"dezbracat";2351
+"dezdoi (a)(se)";2352
+"dezechilibrat";2353
+"dezerta (a)";2354
+"dezertare";2355
+"dezghet";2356
+"dezgropa (a)";2357
+"dezgust";2358
+"dezgusta (a)";2359
+"dezgustator";2360
+"deziluzie";2361
+"dezinforma (a)";2362
+"dezinteresat";2363
+"dezlega (a)";2364
+"dezminti (a)";2365
+"dezmosteni (a)";2366
+"deznadejde";2367
+"dezonora (a)";2368
+"dezordine";2369
+"dezordonat";2370
+"dezradacina (a)";2371
+"dezvalui";2372
+"dezvalui (a)";2373
+"dezvaluire";2374
+"dezvinovati (a)";2375
+"dezvolta (a)";2376
+"dezvolta (a)(se)";2377
+"dezvoltare";2378
+"diabolic";2379
+"diafragma";2380
+"dialect";2381
+"dialect londonez";2382
+"diamant";2383
+"diaree";2384
+"diavol";2385
+"dibaci";2386
+"dicta (a)";2387
+"dictatura";2388
+"dieta";2389
+"diferenta";2390
+"diferit";2391
+"dificil";2392
+"dificultate";2393
+"diform";2394
+"dig";2395
+"dig portuar";2396
+"digera (a)";2397
+"dijma";2398
+"dilema";2399
+"diligenta";2400
+"dimineata";2401
+"diminua (a)";2402
+"dimpotriva";2403
+"din (pricina)";2404
+"din auzite";2405
+"din belsug";2406
+"din cind in cind";2407
+"din familie";2408
+"din fericire";2409
+"din git";2410
+"din inima";2411
+"din nou";2412
+"din ora in ora";2413
+"din partea";2414
+"din spate";2415
+"dinafara";2416
+"dinainte stabilit";2417
+"dinam";2418
+"dinamica";2419
+"dincolo";2420
+"dinspre fundul scenei";2421
+"dinspre sud";2422
+"dinspre tarm";2423
+"dinte";2424
+"dira";2425
+"direct";2426
+"director";2427
+"disc (la telefon)";2428
+"discordant";2429
+"discordie";2430
+"discredita (a)";2431
+"discretie";2432
+"discuta (a)";2433
+"discutabil";2434
+"discutie";2435
+"discutie (deschisa)";2436
+"disparea (a)";2437
+"disparent";2438
+"dispensa";2439
+"displacea (a)";2440
+"disponibil";2441
+"dispozitie";2442
+"dispozitiv";2443
+"dispret";2444
+"dispretui (a)";2445
+"dispretuitor";2446
+"disproportionat";2447
+"dispune (a)";2448
+"distant";2449
+"distanta";2450
+"distila (a)(se)";2451
+"distinc";2452
+"distinctie";2453
+"distinctiv";2454
+"distinge (a)";2455
+"distinge (a)(se)";2456
+"distins";2457
+"distra (a)";2458
+"distra(a se)";2459
+"distractie";2460
+"distractiv";2461
+"distrage (a)";2462
+"distragere";2463
+"distribui (a)";2464
+"district";2465
+"distrugator";2466
+"distruge (a)";2467
+"distrugere";2468
+"distrus";2469
+"disuada (a)";2470
+"disuadare";2471
+"divagatie";2472
+"divan";2473
+"diversi";2474
+"diversitate";2475
+"diversiune";2476
+"divin";2477
+"divort";2478
+"dizenterie";2479
+"dizgratie";2480
+"dizgratios";2481
+"dizolva (a)(se)";2482
+"dizolvant";2483
+"dizolvare";2484
+"doamna";2485
+"doar";2486
+"dobori (a)";2487
+"doc";2488
+"docar";2489
+"docil";2490
+"doctor";2491
+"doctorand";2492
+"doctorie";2493
+"dogar";2494
+"doi";2495
+"doi penny";2496
+"doica";2497
+"doilea (al)";2498
+"doisprezece";2499
+"doisprezecime";2500
+"dojana";2501
+"dolar";2502
+"doliu";2503
+"dolofan";2504
+"dolofana";2505
+"dom";2506
+"domeniu";2507
+"domiciliu";2508
+"domina (a)";2509
+"dominant";2510
+"dominion";2511
+"domn";2512
+"domnie";2513
+"domnisoara";2514
+"domnule";2515
+"domnului";2516
+"dona (a)";2517
+"donatie";2518
+"dop";2519
+"dopaj";2520
+"dor";2521
+"dor(inta)";2522
+"dori (a)";2523
+"dorinta";2524
+"doritor";2525
+"dormi prea mult (a)";2526
+"dos";2527
+"dosar";2528
+"dota";2529
+"doua duzini";2530
+"doua puncte";2531
+"doua saptamini";2532
+"douazeci";2533
+"dovedi (a)";2534
+"dovedi (a)(se)";2535
+"dovedire";2536
+"dovezi";2537
+"dovleac";2538
+"dovlecel";2539
+"doza";2540
+"drac";2541
+"dracesc";2542
+"dracul";2543
+"dracusor";2544
+"drag";2545
+"draga inima (cu)";2546
+"dragalasenie";2547
+"dragastos";2548
+"dragoste";2549
+"dragoste nebuna";2550
+"dragut";2551
+"dram";2552
+"drama medievala";2553
+"drapel";2554
+"dreapta";2555
+"dregator";2556
+"drept";2557
+"drept care";2558
+"drept de preferinta";2559
+"drept de vot";2560
+"dreptate";2561
+"drepti!";2562
+"dreptunghi";2563
+"drepturi cetatenesti";2564
+"drog";2565
+"drojdie";2566
+"drojdie (de bere)";2567
+"drojdie (de cafea)";2568
+"drug";2569
+"drum";2570
+"drum lateral";2571
+"duba";2572
+"dubios";2573
+"dublare";2574
+"dublu";2575
+"duce";2576
+"duce (a)";2577
+"duce pe o cale gresita (a)";2578
+"duce sa aduca(a se)";2579
+"ducesa";2580
+"dud(a)";2581
+"duduit";2582
+"duel";2583
+"duh";2584
+"duh(rau sau bun)";2585
+"duhni (a)";2586
+"dulap";2587
+"dulapior (de vestiar)";2588
+"dulau";2589
+"dulce";2590
+"dulceata";2591
+"dulceata de citrice";2592
+"dulceg";2593
+"dulceturi";2594
+"dulgher";2595
+"dulie";2596
+"dumbrava";2597
+"dumneata";2598
+"duna";2599
+"dunga";2600
+"dupa cum se spune";2601
+"dupa mama";2602
+"dupa tata";2603
+"durabil";2604
+"durata";2605
+"durere";2606
+"dureri(ale facerii)";2607
+"dureros";2608
+"dus";2609
+"dus pe ginduri (a fi)";2610
+"dusca";2611
+"dusman";2612
+"dusmanie";2613
+"dusmanos";2614
+"dusumea";2615
+"duzina";2616
+"ea";2617
+"echilibru";2618
+"echinoctiu";2619
+"echipa";2620
+"echipa (a)";2621
+"echipa de fotbal";2622
+"echipa de rugbi";2623
+"echipaj";2624
+"echipament";2625
+"echitabil";2626
+"echivalent";2627
+"eclipsa";2628
+"ecluza";2629
+"econom";2630
+"economic";2631
+"economie";2632
+"economie (politica)";2633
+"economie politica";2634
+"economisi (a)";2635
+"ecou";2636
+"ecran";2637
+"ecraniza (a)";2638
+"ecuator";2639
+"editie";2640
+"editie noua";2641
+"editor";2642
+"eduactiv";2643
+"educa (a)";2644
+"educatie";2645
+"efect";2646
+"efect contrar";2647
+"efectiv";2648
+"efemer";2649
+"efeminat";2650
+"eficace";2651
+"eficacitate";2652
+"efort";2653
+"efrwerwer";2654
+"egal";2655
+"egalitate";2656
+"egocentric";2657
+"egoism";2658
+"egoist";2659
+"egrena (a)";2660
+"ei";2661
+"ei?";2662
+"el";2663
+"elaborat cu grija";2664
+"elan";2665
+"elastic";2666
+"ele";2667
+"elector";2668
+"electrifica";2669
+"electriza (a)";2670
+"elegant";2671
+"eleganta";2672
+"element";2673
+"element galvanic";2674
+"elesteu";2675
+"elev";2676
+"elev intern";2677
+"eleva la o scoala mixta";2678
+"elevator";2679
+"elibera (a)";2680
+"elibera (a)(se)";2681
+"eliberare";2682
+"elice";2683
+"elimina (a)";2684
+"elocinta";2685
+"elocvent";2686
+"eluda (a)";2687
+"email";2688
+"emaila (a)";2689
+"emana (a)";2690
+"emancipa (a)";2691
+"emigra (a)";2692
+"emisar";2693
+"emisie";2694
+"emisiune de televiziune";2695
+"emitator portativ";2696
+"emite (a)";2697
+"emotie";2698
+"emotiona (a)";2699
+"emotionant";2700
+"emotionat";2701
+"energic";2702
+"energie";2703
+"enerva (a)";2704
+"enervent";2705
+"englezesc";2706
+"enigma";2707
+"enorias";2708
+"enoriasi";2709
+"enormitate";2710
+"entitate";2711
+"entuziasm";2712
+"entuziasmat";2713
+"entuziast";2714
+"enumera (a)";2715
+"enunt";2716
+"enunta (a)";2717
+"epava";2718
+"epidemie";2719
+"episcop";2720
+"episod";2721
+"epitrop";2722
+"epoca";2723
+"epopee";2724
+"epuiza (a)";2725
+"epurare";2726
+"era";2727
+"erata";2728
+"erete";2729
+"eretic";2730
+"eroina";2731
+"eroism";2732
+"erou";2733
+"esafodaj";2734
+"esapament";2735
+"esarfa";2736
+"escadrila";2737
+"escala";2738
+"eschiva";2739
+"eschiva(a se)";2740
+"eschivare";2741
+"escorta";2742
+"escorta (a)";2743
+"escroc";2744
+"esec";2745
+"esenta";2746
+"esential";2747
+"esesnta";2748
+"eseu";2749
+"estompa (a)";2750
+"estrada";2751
+"esua (a)";2752
+"etaj";2753
+"etala (a)";2754
+"etalon";2755
+"eter";2756
+"eteric";2757
+"etern";2758
+"eticheta";2759
+"eticheta (a)";2760
+"eticheta (reguli de)";2761
+"evacua (a)";2762
+"evacuare";2763
+"evadare";2764
+"evalua (a)";2765
+"evaluare";2766
+"evanghelie";2767
+"evantai";2768
+"evapora (a)(se)";2769
+"evazionist";2770
+"eveniment";2771
+"eventual";2772
+"eventualitate";2773
+"evident";2774
+"evita (a)";2775
+"evoca (a)";2776
+"evocator";2777
+"exact";2778
+"exagera (a)";2779
+"exagerare";2780
+"exagerat";2781
+"exala (a)";2782
+"examen";2783
+"exaspera (a)";2784
+"excela (a)";2785
+"excelent";2786
+"excentric";2787
+"excepta (a)";2788
+"exceptie";2789
+"exces";2790
+"excesiv";2791
+"excita (a)";2792
+"excitant";2793
+"exclama (a)";2794
+"exclude (a)";2795
+"excludere";2796
+"exclusiv";2797
+"exclusivist";2798
+"excrescenta";2799
+"excursie";2800
+"executant";2801
+"exemplar";2802
+"exemplifica (a)";2803
+"exemplu";2804
+"exercita (a)";2805
+"exercitare";2806
+"exercitiu";2807
+"exigent";2808
+"exigenta";2809
+"exil";2810
+"exilat";2811
+"exista (a)";2812
+"existent";2813
+"existenta";2814
+"exod";2815
+"exotic";2816
+"expedia (a)";2817
+"expedient";2818
+"expediere";2819
+"expeditor";2820
+"experienta";2821
+"expira (a)";2822
+"explica (a)";2823
+"explicatie";2824
+"explicativ";2825
+"exploata (a)";2826
+"explorare";2827
+"explorator";2828
+"explozie";2829
+"exponat";2830
+"exporta (a)";2831
+"expozitie";2832
+"expres";2833
+"expresie";2834
+"expresiv";2835
+"exprimare";2836
+"expulzare";2837
+"expune (a)";2838
+"expunere";2839
+"extaz";2840
+"exterior";2841
+"exterminare";2842
+"extern";2843
+"extinde (a)";2844
+"extrage (a)";2845
+"extragere";2846
+"extraordinar";2847
+"extras";2848
+"extravagant";2849
+"extrem";2850
+"extrem de";2851
+"extrem(ist)";2852
+"extrema";2853
+"extremitate";2854
+"exuberant";2855
+"exulta (a)";2856
+"ezitare";2857
+"fabrica";2858
+"fabrica (a)";2859
+"fabrica de bere";2860
+"fabricant";2861
+"fabricat";2862
+"fabricatie";2863
+"fabula";2864
+"face (afaceri) (a)";2865
+"face aluzie (a)";2866
+"face ca sticla (a)(se)";2867
+"face capabil (a)";2868
+"face cercetari (a)";2869
+"face comentarii (a)";2870
+"face discriminari (a)";2871
+"face elegant (a)(se)";2872
+"face fata la (a)";2873
+"face mic(a se)";2874
+"face o excursie (a)";2875
+"face o plecaciune (a)";2876
+"face ochi dulci (a)";2877
+"face parte din (a)";2878
+"face pe grozavul (a)";2879
+"face pe plac (a)";2880
+"face posibil (a)";2881
+"face propaganda (a)";2882
+"face ravagii (a)";2883
+"face reclama (a)";2884
+"face repetitii (a)";2885
+"face sa cunoas (a)";2886
+"face sa fie indragit (a)";2887
+"face sa palpite (a)";2888
+"face sa taca (a)";2889
+"face sa treaca (a)";2890
+"face sa treaca timp (a)";2891
+"face sa vibreze (a)";2892
+"face semn cu mina (a)";2893
+"face speculatii (a)";2894
+"face triluri (a)";2895
+"face turism (a)";2896
+"facil";2897
+"factor";2898
+"factura";2899
+"factura (a)";2900
+"facultate (profesori la)";2901
+"facultativ";2902
+"facut fara voie";2903
+"facut la intimplare";2904
+"facut la noroc";2905
+"fag";2906
+"fagas";2907
+"fagure";2908
+"faianta";2909
+"faima";2910
+"faima proasta";2911
+"faina";2912
+"fainos";2913
+"falca";2914
+"falca (de jos)";2915
+"faleza";2916
+"fali(a se)";2917
+"faliment";2918
+"falit";2919
+"fals";2920
+"fals(ficare)";2921
+"fals(itate)";2922
+"falsifica (a)";2923
+"falsificat";2924
+"falsitate";2925
+"familiar";2926
+"familiaritate";2927
+"familiariza (a)";2928
+"familie regala";2929
+"fanatic";2930
+"fantezie";2931
+"fantezist";2932
+"fantoma";2933
+"fapt(a)";2934
+"fapta";2935
+"fapta (mareata)";2936
+"fapta glorioasa";2937
+"faptuitor";2938
+"far";2939
+"fara";2940
+"fara acoperamint sau adapost";2941
+"fara adapost";2942
+"fara alinare";2943
+"fara aparare";2944
+"fara barba";2945
+"fara ceremonie/protocol";2946
+"fara chef";2947
+"fara copii";2948
+"fara culoare";2949
+"fara cunostinta";2950
+"fara dinti";2951
+"fara doar si poate";2952
+"fara efect";2953
+"fara expresie";2954
+"fara fir";2955
+"fara glas";2956
+"fara graba";2957
+"fara gust";2958
+"fara gust sau haz";2959
+"fara indoiala";2960
+"fara inima";2961
+"fara invatatura";2962
+"fara legatura";2963
+"fara nori";2964
+"fara oprire/pauza";2965
+"fara ostentatie";2966
+"fara pereche";2967
+"fara rezervare";2968
+"fara rezerve";2969
+"fara rival";2970
+"fara scoala";2971
+"fara scrupule";2972
+"fara seaman";2973
+"fara sens";2974
+"fara speranta";2975
+"fara suflare";2976
+"fara valoare";2977
+"fara viata";2978
+"fara voie";2979
+"fara voie facut";2980
+"faradelege";2981
+"fard";2982
+"farfurie";2983
+"farfurioara";2984
+"farima";2985
+"farimita (a)";2986
+"farmacist";2987
+"farmec";2988
+"farsa";2989
+"fascicol";2990
+"fascicul";2991
+"fasole";2992
+"fata";2993
+"fata (a)";2994
+"fata (in casa)";2995
+"fata baietoasa";2996
+"fata curata (cu)";2997
+"fata de";2998
+"fata frumoasa";2999
+"fatada";3000
+"fatal";3001
+"fatarnic";3002
+"fatarnicie";3003
+"fateta";3004
+"fatis";3005
+"fault";3006
+"fauri (a)";3007
+"favoare";3008
+"favorabil";3009
+"favoriti";3010
+"favoriza (a)";3011
+"faza";3012
+"fazan";3013
+"fbra tifoida";3014
+"febra";3015
+"febril";3016
+"fecioara";3017
+"feciorelnic";3018
+"feciorie";3019
+"fecund";3020
+"federal";3021
+"federalist";3022
+"federat";3023
+"fel";3024
+"fel de mincare";3025
+"felicita (a)(se)";3026
+"felie";3027
+"felina";3028
+"felinar";3029
+"feliuta";3030
+"femeie";3031
+"femeie cicalitoare";3032
+"femeie cu ziua";3033
+"femeie frumoasa";3034
+"femeie sleampata";3035
+"femeie usoara";3036
+"femela";3037
+"femela unor pasari";3038
+"feminin";3039
+"ferastrau";3040
+"fereastra";3041
+"feri (a)";3042
+"ferici (a)";3043
+"fericire";3044
+"fericit";3045
+"feriga";3046
+"ferit";3047
+"ferit de primejdie";3048
+"ferit de rasfat";3049
+"ferm";3050
+"ferma";3051
+"ferma (de animale)";3052
+"fermecator";3053
+"fermitate";3054
+"fermoar";3055
+"feroce";3056
+"fese";3057
+"festival";3058
+"fetiscana";3059
+"fetru";3060
+"feudalism";3061
+"fi (a)";3062
+"fiara";3063
+"fibra";3064
+"ficat";3065
+"fictiv";3066
+"fidea";3067
+"fiecare";3068
+"fier de calcat";3069
+"fier(de calcat sau coafat)";3070
+"fierar";3071
+"fierarie";3072
+"fierbe (a)";3073
+"fierbe la foc mic(a se)";3074
+"fierbere";3075
+"fierbinte";3076
+"fierbinteala";3077
+"fiere";3078
+"fiertura";3079
+"figura de stil";3080
+"figurant";3081
+"figurat";3082
+"figuri de stil";3083
+"fiica";3084
+"fiinta";3085
+"filantrop";3086
+"filantropic";3087
+"fildes";3088
+"file de muschi";3089
+"filfii (a)";3090
+"filfiit";3091
+"filfizon";3092
+"filiala";3093
+"filigran";3094
+"film";3095
+"film de lung metraj";3096
+"film de scurt metraj";3097
+"film politist";3098
+"film sonor";3099
+"filon";3100
+"filtru";3101
+"final";3102
+"finala";3103
+"finanta (a)";3104
+"finante";3105
+"finete";3106
+"finisaj";3107
+"finit";3108
+"fintina";3109
+"fiola";3110
+"fior";3111
+"fioros";3112
+"fir";3113
+"fir (de par)";3114
+"fir cu plumb";3115
+"fir de iarba";3116
+"fir de praf";3117
+"fir dus (la ciorapi)";3118
+"fir(tors)";3119
+"firav";3120
+"fire";3121
+"fireste";3122
+"firimitura";3123
+"firma";3124
+"fisa";3125
+"fisa de telefon";3126
+"fiscalitate";3127
+"fisii (a)";3128
+"fitil";3129
+"fituica";3130
+"fiu";3131
+"fix";3132
+"fixa (a)";3133
+"fixator";3134
+"fizic";3135
+"fizica";3136
+"fizician";3137
+"flacara";3138
+"flacau";3139
+"flagel";3140
+"flamind";3141
+"flamind (ca un lup)";3142
+"flaminzi (a)";3143
+"flanc";3144
+"flanela";3145
+"flaut";3146
+"fleac";3147
+"fleacuri";3148
+"flecar";3149
+"flecareala";3150
+"flecari (a)";3151
+"flexibil";3152
+"flinta";3153
+"floare";3154
+"floare a unui pom";3155
+"flocos";3156
+"florareasa";3157
+"flota";3158
+"fluier";3159
+"fluierar";3160
+"fluierat";3161
+"fluierul piciorului";3162
+"flutura (a)";3163
+"fluturare";3164
+"fluturat";3165
+"fluture";3166
+"fluviu";3167
+"foaie";3168
+"foale";3169
+"foame";3170
+"foamete";3171
+"foarfece";3172
+"foarte";3173
+"foarte (mult)";3174
+"foarte cald";3175
+"foarte generos";3176
+"foarte important";3177
+"foarte mult";3178
+"foc";3179
+"foc de arma";3180
+"foc de artificii";3181
+"focar";3182
+"focuri";3183
+"foita metalica";3184
+"folos";3185
+"folosi (a)";3186
+"folosire";3187
+"folosire gresita";3188
+"folositor";3189
+"fond";3190
+"fond comun";3191
+"fonograf";3192
+"fonta";3193
+"forai (a)";3194
+"foraiala";3195
+"foraibar";3196
+"forja";3197
+"forja (a)";3198
+"forma";3199
+"formal";3200
+"format";3201
+"formular";3202
+"formulare";3203
+"fornait";3204
+"forta";3205
+"forta (a)";3206
+"fortareata";3207
+"fortat";3208
+"fosnet";3209
+"fosni (a)";3210
+"fost";3211
+"fotbal";3212
+"fotoliu";3213
+"fractiune";3214
+"fragil";3215
+"fragment";3216
+"fraier";3217
+"framinta (a)";3218
+"francmason";3219
+"franctiror";3220
+"franjuri";3221
+"fratie";3222
+"fraza";3223
+"fraza lunga";3224
+"freca (a)";3225
+"frecare";3226
+"frecus";3227
+"frecventa";3228
+"fredonare";3229
+"frenezie";3230
+"fresca";3231
+"fricos";3232
+"frig";3233
+"frigare";3234
+"frige (a)";3235
+"frige prea tare (a)";3236
+"frigider";3237
+"friguri";3238
+"frina (a)";3239
+"fringhie";3240
+"friptura";3241
+"friptura la gratar";3242
+"frisca";3243
+"frisca (batuta)";3244
+"friu";3245
+"frivolitate";3246
+"frizer";3247
+"front";3248
+"frontiera";3249
+"fronton";3250
+"fruct";3251
+"fruct(salbatic)";3252
+"fructe";3253
+"frumos";3254
+"frumos desenat";3255
+"frumusel";3256
+"fruntas";3257
+"frunte";3258
+"frunza";3259
+"frunzis";3260
+"fudamental";3261
+"fuga";3262
+"fugar";3263
+"fugi (a)";3264
+"fugi (cu iubitul) (a)";3265
+"fugitiv";3266
+"fulg";3267
+"fulger";3268
+"fulger(are)";3269
+"fulger(ator)";3270
+"fulgera (a)";3271
+"fulgi de ovaz";3272
+"fum";3273
+"fuma (a)";3274
+"fumat";3275
+"fumator";3276
+"funciar";3277
+"functie";3278
+"functiona (a)";3279
+"functionar";3280
+"functionar comercial";3281
+"functionare";3282
+"fund";3283
+"funda";3284
+"fundamental";3285
+"fundatie";3286
+"funeralii";3287
+"funerar";3288
+"funie";3289
+"funigei";3290
+"funingine";3291
+"funsamental";3292
+"funt";3293
+"furaj";3294
+"furaj(uscat)";3295
+"furaja (a)";3296
+"furca";3297
+"furca de tors";3298
+"furchet";3299
+"furculita";3300
+"furie";3301
+"furios";3302
+"furis";3303
+"furisa(a se)";3304
+"furnal";3305
+"furnica";3306
+"furnicatura";3307
+"furnir";3308
+"furnitura";3309
+"furniza (a)";3310
+"furnizor";3311
+"furt";3312
+"furt(isag)";3313
+"furtisag";3314
+"furtun";3315
+"furtuna";3316
+"furtunos";3317
+"furuncul";3318
+"fusta";3319
+"fustanela scotiana";3320
+"fuziona (a)";3321
+"fuziune";3322
+"gabardina";3323
+"gafa";3324
+"gagauta";3325
+"gaina";3326
+"gaina ouatoare";3327
+"gaita";3328
+"gajuri";3329
+"galagie";3330
+"galant";3331
+"galanterie";3332
+"galben";3333
+"galbenea";3334
+"galbenus";3335
+"galbui";3336
+"galeata";3337
+"galos";3338
+"galusca";3339
+"gama";3340
+"gamba";3341
+"gambeta";3342
+"gang";3343
+"gaoace";3344
+"gara";3345
+"garanta (a)";3346
+"garantie";3347
+"gard";3348
+"gard viu";3349
+"gard(de zid)";3350
+"garda";3351
+"garderobiera";3352
+"gargara";3353
+"gargarisi (a)";3354
+"gargaun";3355
+"gargauni";3356
+"garnisi (a)";3357
+"garnitura";3358
+"garoafa";3359
+"gasi (a)";3360
+"gasi (pe harta) (a)";3361
+"gata";3362
+"gateala";3363
+"gati (a)";3364
+"gaura";3365
+"gaz";3366
+"gaz (de iluminat)";3367
+"gaz lacrimogen";3368
+"gaz lampant";3369
+"gaz(lampant)";3370
+"gazda";3371
+"gazetarie";3372
+"gazolina";3373
+"gazon";3374
+"gazos";3375
+"geaman";3376
+"geamandura";3377
+"geamat";3378
+"geana";3379
+"gelatina";3380
+"gelos";3381
+"gelozie";3382
+"gem";3383
+"geme (a)";3384
+"gen";3385
+"gen (in stiinta)";3386
+"gen(literar)";3387
+"genealogie";3388
+"general";3389
+"generos";3390
+"generozitate";3391
+"geniu";3392
+"genunchi";3393
+"ger";3394
+"germene";3395
+"geros";3396
+"gerseala";3397
+"gerunziu";3398
+"gest";3399
+"gheara";3400
+"gheata";3401
+"ghemotoc de hirtie";3402
+"ghemui(a se)";3403
+"gherghin";3404
+"ghetar";3405
+"ghetre";3406
+"ghiceala";3407
+"ghicitoare";3408
+"ghicitor in palma";3409
+"ghid";3410
+"ghiftui (a)";3411
+"ghilimele";3412
+"ghimbir";3413
+"ghinionist";3414
+"ghiont";3415
+"ghiozdan";3416
+"ghirlanda";3417
+"ghiseu";3418
+"ghiulea";3419
+"gidila (a)";3420
+"gidilat";3421
+"gidilicios";3422
+"gifii (a)";3423
+"gifiit";3424
+"giga";3425
+"gilceava";3426
+"gimnastica (sala de)";3427
+"gin";3428
+"gind";3429
+"gindac";3430
+"gindac( de bucatarie)";3431
+"gindi (a)";3432
+"gindi(a se)";3433
+"gindire";3434
+"ginditor";3435
+"gingie";3436
+"gingurit";3437
+"gir";3438
+"gira (a)";3439
+"girant";3440
+"girare";3441
+"gisca";3442
+"giscan";3443
+"git";3444
+"gitlej";3445
+"giumbusluc";3446
+"giuvaer";3447
+"giza";3448
+"glacial";3449
+"gladiola";3450
+"glanda";3451
+"glas";3452
+"glas scazut";3453
+"glas tare (cu)";3454
+"glazura";3455
+"glezna";3456
+"glisada";3457
+"gloata";3458
+"global";3459
+"glont";3460
+"glonte";3461
+"glorie";3462
+"glorios";3463
+"gluga";3464
+"gluma";3465
+"gluma. a glumi";3466
+"glumet";3467
+"glumi (a)";3468
+"goana";3469
+"goarna";3470
+"goeleta";3471
+"gol";3472
+"golf";3473
+"goli (a)";3474
+"gorun";3475
+"gospodarie";3476
+"graba";3477
+"grabi (a)";3478
+"grabi (a)(se)";3479
+"grabi(a se)";3480
+"grabit";3481
+"grabnic";3482
+"grad";3483
+"grad de rudenie";3484
+"grad superior";3485
+"grada (a)";3486
+"gradatii";3487
+"gradina";3488
+"gradina cu boschete";3489
+"gradinar";3490
+"gradinarit";3491
+"grafic";3492
+"grafica";3493
+"grafit";3494
+"graitor";3495
+"grajdar";3496
+"gram";3497
+"gramatica";3498
+"gramatician";3499
+"granita";3500
+"grapa";3501
+"gras";3502
+"grasime";3503
+"gratar";3504
+"gratar (friptura la)";3505
+"gratar pentru pregatit piinea";3506
+"gratie";3507
+"gratiere";3508
+"gratifica (a)";3509
+"gratios";3510
+"gratuit";3511
+"grav";3512
+"grava (a)";3513
+"gravitate";3514
+"gravura";3515
+"greata";3516
+"grebla";3517
+"grefa";3518
+"greiere";3519
+"greoi";3520
+"greseala";3521
+"greseala de tipar";3522
+"gresi (a)";3523
+"gresi socotelile (a)";3524
+"gresit";3525
+"gretos";3526
+"greu";3527
+"greu de cap";3528
+"greu de definit";3529
+"greutate";3530
+"greutate (cu)";3531
+"greutate infima";3532
+"grija";3533
+"grija (cu)";3534
+"grijuliu";3535
+"grila";3536
+"grinar";3537
+"grinda";3538
+"grindina";3539
+"grine";3540
+"gripa";3541
+"gris";3542
+"griu";3543
+"groapa";3544
+"groaza";3545
+"groaznic";3546
+"grohai (a)";3547
+"gros";3548
+"grosime";3549
+"grosolan";3550
+"grota";3551
+"grotesc";3552
+"grozav";3553
+"grup";3554
+"grup de patru";3555
+"grup de trepte";3556
+"grup(a)";3557
+"grupa (a)(se)";3558
+"gudron";3559
+"gudura(a se)";3560
+"guinee";3561
+"guler";3562
+"gulie";3563
+"guma";3564
+"gunoi";3565
+"gunoier";3566
+"gura";3567
+"gura casca";3568
+"gura de teava";3569
+"gura rea";3570
+"gura sparta";3571
+"gusa";3572
+"gust";3573
+"gust picant";3574
+"gustare";3575
+"gustare(de)";3576
+"gustos";3577
+"guta";3578
+"gutui(e)";3579
+"guturai";3580
+"gutural";3581
+"guvern";3582
+"guvern(are)";3583
+"guverna (a)";3584
+"guvernamint";3585
+"guvernanta";3586
+"guvernator";3587
+"habar";3588
+"haiduc";3589
+"hain";3590
+"haina";3591
+"haina (de flanela)";3592
+"haina de ploaie";3593
+"haine";3594
+"haine civile";3595
+"haine de cusut";3596
+"haitui (a)";3597
+"halat";3598
+"halo";3599
+"halta";3600
+"hamac";3601
+"hamal";3602
+"hambar";3603
+"hamei";3604
+"hamuri";3605
+"han";3606
+"handicap";3607
+"hangita";3608
+"hangiu";3609
+"haos";3610
+"hap";3611
+"har";3612
+"harmalaie";3613
+"harnasament";3614
+"harnic";3615
+"harpa";3616
+"harpagon";3617
+"harta";3618
+"harta (marina)";3619
+"hartui (a)";3620
+"hartui cu intrebari (a)";3621
+"hat";3622
+"hemoroizi";3623
+"heraldica";3624
+"hernie";3625
+"heroina";3626
+"hid";3627
+"hidos";3628
+"hiena";3629
+"himera";3630
+"hipopotam";3631
+"hiriit";3632
+"hirsiit";3633
+"hirtie";3634
+"hirtie (pergament)";3635
+"hochei";3636
+"hohot";3637
+"hohot de ris";3638
+"hohoti (a)";3639
+"hoinar";3640
+"hoinareala";3641
+"hoinareli";3642
+"hoinari (a)";3643
+"hol";3644
+"hol(de hotel)";3645
+"holera";3646
+"homar";3647
+"homosexual";3648
+"hop";3649
+"horcait";3650
+"horn";3651
+"hot";3652
+"hot de buzunare";3653
+"hot(esc)";3654
+"hot. judecatoreasca";3655
+"hotari (a)";3656
+"hotari (a)(se)";3657
+"hotarire";3658
+"hotarit";3659
+"hotie";3660
+"hrana";3661
+"hrana solida";3662
+"hrani (a)";3663
+"hranire";3664
+"hranitor";3665
+"hrisca";3666
+"hublou";3667
+"huiduiala";3668
+"huligan";3669
+"huzur";3670
+"iad";3671
+"iaht";3672
+"iahting";3673
+"iapa";3674
+"iarasi";3675
+"iarba";3676
+"iarba neagra";3677
+"iarba-neagra";3678
+"iard(90 cm)";3679
+"iarna";3680
+"iasca";3681
+"iasomie";3682
+"ibric";3683
+"icnit";3684
+"icoana";3685
+"icre";3686
+"icter";3687
+"idee";3688
+"identificabil";3689
+"ied";3690
+"iedera";3691
+"ieftin";3692
+"ieftini (a)";3693
+"ienupar";3694
+"iepure (de casa)";3695
+"iepure (de cimp)";3696
+"iepuroaica";3697
+"ierarhie";3698
+"ieri";3699
+"iernatic";3700
+"ierta (a)";3701
+"iertare";3702
+"iertare (a-si cere)";3703
+"ierunca";3704
+"iesi (la iveala) (a)";3705
+"iesi in afara (a)";3706
+"iesire";3707
+"iesitura";3708
+"iesle";3709
+"ignora (a)";3710
+"ignorant";3711
+"ignoranta";3712
+"ii";3713
+"il";3714
+"ilariant";3715
+"ilegal";3716
+"ilegalitate";3717
+"ilice";3718
+"ilicit";3719
+"ilizibil";3720
+"iluminism";3721
+"ilustra (a)";3722
+"ilustratie";3723
+"ilustru";3724
+"iluzie";3725
+"iluzoriu";3726
+"imaculat";3727
+"imaginabil";3728
+"imaginatie";3729
+"imagine";3730
+"imaterial";3731
+"imatur";3732
+"imbalsama (a)";3733
+"imbarca (a)(se)";3734
+"imbata (a)";3735
+"imbata (a)(se)";3736
+"imbelsugat";3737
+"imbiba (a)";3738
+"imbinare";3739
+"imbinare de cuvinte";3740
+"imblanit";3741
+"imblinzi (a)";3742
+"imbogati (a)(se)";3743
+"imbraca (a)";3744
+"imbraca(a se)";3745
+"imbracaminte";3746
+"imbracare";3747
+"imbratisa (a)";3748
+"imbratisare";3749
+"imbrinci (a)";3750
+"imbucatura";3751
+"imbucurator";3752
+"imbujorare";3753
+"imbuna(a se)";3754
+"imbunatati (a)";3755
+"imbunatatire";3756
+"imediat";3757
+"imi";3758
+"iminent";3759
+"imitatie";3760
+"imitator";3761
+"imn religios";3762
+"imobiliar";3763
+"imobilizat";3764
+"imoral";3765
+"imoralitate";3766
+"impaca (a)";3767
+"impaca (a)(se)";3768
+"impaciuire";3769
+"impaciuitor";3770
+"impadurit";3771
+"impana (a)";3772
+"impar";3773
+"imparat";3774
+"imparateasa";3775
+"impartasi (a)";3776
+"imparti (a)";3777
+"impartire";3778
+"impartirea cartilor de joc";3779
+"impasibil";3780
+"impenetrabil";3781
+"imperativ";3782
+"imperios";3783
+"imperiu";3784
+"impiedica (a)";3785
+"impiedicare";3786
+"impietri (a)(se)";3787
+"impietrit";3788
+"impingere";3789
+"implacabil";3790
+"impleti (a)";3791
+"impleti (a)(se)";3792
+"impleti ghirlande (a)";3793
+"impletit";3794
+"impletitura";3795
+"impletitura de nuiele";3796
+"impletitura de rachita";3797
+"implica (a)";3798
+"implicit";3799
+"implora (a)";3800
+"impodobi (a)";3801
+"impodobi cu pene (a)";3802
+"impodobit";3803
+"impopotona (a)(se)";3804
+"impopotonat";3805
+"import";3806
+"import(are)";3807
+"important";3808
+"importanta";3809
+"importuna (a)";3810
+"imposibil";3811
+"imposta";3812
+"impostor";3813
+"impostura";3814
+"impotriva";3815
+"impotrivi(a se)";3816
+"impotrivire";3817
+"impovara (a)";3818
+"impovarator";3819
+"impozit";3820
+"impracticabil";3821
+"imprastia (a)";3822
+"imprastia (a)(se)";3823
+"imprastiat";3824
+"imprastiere";3825
+"imprejmui (a)";3826
+"imprejmuire";3827
+"imprejur";3828
+"impresie";3829
+"impresie buna";3830
+"impresiona (a)";3831
+"impresionat";3832
+"impreuna";3833
+"impreuna cu";3834
+"imprevizibil";3835
+"imprima (a)";3836
+"imprimare";3837
+"improbabil";3838
+"improviza (a)";3839
+"improvizat";3840
+"imprudent";3841
+"imprumut";3842
+"impuls";3843
+"impunator";3844
+"impunator.poruncitor";3845
+"impune (a)";3846
+"impunere";3847
+"impunsatura";3848
+"impur";3849
+"impusca (a)";3850
+"impusca pe furis (a)";3851
+"impuscare";3852
+"impuscatura";3853
+"imuabil";3854
+"in";3855
+"in  genere";3856
+"in aer liber";3857
+"in afara";3858
+"in afara de";3859
+"in afara de...";3860
+"in amanunt";3861
+"in ansamblu";3862
+"in atare masura (incit)";3863
+"in care trage curentul";3864
+"in cartierele de locuit";3865
+"in cartierul comercial";3866
+"in casa";3867
+"in caz contrar";3868
+"in cele din urma";3869
+"in cerc";3870
+"in ciuda";3871
+"in comun";3872
+"in continuare";3873
+"in curmezis";3874
+"in delir";3875
+"in dezordine";3876
+"in dungi";3877
+"in floare";3878
+"in forma de tabel";3879
+"in general";3880
+"in inaintare";3881
+"in jurul";3882
+"in lungime";3883
+"in mare masura";3884
+"in mijlocul";3885
+"in miscare";3886
+"in mod natural";3887
+"in mod nejustificat";3888
+"in mod oficial";3889
+"in mod original";3890
+"in numele";3891
+"in oarecare masura";3892
+"in orice caz";3893
+"in pas cu";3894
+"in picioare";3895
+"in plus";3896
+"in praf";3897
+"in primul rind";3898
+"in privinta";3899
+"in relief";3900
+"in repetate rinduri";3901
+"in sensul acelor de ceasornic";3902
+"in sfirsit";3903
+"in shimb";3904
+"in sila";3905
+"in societate";3906
+"in special";3907
+"in stainatate";3908
+"in strainatate";3909
+"in sus";3910
+"in taina";3911
+"in timpul";3912
+"in ultima vreme";3913
+"in urma";3914
+"in vigoare";3915
+"in voia soartei";3916
+"in zigzag";3917
+"in zilele noastre";3918
+"in zori";3919
+"inabusi (a)";3920
+"inabusi(a se)";3921
+"inacceptabil";3922
+"inafara de cazul";3923
+"inailibil";3924
+"inainta (a)";3925
+"inainta cu greu (a)";3926
+"inaintare";3927
+"inaintas";3928
+"inainte";3929
+"inainte de";3930
+"inalbi (a)(se)";3931
+"inalt";3932
+"inalta (a)";3933
+"inalta spre cer(a se)";3934
+"inalta(a se)";3935
+"inaltare";3936
+"inaltime";3937
+"inamici(i)";3938
+"inaplicabil";3939
+"inapoia (a)";3940
+"inarma (a)";3941
+"inaspri (a)";3942
+"inaugura (a)";3943
+"inauntru";3944
+"inauntrul";3945
+"inca";3946
+"inca unul";3947
+"incaierare";3948
+"incalca (a)";3949
+"incalcare";3950
+"incalzi(a se)";3951
+"incapabil";3952
+"incapabil de";3953
+"incapacitate";3954
+"incapatinare";3955
+"incapatinat";3956
+"incapator";3957
+"incarcat";3958
+"incarcatura";3959
+"incendiar";3960
+"incendiu";3961
+"incepator";3962
+"incepe (a)";3963
+"inceput";3964
+"incerca (a)";3965
+"incercare";3966
+"incercat";3967
+"incet";3968
+"inceta (a)";3969
+"incetare";3970
+"incetini (a)";3971
+"incetosa (a)";3972
+"incheia (a)";3973
+"incheiat";3974
+"incheietura a degetelor";3975
+"incheietura miinii";3976
+"inchide (a)";3977
+"inchide ghilimelele (a)";3978
+"inchipui (a-si)";3979
+"inchipuit";3980
+"inchiriere";3981
+"inchis";3982
+"inchisoare";3983
+"inchistare";3984
+"incident";3985
+"incinge (a)";3986
+"incinta";3987
+"incinta (a)";3988
+"incintare";3989
+"incintat (la culme)";3990
+"incintat de sine";3991
+"incintator";3992
+"incirligat";3993
+"inclina (a)";3994
+"inclina (a)(se)";3995
+"inclina(a se)";3996
+"inclinare";3997
+"inclinatie";3998
+"incoace";3999
+"incoerent";4000
+"incolor";4001
+"incomod";4002
+"incomparabil";4003
+"incompetent";4004
+"incomplet";4005
+"inconfundabil";4006
+"inconjura (a)";4007
+"inconstanta";4008
+"inconstient";4009
+"incontestabil";4010
+"incorda (a)";4011
+"incordare";4012
+"incordat";4013
+"incorect";4014
+"incoronare";4015
+"incorpora (a)";4016
+"incoruptibil";4017
+"incotro";4018
+"incredere";4019
+"incredinta (a)";4020
+"incredintare";4021
+"increti (a)";4022
+"increzator";4023
+"increzut";4024
+"incriminare";4025
+"incrucisa (a)";4026
+"incrucisare";4027
+"incrunta(a se)";4028
+"incruntare";4029
+"incrusta (a)";4030
+"incrustat";4031
+"incuia (a)";4032
+"incuietoare";4033
+"incult";4034
+"incuraja (a)";4035
+"incurajare";4036
+"incurca (a)";4037
+"incurcat";4038
+"incurcatura";4039
+"incursiune";4040
+"incuviinta (a)";4041
+"incuviintare";4042
+"indata";4043
+"indatora (a)";4044
+"indatorat";4045
+"indatorire";4046
+"indatoriri";4047
+"indatoritor";4048
+"indeaproape";4049
+"indecent";4050
+"indeminare";4051
+"indeminatic";4052
+"indemn";4053
+"indemna (a)";4054
+"indepartare";4055
+"indepartat";4056
+"indeplini (a)";4057
+"indeplinire";4058
+"indesat";4059
+"indescifrabil";4060
+"index";4061
+"indezirabil";4062
+"indica (a)";4063
+"indicatie";4064
+"indicativ";4065
+"indicator";4066
+"indice";4067
+"indiferent";4068
+"indiferent daca";4069
+"indiferent de";4070
+"indigen";4071
+"indinspensabili";4072
+"indirect";4073
+"indiscretie";4074
+"indiscutabil";4075
+"indispozitie";4076
+"indispus";4077
+"individ";4078
+"individual";4079
+"indoi (a)";4080
+"indoi (a)(se)";4081
+"indoiala";4082
+"indoielnic";4083
+"indoire";4084
+"indoitura";4085
+"indolia (a)";4086
+"indopa (a)";4087
+"indracit";4088
+"indragostit";4089
+"indrazneala";4090
+"indraznet";4091
+"indrazni (a)";4092
+"indrepta (a)";4093
+"indreptare";4094
+"indreptat in sus";4095
+"indreptat spre interior";4096
+"indreptati (a)";4097
+"indreptatit";4098
+"induiosat";4099
+"indulgenta";4100
+"indupleca (a)";4101
+"indura (a)";4102
+"indurare";4103
+"indurator";4104
+"ineca (a)(se)";4105
+"ineca(a se)";4106
+"inedit";4107
+"inefabil";4108
+"ineficace";4109
+"inegal";4110
+"inel";4111
+"inelus";4112
+"inepuizabil";4113
+"inevitabil";4114
+"inexactitate";4115
+"inexplicabil";4116
+"inexprimabil";4117
+"infailibil";4118
+"infanterie";4119
+"infasura (a)";4120
+"infatisa (a)";4121
+"infatisare";4122
+"infecta(a se)";4123
+"inferior";4124
+"infesta (a)";4125
+"infestat de insecte";4126
+"infidelitate";4127
+"infierbintat";4128
+"infiinta (a)";4129
+"infiintare";4130
+"infiltra(a se)";4131
+"infim";4132
+"infinge (a)";4133
+"infinit";4134
+"infinitate";4135
+"infiora(a se)";4136
+"infirm";4137
+"infirma (a)";4138
+"infirmerie";4139
+"infirmier";4140
+"infirmiera";4141
+"inflamabil";4142
+"inflexibil";4143
+"inflexiune";4144
+"inflorescent";4145
+"inflori (a)";4146
+"inflorit";4147
+"inflorit(or)";4148
+"infloritor";4149
+"infloritura";4150
+"influenta";4151
+"influenta (a)";4152
+"infometa (a)";4153
+"inform";4154
+"informa (a)";4155
+"informat";4156
+"informatii";4157
+"informator";4158
+"infractiune";4159
+"infractor";4160
+"infricosa (a)";4161
+"infrina (a)";4162
+"infringe (a)";4163
+"infringere";4164
+"infrumuseta (a)";4165
+"infrunta (a)";4166
+"infruntare";4167
+"infuleca (a)";4168
+"infuria (a)";4169
+"ingaduinta";4170
+"ingaduitor";4171
+"ingaima (a)";4172
+"ingenunchea (a)";4173
+"inger";4174
+"inghesuiala";4175
+"inghesuit";4176
+"inghet(are)";4177
+"ingheta (a)";4178
+"inghetat";4179
+"inghetata";4180
+"inghiti (a)";4181
+"inghitire";4182
+"inghititura";4183
+"ingimfare";4184
+"inginer";4185
+"ingradi (a)";4186
+"ingradire";4187
+"ingragostit";4188
+"ingrasa (a)(se)";4189
+"ingrasa (pamintul) (a)";4190
+"ingrasamint";4191
+"ingrat";4192
+"ingretosa (a)";4193
+"ingriji (a)";4194
+"ingrijit";4195
+"ingrijitor";4196
+"ingrijorare";4197
+"ingrijorat";4198
+"ingropa (a)";4199
+"ingrosa (a)(se)";4200
+"ingrozi (a)";4201
+"ingrozitor";4202
+"ingust";4203
+"inhiba (a)";4204
+"inhosi(a se)";4205
+"inima";4206
+"inima indoita (cu)";4207
+"inima tarii";4208
+"initia (a)";4209
+"initiat";4210
+"injectie";4211
+"injosi (a)";4212
+"injumatati";4213
+"injunghia (a)";4214
+"injuratura";4215
+"injust";4216
+"inlantui (a)";4217
+"inlocui (a)";4218
+"inlocuitor";4219
+"inmiit";4220
+"inmiresmat";4221
+"inmormintare";4222
+"inmuia (a)";4223
+"inmulti (a)(se)";4224
+"innascut";4225
+"innebuni (a)";4226
+"innebunit";4227
+"innegri (a)";4228
+"innobilat";4229
+"innorat";4230
+"inobila (a)";4231
+"inofensiv";4232
+"inoportun";4233
+"inoxidabil";4234
+"inradacinat";4235
+"inrait";4236
+"inrautati (a)(se)";4237
+"inrautatire";4238
+"inregimenta (a)(se)";4239
+"inregistrare";4240
+"inregistrat";4241
+"inrobi (a)";4242
+"inrola (a)(se)";4243
+"inrosi (a)(se)";4244
+"inrosi(a se)";4245
+"inrudire";4246
+"inrudit";4247
+"insalubru";4248
+"insanatosire";4249
+"insarcinat cu afaceri";4250
+"insasi";4251
+"inscena (a)";4252
+"inscrie (a)";4253
+"inscriere";4254
+"insecta";4255
+"insecte sau animale daunatoare";4256
+"insela (a)";4257
+"inselaciune";4258
+"inselator";4259
+"inselatorie";4260
+"insele";4261
+"insemna (a)";4262
+"insemnare";4263
+"insemnare grabita";4264
+"insensibil";4265
+"inseptit";4266
+"insera (a)";4267
+"insertie";4268
+"insetat";4269
+"insigna";4270
+"insine";4271
+"insinua (a)";4272
+"insipid";4273
+"insira (a)";4274
+"insisi";4275
+"insista (a)";4276
+"insistenta";4277
+"insomnie";4278
+"insotitor";4279
+"inspaiminta (a)";4280
+"inspaiminta (a)(se)";4281
+"inspaimintator";4282
+"inspecta (a)";4283
+"inspira (a)";4284
+"instabil";4285
+"instala (a)";4286
+"instalare";4287
+"instalatie";4288
+"instalatie electrica";4289
+"instalatii";4290
+"instalatii tehnico-sanitare";4291
+"instalator";4292
+"instaura (a)";4293
+"instincte";4294
+"institut";4295
+"institutie";4296
+"instraina (a)";4297
+"instructaj";4298
+"instructie";4299
+"instructiuni";4300
+"instrui (a)";4301
+"instruire";4302
+"instruit";4303
+"instrument";4304
+"instrumentist";4305
+"insuficient";4306
+"insufleti (a)";4307
+"insula";4308
+"insulta";4309
+"insultator";4310
+"insumi";4311
+"insuportabil";4312
+"insusi";4313
+"insuta";4314
+"intact";4315
+"intari (a)";4316
+"intarire";4317
+"intaritor";4318
+"integra (a)";4319
+"integral";4320
+"integritate";4321
+"intelectualitate";4322
+"intelege (a)";4323
+"intelege gresit (a)";4324
+"intelege(a se)";4325
+"intelegere";4326
+"intelegere gresita";4327
+"intelepciune";4328
+"intelept";4329
+"inteles";4330
+"inteligent";4331
+"inteligenta";4332
+"inteligibil";4333
+"intemeia (a)";4334
+"intemeiat";4335
+"intemeiere";4336
+"intemeietor";4337
+"intemnita (a)";4338
+"intens";4339
+"intentie";4340
+"intentiona (a)";4341
+"intentionat";4342
+"intepa (a)";4343
+"intepator";4344
+"intepatura";4345
+"intepeni (a)";4346
+"intepenit";4347
+"interactiune";4348
+"interdictie";4349
+"interes";4350
+"interesant";4351
+"interesat";4352
+"interior";4353
+"interior (indreptat spre)";4354
+"interludiu";4355
+"intermediar";4356
+"intern";4357
+"intern (de spital)";4358
+"interoga (a)";4359
+"interogatoriu";4360
+"interpret";4361
+"interpreta (a)";4362
+"interpreta gresit (a)";4363
+"interpretare";4364
+"interpune (a)(se)";4365
+"interval";4366
+"interveni (a)";4367
+"interviu";4368
+"interzice (a)";4369
+"interzicere";4370
+"intestine";4371
+"intiietate";4372
+"intilnire";4373
+"intim";4374
+"intimitate";4375
+"intimpina (a)";4376
+"intimpla(a se)";4377
+"intimplare";4378
+"intimplari";4379
+"intimplator";4380
+"intinde (a)";4381
+"intinde (a)(se)";4382
+"intindere";4383
+"intineri (a)";4384
+"intinire";4385
+"intins";4386
+"intirziat";4387
+"intirziere";4388
+"intoarcere";4389
+"intolerant";4390
+"intonatie";4391
+"intotdeauna";4392
+"intoxicatie";4393
+"intr-adevar";4394
+"intra (a)";4395
+"intra la facultate (a)";4396
+"intra le apa (a)";4397
+"intracolo";4398
+"intransigent";4399
+"intrare";4400
+"intrare la apa";4401
+"intre";4402
+"intre timp";4403
+"intreba (a)";4404
+"intrebare";4405
+"intrebator";4406
+"intrece (a)";4407
+"intrece(a se)";4408
+"intrecere";4409
+"intredeschis";4410
+"intreg";4411
+"intregime";4412
+"intreit";4413
+"intremare";4414
+"intreprinde (a)";4415
+"intreprinzator";4416
+"intrerupere";4417
+"intretese(a se)";4418
+"intretinere";4419
+"intrevedere";4420
+"intrezari (a)";4421
+"intriga";4422
+"intrind";4423
+"intrinsec";4424
+"intrista (a)(se)";4425
+"introduce (a)";4426
+"introducere";4427
+"introductiv";4428
+"intru totul";4429
+"intruchipa (a)";4430
+"intruchipat";4431
+"intrucit";4432
+"intrunire";4433
+"intrus";4434
+"intuneca (a)";4435
+"intuneca (a)(se)";4436
+"intunecare";4437
+"intunecat";4438
+"intunecime";4439
+"intunecos";4440
+"intuneric";4441
+"inunda (a)";4442
+"inundatie";4443
+"inutil";4444
+"inutilitate";4445
+"invada (a)";4446
+"invadator";4447
+"invalid";4448
+"invaliditate";4449
+"invalmaseala";4450
+"invalmasit";4451
+"invata (a)";4452
+"invatamint";4453
+"invatamint mixt";4454
+"invatat";4455
+"invatatura";4456
+"invazie";4457
+"invechit";4458
+"invecinare";4459
+"invecinat";4460
+"inveli (a)";4461
+"invelis";4462
+"invelitoare";4463
+"inventa (a)";4464
+"inventar";4465
+"inventaria (a)";4466
+"inventie";4467
+"inventiv";4468
+"inventivitate";4469
+"invers";4470
+"inversa (a)";4471
+"inversunat";4472
+"inveseli (a)";4473
+"inveseli(a se)";4474
+"inveselit";4475
+"invesmintat";4476
+"investi (a)";4477
+"investire";4478
+"investitie";4479
+"inveterat";4480
+"invia (a)(re)";4481
+"invidie";4482
+"invidie (subiect de)";4483
+"invidios";4484
+"inviere(re)";4485
+"invincibil";4486
+"invingator";4487
+"invinge (a)";4488
+"invins";4489
+"inviora (a)";4490
+"invirti (a)(se)";4491
+"invirti de pomana (a)";4492
+"invirti(a se)";4493
+"invizibil";4494
+"invoca (a)";4495
+"inzeci (a)";4496
+"inzecit";4497
+"inzestra (a)";4498
+"iobag";4499
+"iobagie";4500
+"iod";4501
+"ipocrit";4502
+"ipoteca";4503
+"ipoteza";4504
+"irascibil";4505
+"irational";4506
+"ireal";4507
+"ireductibil";4508
+"irelevant";4509
+"iremediabil";4510
+"ireprosabil";4511
+"ireverentios";4512
+"irezistibil";4513
+"irita (a)";4514
+"iritabil";4515
+"ironie";4516
+"irosire";4517
+"irosit";4518
+"iscoditor";4519
+"iscusit";4520
+"ispasi (a)";4521
+"ispita";4522
+"ispiti (a)";4523
+"ispititor";4524
+"istericale";4525
+"istet";4526
+"istm";4527
+"istoric";4528
+"istorie";4529
+"istovi (a)";4530
+"istovi(a se)";4531
+"istovire";4532
+"istovit";4533
+"iubit";4534
+"iubit(a)";4535
+"iubita";4536
+"iubitor";4537
+"iuta";4538
+"iute";4539
+"ivi(a se)";4540
+"iz";4541
+"izbavire";4542
+"izbi (a)";4543
+"izbitor";4544
+"izbitura";4545
+"izbucni (a)";4546
+"izbucnire";4547
+"izbuti sa (a)";4548
+"izgoni (a)";4549
+"izgonire";4550
+"izlaz";4551
+"izola (a)";4552
+"izolare";4553
+"izolat";4554
+"izvor";4555
+"izvor. a izvori";4556
+"jabou";4557
+"jacheta";4558
+"jad";4559
+"jaf";4560
+"jale";4561
+"jalnic";4562
+"jaluzea";4563
+"jambiere";4564
+"jandarm";4565
+"jandarmerie";4566
+"janta";4567
+"jaratic";4568
+"jartiera";4569
+"javra";4570
+"jder";4571
+"jecmani (a)";4572
+"jefui (a)";4573
+"jeli (a)";4574
+"jerseu";4575
+"jertfa";4576
+"jertfe";4577
+"jeton";4578
+"jgheab";4579
+"jigni (a)";4580
+"jignire";4581
+"jignitor";4582
+"jilav";4583
+"jilt";4584
+"jivraj";4585
+"joaca";4586
+"joben";4587
+"joc";4588
+"joc de crochet";4589
+"joc de cuvinte";4590
+"joc de dame";4591
+"joc de noroc";4592
+"joc de popice";4593
+"joc de sah";4594
+"joc distractiv";4595
+"jocheu";4596
+"jocuri de noroc";4597
+"jonctiune";4598
+"jongla (a)";4599
+"jos";4600
+"josnic";4601
+"jubileu";4602
+"juca (a)";4603
+"jucarie";4604
+"jucator";4605
+"jucator de popice";4606
+"jucaus";4607
+"judace (a)";4608
+"judeca gresit (a)";4609
+"judecata";4610
+"judecata (cu)";4611
+"judecata de apoi";4612
+"judecator";4613
+"judecatoresc";4614
+"jug";4615
+"juli (a)(se)";4616
+"julitura. a roade";4617
+"jumatate";4618
+"jumatate de litru";4619
+"junca";4620
+"junghi";4621
+"jupon";4622
+"jupui (a)";4623
+"jura strimb (a)";4624
+"juramint";4625
+"jurat";4626
+"jurati";4627
+"juridic";4628
+"jurisconsult";4629
+"jurist";4630
+"juriu";4631
+"jurnal de bord";4632
+"jurnal intim";4633
+"just";4634
+"justifica (a)";4635
+"justificare";4636
+"justificat";4637
+"justificativ";4638
+"justitie";4639
+"kaki";4640
+"kilogram";4641
+"kilometraj";4642
+"la";4643
+"la destinatie";4644
+"la etaj";4645
+"la fel";4646
+"la index";4647
+"la intimplare";4648
+"la mijloc";4649
+"la moda";4650
+"la moda (a fi)";4651
+"la noapte";4652
+"la o parte";4653
+"la parter";4654
+"la pensie";4655
+"la revedere";4656
+"la suta";4657
+"la urma urmei";4658
+"la vale";4659
+"laba";4660
+"laba piciorului";4661
+"labirint";4662
+"laborator";4663
+"laborios";4664
+"lac";4665
+"lac (obiecte de)";4666
+"lac de acumulare";4667
+"lacat";4668
+"lacheu";4669
+"lacom";4670
+"lacomie";4671
+"lacrima";4672
+"lacusta";4673
+"lada";4674
+"lagar";4675
+"laic";4676
+"lalea";4677
+"lama.tais";4678
+"lambriu";4679
+"lambriuri";4680
+"lamentabil";4681
+"lamiie";4682
+"lampa";4683
+"lampa de radio";4684
+"lampagiu";4685
+"lamuri (a)";4686
+"lance";4687
+"lansare";4688
+"lant";4689
+"lanteta";4690
+"laolalta";4691
+"lapidar";4692
+"lapovita";4693
+"lapsus";4694
+"laptarie";4695
+"lapte";4696
+"lapte (cu)";4697
+"lapte batut";4698
+"larg";4699
+"larg deschis";4700
+"largi (a)(se)";4701
+"largime";4702
+"largul marii";4703
+"las";4704
+"lasa (a)";4705
+"lasa (mostenire) (a)";4706
+"lasa liber (a)";4707
+"lasa mostenire (a)";4708
+"lasa orfan (a)";4709
+"lasa vacant (a)";4710
+"lasator";4711
+"lasciv";4712
+"lascivitate";4713
+"lasitate";4714
+"lastar";4715
+"lastun";4716
+"lat";4717
+"lateral";4718
+"lati (a)(se)";4719
+"latifundiar";4720
+"latime";4721
+"latos";4722
+"latra (a)";4723
+"latrat";4724
+"latura";4725
+"lauda";4726
+"lauda (a)";4727
+"lauda cu(a se)";4728
+"lauda(a se)";4729
+"laudabil";4730
+"laudaros";4731
+"launtric";4732
+"laur";4733
+"lauri";4734
+"lautar";4735
+"lauzie";4736
+"lavabil";4737
+"lavita";4738
+"leafa";4739
+"leagan";4740
+"lectica";4741
+"lectie";4742
+"lectura";4743
+"lefter";4744
+"lega (a)";4745
+"legana (a)";4746
+"leganare";4747
+"leganare( din solduri)";4748
+"legatura";4749
+"legatura amoroasa";4750
+"lege";4751
+"legel";4752
+"legenda";4753
+"legenda (la o ilustratie)";4754
+"legendar";4755
+"legitim";4756
+"legitimatie";4757
+"legiune";4758
+"leguma";4759
+"lejer";4760
+"lemn";4761
+"lemn de mahon";4762
+"lemne";4763
+"lemnos";4764
+"lene";4765
+"lenes";4766
+"lenjereasa";4767
+"lenjerie (de corp)";4768
+"lenjerie de corp";4769
+"lenjerie(de pat)";4770
+"lent";4771
+"lentila";4772
+"leoaica";4773
+"lepra";4774
+"lesa";4775
+"lesie";4776
+"lesin";4777
+"lesina (a)";4778
+"lespede";4779
+"lest";4780
+"levantica";4781
+"liber";4782
+"liberal";4783
+"libertate";4784
+"libidinos";4785
+"libret de econ~sarbatoare";4786
+"licari (a)";4787
+"licarire";4788
+"licenta";4789
+"licentiat";4790
+"liceu superior";4791
+"lichid";4792
+"lichior";4793
+"licitare";4794
+"licitatie";4795
+"lift";4796
+"liga";4797
+"lighean";4798
+"lignit";4799
+"liliac";4800
+"liliac(hiu)";4801
+"liman";4802
+"limax";4803
+"limba";4804
+"limba mare";4805
+"limba nationala";4806
+"limbaj";4807
+"limbut";4808
+"limbutie";4809
+"limita";4810
+"limita (a)";4811
+"limitare";4812
+"limitat";4813
+"limpede";4814
+"limuzina";4815
+"lin";4816
+"lina";4817
+"lina dublu toarsa";4818
+"lincezeala";4819
+"lincezi (a)";4820
+"lingau";4821
+"linge (a)";4822
+"linguroi";4823
+"lingusi (a)";4824
+"lingusire";4825
+"lingusitor";4826
+"linie";4827
+"liniste";4828
+"linisti (a)";4829
+"linisti (a)(se)";4830
+"linistit";4831
+"linos";4832
+"linsa (a)";4833
+"linte";4834
+"lipi (a)";4835
+"lipi (metale) (a)";4836
+"lipi(a se)";4837
+"lipici";4838
+"lipicios";4839
+"lipit de";4840
+"lipitoare";4841
+"lipsa";4842
+"lipsa de antrenament";4843
+"lipsa de ceremonie";4844
+"lipsa de confort";4845
+"lipsa de experienta";4846
+"lipsa de importanta";4847
+"lipsa de la o indatorire";4848
+"lipsa de maturitate";4849
+"lipsa de respect";4850
+"lipsit de";4851
+"lipsit de (a fi)";4852
+"lipsit de imaginatie";4853
+"lipsit de indrumare";4854
+"lipsit de rafinament";4855
+"lipsit de romantism";4856
+"lipsit de sportivitate";4857
+"lipsit de tact";4858
+"lipsuri";4859
+"lira";4860
+"lirica";4861
+"lista";4862
+"lista electorala";4863
+"litera";4864
+"literatura";4865
+"litru";4866
+"litru (ca masura)";4867
+"livada";4868
+"livra";4869
+"livresc";4870
+"lizibil";4871
+"loc";4872
+"loc cu umbra";4873
+"loc de cocotat";4874
+"loc de judecata";4875
+"loc de) retragere";4876
+"loc gol";4877
+"loc liber";4878
+"local";4879
+"localiza (a)";4880
+"locoitor din cartier";4881
+"locomotiva";4882
+"locotenent";4883
+"loctiitor";4884
+"locui (a)";4885
+"locuinta";4886
+"locuinta (inchiriata)";4887
+"locuitor";4888
+"locuitor din sud";4889
+"logodi (a)";4890
+"logodit";4891
+"logodna";4892
+"logodnic";4893
+"logodnica";4894
+"loialitate";4895
+"lopata";4896
+"lopatica";4897
+"lor";4898
+"lord";4899
+"lot";4900
+"loterie";4901
+"lotus";4902
+"lovi (a)";4903
+"lovitura";4904
+"lovitura cu piciorul";4905
+"lovitura cu pumnul";4906
+"lozinca";4907
+"lua (a)";4908
+"lua cu imprumut (a)";4909
+"lua cu lopata (a)";4910
+"lua de nevasta (a)";4911
+"lua dejunul (a)";4912
+"lua drept buna (a)";4913
+"lua in tragic (a)";4914
+"lua singe(cuiva) (a)";4915
+"lucarna";4916
+"lucios";4917
+"luciu";4918
+"lucrare";4919
+"lucrat in lemnarie";4920
+"lucru";4921
+"lucru care se vinde";4922
+"lucru de mina";4923
+"lucru izbitor";4924
+"lucru necesar";4925
+"lucru nesigur";4926
+"lucru sau omul nepotrivit";4927
+"lucruri";4928
+"lucruri aruncate";4929
+"lugubru";4930
+"lui";4931
+"lume";4932
+"lumea";4933
+"lumea buna";4934
+"lumea interlopa";4935
+"lumesc";4936
+"lumina";4937
+"lumina (a)";4938
+"lumina (a)(se)";4939
+"lumina lunii";4940
+"luminare";4941
+"luminare subtire";4942
+"luminis";4943
+"luna";4944
+"lunca";4945
+"lunecus";4946
+"lung";4947
+"lungi (a se)";4948
+"lungime";4949
+"lup";4950
+"lupa";4951
+"luping";4952
+"lupta";4953
+"lupta (a)";4954
+"lupta (corp la corp)";4955
+"lupta cu (a)(se)";4956
+"luptator";4957
+"lustru";4958
+"lustrui (a)";4959
+"lut";4960
+"luxos";4961
+"luxuriant";4962
+"ma";4963
+"mac";4964
+"macait";4965
+"macara";4966
+"macel";4967
+"macelar";4968
+"maces";4969
+"macheta";4970
+"machiaj";4971
+"macina (a)";4972
+"maciuca";4973
+"macris";4974
+"maduva";4975
+"maestra";4976
+"maestru de ceremonii";4977
+"magar";4978
+"magazie";4979
+"magazin";4980
+"magazin de mode";4981
+"magazin de pinzeturi";4982
+"magazin ilustrat";4983
+"magnat";4984
+"magnetofon";4985
+"magnific";4986
+"magura";4987
+"mahmureala";4988
+"mai";4989
+"mai ales";4990
+"mai degraba";4991
+"mai destept decit (a fi)";4992
+"mai important";4993
+"mai indepartat";4994
+"mai marii nostri";4995
+"mai mic";4996
+"mai mult";4997
+"mai multi";4998
+"mai presus de";4999
+"mai presus de banuiala";5000
+"mai putin";5001
+"mai tirziu";5002
+"mai-mare";5003
+"maia";5004
+"maica";5005
+"maiestru";5006
+"maiestuos";5007
+"maimuta";5008
+"maimutoi";5009
+"maior";5010
+"maistru";5011
+"major";5012
+"majordom";5013
+"mal abrupt";5014
+"malarie";5015
+"maleabil";5016
+"malign";5017
+"malura";5018
+"mama";5019
+"mamica";5020
+"mamifer";5021
+"mamut";5022
+"manastire";5023
+"manastire de maici";5024
+"mandarina";5025
+"mandat";5026
+"manechin";5027
+"manevra";5028
+"mangal";5029
+"maniac";5030
+"manie";5031
+"maniera";5032
+"manifest";5033
+"manifesta (a)";5034
+"manifestare";5035
+"manivela";5036
+"mansarda";5037
+"manseta";5038
+"manson";5039
+"manta";5040
+"mantie";5041
+"manual elementar";5042
+"manunchi";5043
+"manusa";5044
+"manusa groasa de sport";5045
+"manuscris";5046
+"mar";5047
+"mar paduret";5048
+"marca";5049
+"marcat";5050
+"marchiz(a)";5051
+"marchiza";5052
+"mare";5053
+"maresal";5054
+"maret";5055
+"marfa";5056
+"margareta de munte";5057
+"margele";5058
+"margine";5059
+"mari (a)";5060
+"mari (a)(se)";5061
+"marime";5062
+"marina";5063
+"marinar";5064
+"marinimie";5065
+"marinimie (cu)";5066
+"marinimos";5067
+"marioneta";5068
+"marire";5069
+"marisor";5070
+"marmura";5071
+"maro";5072
+"maro deschis";5073
+"marochin";5074
+"marota";5075
+"mars";5076
+"martor";5077
+"marturie";5078
+"marturii";5079
+"marturisi (a)";5080
+"marturisi (a)(se)";5081
+"marturisire";5082
+"marunt";5083
+"maruntaie";5084
+"maruntisuri";5085
+"masa";5086
+"masa principala";5087
+"masacru";5088
+"masca";5089
+"mascarada";5090
+"mascul";5091
+"masculin";5092
+"masea";5093
+"masina";5094
+"masina de calculat";5095
+"masina de gatit";5096
+"masinal";5097
+"masinarie";5098
+"masinatie";5099
+"masiv";5100
+"maslin(a)";5101
+"masturba (a se)";5102
+"masura";5103
+"masura (a)";5104
+"masura de 12 duzini";5105
+"masura de capacitate";5106
+"masura de un tol";5107
+"masuratoare";5108
+"masuta";5109
+"matahala";5110
+"matahalos";5111
+"matanii";5112
+"matase";5113
+"matase artificiala";5114
+"matasos";5115
+"material";5116
+"materializa (a)(se)";5117
+"materie";5118
+"matern";5119
+"matlasa (a)";5120
+"mator";5121
+"matraca";5122
+"matreata";5123
+"matrita";5124
+"matroana";5125
+"matur";5126
+"matura";5127
+"matusa";5128
+"maxim";5129
+"maxima";5130
+"mazare";5131
+"mazare (bob)";5132
+"mazariche";5133
+"meandra";5134
+"mecanic";5135
+"mecanica";5136
+"mecanism";5137
+"mechin";5138
+"meci";5139
+"meci nul";5140
+"medalie";5141
+"medalion";5142
+"media (a)";5143
+"medic";5144
+"medic veterinar";5145
+"medie";5146
+"medie.a da o medie de";5147
+"mediocru";5148
+"medita (a)";5149
+"meditatie";5150
+"meditativ";5151
+"meditator";5152
+"mediu";5153
+"mei";5154
+"melancolic";5155
+"melc";5156
+"melodie";5157
+"melodios";5158
+"membru";5159
+"membru al unui juriu";5160
+"memento";5161
+"memora (a)";5162
+"memorabil";5163
+"memorii";5164
+"memoriu";5165
+"menajera";5166
+"menghina";5167
+"menstrel";5168
+"menstruatie";5169
+"menta";5170
+"mentalitate";5171
+"mentine (a)";5172
+"mentiune";5173
+"menuet";5174
+"mercerie";5175
+"mercur";5176
+"mereu";5177
+"merge (a)";5178
+"merge greu (a)";5179
+"merinde";5180
+"merit";5181
+"merita (a)";5182
+"merite";5183
+"mers";5184
+"mers pe jos";5185
+"mesager";5186
+"mesaj";5187
+"meschin";5188
+"meserias";5189
+"meserie";5190
+"mesteacan";5191
+"mesteca (a)";5192
+"mestesug";5193
+"mestesugar";5194
+"metafora";5195
+"metal";5196
+"meteorologie";5197
+"meticulos";5198
+"metilic";5199
+"metode";5200
+"metropolitan";5201
+"metrou";5202
+"metru";5203
+"metru de stofa";5204
+"meu";5205
+"meu (al)";5206
+"mic";5207
+"mic (prea)";5208
+"microfon";5209
+"micsora (a)";5210
+"micsora (a)(se)";5211
+"micsora(a se)";5212
+"micsorare";5213
+"micul dejun";5214
+"micut";5215
+"mie";5216
+"miel";5217
+"miere";5218
+"mieros";5219
+"mieunat";5220
+"miez";5221
+"miezul noptii";5222
+"miezul verii";5223
+"migra (a)";5224
+"miilea (al o)";5225
+"miime";5226
+"miine";5227
+"mijloace de trai";5228
+"mijloc";5229
+"mijlocitor";5230
+"mil";5231
+"mila";5232
+"mila (masura de o)";5233
+"mili (a)(se)";5234
+"miliardar";5235
+"milionar";5236
+"militar";5237
+"militarie";5238
+"militie";5239
+"milos";5240
+"mima (a)";5241
+"mimica";5242
+"mina";5243
+"mina (cit incape intr-o)";5244
+"mina de carbuni";5245
+"mina sau picior";5246
+"minca (a)";5247
+"mincare";5248
+"mincare (de peste)";5249
+"mincare (fel de)";5250
+"mincare lichida";5251
+"mincarime";5252
+"mincau";5253
+"mincinos";5254
+"minciuna";5255
+"minciuni";5256
+"mindri(a se)";5257
+"mindrie";5258
+"mindru";5259
+"mineca";5260
+"miner";5261
+"miner (de sabie)";5262
+"miner rotund";5263
+"minereu";5264
+"minerit";5265
+"minge";5266
+"mingiia (a)";5267
+"mingiiere";5268
+"minie";5269
+"minier";5270
+"minimaliza (a)";5271
+"minimul";5272
+"minios";5273
+"minister";5274
+"ministerul de finante";5275
+"ministru";5276
+"minte";5277
+"minte.capacitate";5278
+"minti (a)";5279
+"mintui (a)";5280
+"mintuitor";5281
+"minuna (a)(se)";5282
+"minunat";5283
+"minune";5284
+"minuscul";5285
+"minut(a)";5286
+"minutios";5287
+"minz";5288
+"minza";5289
+"miorlai(a se)";5290
+"miorlaiala";5291
+"miracol";5292
+"mirare";5293
+"mirare (cu)";5294
+"mire";5295
+"mirean";5296
+"mireasa";5297
+"mireasma";5298
+"miriit";5299
+"mironisita";5300
+"mironosita";5301
+"miros";5302
+"mirosi (a)";5303
+"mirsav";5304
+"mirtoaga";5305
+"miscare";5306
+"miscator";5307
+"miscelanea";5308
+"misel";5309
+"mistrie";5310
+"misuna de (a)";5311
+"mit";5312
+"mit(olog)ic";5313
+"mita";5314
+"mititel";5315
+"mitocan";5316
+"mitocanesc";5317
+"mitropolit";5318
+"mitui (a)";5319
+"mitui.a obtine (a)";5320
+"mixt";5321
+"mizer";5322
+"mizerabil";5323
+"mizerie";5324
+"mizgileala";5325
+"mizgilit";5326
+"mladita";5327
+"mlastina";5328
+"mlastinos";5329
+"moale";5330
+"moale. flasc";5331
+"moara";5332
+"moarte";5333
+"moasa";5334
+"moaste";5335
+"moate";5336
+"mobil";5337
+"mobila";5338
+"mobila (a)";5339
+"mobila veche";5340
+"mocirla";5341
+"mocni (a)";5342
+"mocofan";5343
+"mod";5344
+"moda";5345
+"model";5346
+"modela (a)";5347
+"modera (a)(se)";5348
+"moderat";5349
+"moderatie";5350
+"modern";5351
+"modest";5352
+"modestie";5353
+"modifica (a)";5354
+"modifica (a)(se)";5355
+"modista";5356
+"mofturos";5357
+"moina";5358
+"mojar";5359
+"mojic";5360
+"mojicie";5361
+"molesi (a)";5362
+"molfai (a)";5363
+"moliciune";5364
+"molie";5365
+"molima";5366
+"molipsire";5367
+"molipsitor";5368
+"moloz";5369
+"molton";5370
+"momeala";5371
+"moment";5372
+"momi (a)";5373
+"monarhie";5374
+"moneda";5375
+"moneda de un penny";5376
+"monetarie";5377
+"monografie";5378
+"monolog";5379
+"monopol";5380
+"monoton";5381
+"monstru";5382
+"monstruos";5383
+"montaj";5384
+"montura";5385
+"monument comemorativ";5386
+"mops";5387
+"moral";5388
+"morala";5389
+"moralitate exagerata";5390
+"moraliza (a)";5391
+"morar";5392
+"morcov";5393
+"morfoli (a)";5394
+"mormai (a)";5395
+"mormaiala";5396
+"mormait";5397
+"morman";5398
+"mormint";5399
+"mormoloc";5400
+"morocanos";5401
+"morsa";5402
+"mort";5403
+"mortal";5404
+"mortalitate";5405
+"mosc";5406
+"moschee";5407
+"mosie";5408
+"mosteni (a)";5409
+"mostenire";5410
+"mostenitoare";5411
+"mostenitor";5412
+"mostra";5413
+"mot";5414
+"motai (a)";5415
+"motan";5416
+"motiv";5417
+"moto";5418
+"motor";5419
+"mototoli (a)(se)";5420
+"movila";5421
+"mtt (interjectie)";5422
+"muc de luminare";5423
+"mucalit";5424
+"mucegai";5425
+"mucegait";5426
+"muchie";5427
+"muget";5428
+"mugure";5429
+"muia (a)";5430
+"muia (a)(se)";5431
+"mulaj";5432
+"mulatru";5433
+"mulge (a)";5434
+"mult";5435
+"multe";5436
+"multi";5437
+"multicolor";5438
+"multilateral";5439
+"multime";5440
+"multiplu";5441
+"multumire";5442
+"multumire(de sine)";5443
+"multumit";5444
+"multumit (de sine)";5445
+"multumitor";5446
+"mumie";5447
+"munca";5448
+"muncitor";5449
+"muncitor necalificat";5450
+"munte";5451
+"muntos";5452
+"muradr";5453
+"muraturi";5454
+"murdar";5455
+"murdar de cerneala";5456
+"murdari (a)";5457
+"murdarie";5458
+"muri (a)";5459
+"muribund";5460
+"muritor";5461
+"murmur";5462
+"murmura (a)";5463
+"musca";5464
+"muscata";5465
+"muscator";5466
+"muscatura";5467
+"muschi";5468
+"muschi de vaca";5469
+"musculos";5470
+"muselina";5471
+"music-hall";5472
+"musical";5473
+"mustar";5474
+"mustata";5475
+"mustati";5476
+"mustrare";5477
+"musuroi";5478
+"mut";5479
+"muta (a)";5480
+"mutila (a)";5481
+"mutra";5482
+"muzeu";5483
+"muzicuta de gura";5484
+"nai";5485
+"nailon";5486
+"naiv";5487
+"naivitate";5488
+"namol";5489
+"naos";5490
+"nap";5491
+"napusti(a se)";5492
+"nara";5493
+"naratiune";5494
+"naravas";5495
+"narcisa galbena";5496
+"nas";5497
+"nascoci (a)";5498
+"nascocire";5499
+"naste (a)";5500
+"naste(a se)";5501
+"nastere";5502
+"national";5503
+"natiune";5504
+"natura";5505
+"natura salbatica";5506
+"natural";5507
+"naturaliza (a)(se)";5508
+"nauci (a)";5509
+"nava";5510
+"navala";5511
+"naveta";5512
+"navetist";5513
+"navigatie";5514
+"navod";5515
+"nazbitie";5516
+"ne";5517
+"ne(mai)auzit";5518
+"neabatut";5519
+"neabordat";5520
+"neadevarat";5521
+"neadunat";5522
+"neafectat";5523
+"neajutorat";5524
+"nealterat";5525
+"neam";5526
+"neamestecat";5527
+"neamuri";5528
+"neaparat";5529
+"neascultator";5530
+"neasemuit";5531
+"neasteptat";5532
+"neastimpar";5533
+"neastimparat";5534
+"neatent";5535
+"neatentie";5536
+"neatins";5537
+"neatragator";5538
+"neauzit(de)";5539
+"nebagat in seama";5540
+"nebanuit";5541
+"nebatut";5542
+"nebun";5543
+"nebunesc";5544
+"nebuneste";5545
+"nebunie";5546
+"necaji (a)";5547
+"necaji (a)(se)";5548
+"necajit";5549
+"necalcat";5550
+"necalificat";5551
+"necasatorit(a)";5552
+"necaz";5553
+"necesar";5554
+"necesita (a)";5555
+"necesitate";5556
+"necheza (a)";5557
+"nechezat";5558
+"nechibzuiala";5559
+"nechibzuinta";5560
+"nechibzuit";5561
+"necinstit";5562
+"necioplit";5563
+"necitet";5564
+"necivilizat";5565
+"neclar";5566
+"neclintit";5567
+"neconcludent";5568
+"neconditionat";5569
+"neconformism";5570
+"neconformist";5571
+"neconsolat";5572
+"neconvigator";5573
+"neconvingator";5574
+"necopt";5575
+"necorespunzator";5576
+"necorezpunzator";5577
+"necredincios";5578
+"necrolog";5579
+"necrologic";5580
+"necrutator";5581
+"necultivat";5582
+"necumpatat";5583
+"necunoscut";5584
+"nedemn";5585
+"nedeprins";5586
+"nedestainuit";5587
+"nedorit";5588
+"nedormit";5589
+"nedrept";5590
+"nedreptate";5591
+"nedumeri (a)";5592
+"nefamiliar";5593
+"nefast";5594
+"nefavorabil";5595
+"nefericit";5596
+"nefiert";5597
+"nefiresc";5598
+"nefolosire";5599
+"nefolosit";5600
+"nefolositor";5601
+"nefondat";5602
+"nefript";5603
+"neg";5604
+"nega (a)";5605
+"nega (a)(re)";5606
+"negare";5607
+"neglijabil";5608
+"neglijare";5609
+"neglijent";5610
+"neglijenta";5611
+"negocia (a)";5612
+"negrait";5613
+"negresa";5614
+"negru";5615
+"negustor";5616
+"negustor (mare)";5617
+"negustor de galanterie";5618
+"nehotarire";5619
+"nehotarit";5620
+"neimpacat";5621
+"neimpartasit";5622
+"neimportant";5623
+"neincercat";5624
+"neincetat";5625
+"neincredere";5626
+"neincrezator";5627
+"neindeminatic";5628
+"neinduiosat";5629
+"neinduplecat";5630
+"neindurator";5631
+"neinfricat";5632
+"neinfrint";5633
+"neinsemnat";5634
+"neintelegator";5635
+"neintelegere";5636
+"neintemeiat";5637
+"neintentionat";5638
+"neinteresant";5639
+"neintrerupt";5640
+"neispravit";5641
+"neizbutit";5642
+"nejust";5643
+"nejustificabil";5644
+"nejustificat";5645
+"nejustificat(de)";5646
+"nelalocul lui";5647
+"nelamurit";5648
+"nelegitim";5649
+"nelegiuire";5650
+"nelegiuit";5651
+"nelimitat";5652
+"neliniste";5653
+"nelinistit";5654
+"nelinistitor";5655
+"nelustruit";5656
+"nemaipomenit";5657
+"nemarginit";5658
+"nemasurat";5659
+"nemernic";5660
+"nemicsorat";5661
+"nemilos";5662
+"nemiscat";5663
+"nemobilat";5664
+"nemultumi (a)";5665
+"nemultumire";5666
+"nemultumit";5667
+"nemultumit (a fi)";5668
+"nemuritor";5669
+"nemutumire";5670
+"nenascut";5671
+"nene";5672
+"nenorocire";5673
+"nenorocit";5674
+"nenorocos";5675
+"nenumarat";5676
+"nenumarati";5677
+"neobisnuit";5678
+"neobosit";5679
+"neospitalier";5680
+"nepartinitor";5681
+"nepasare";5682
+"nepasator";5683
+"nepatat";5684
+"nepatruns";5685
+"nepedepsit";5686
+"nepermis";5687
+"nepieritor";5688
+"nepingarit";5689
+"neplacere";5690
+"neplacut";5691
+"nepoata (de unchi)";5692
+"nepoftit";5693
+"nepolitete";5694
+"nepoliticos";5695
+"nepot";5696
+"nepotrivire";5697
+"nepotrivit";5698
+"nepractic";5699
+"neprecis";5700
+"neprecupetit";5701
+"nepretuit";5702
+"nepriceput";5703
+"neprietenos";5704
+"neprihanit";5705
+"neputincios";5706
+"nerabdare";5707
+"nerabdator";5708
+"nerasplatit";5709
+"nerecunoscator";5710
+"nerecuperabil";5711
+"neregulat";5712
+"nerentabil";5713
+"nerespectuos";5714
+"nereusit";5715
+"nerezolvat";5716
+"nerezonabil";5717
+"nerusinat";5718
+"nerv";5719
+"nervos";5720
+"nervura";5721
+"nesabuit";5722
+"nesanatos";5723
+"nesarat";5724
+"nesatios";5725
+"nesatisfacator";5726
+"neschimbat";5727
+"neschimbat(de)";5728
+"neschimbator";5729
+"neserios";5730
+"neseriozitate";5731
+"nesfirsit";5732
+"nesigur";5733
+"nesiguranta";5734
+"nesimtitor";5735
+"nesincer";5736
+"nesocoti (a)";5737
+"nesocotire";5738
+"nesomn";5739
+"nesortat";5740
+"nesovaielnic";5741
+"nesovaitor";5742
+"nesperat";5743
+"nespus";5744
+"nestapinit";5745
+"nestapinit(de)";5746
+"nestatornic";5747
+"nestavilit";5748
+"nestemata";5749
+"nestimparat";5750
+"nestinjenit";5751
+"nestiut";5752
+"nestrunit";5753
+"nesuferit";5754
+"nesupunere";5755
+"nesupus";5756
+"netagaduit(de)";5757
+"neted";5758
+"neterminat";5759
+"netesalat";5760
+"netulburat";5761
+"neturburat";5762
+"neuitat(de)";5763
+"neutru";5764
+"neuzitat";5765
+"nevasta";5766
+"nevastuica";5767
+"nevatamat";5768
+"nevazut";5769
+"neverosimil";5770
+"nevinovat";5771
+"nevinovatie";5772
+"nevisat";5773
+"nevoias";5774
+"nevoie";5775
+"nevrednic";5776
+"nezdruncinat";5777
+"nicaieri";5778
+"nichel";5779
+"nici";5780
+"nici o";5781
+"nici un";5782
+"nici unul";5783
+"niciodata";5784
+"nicovala";5785
+"nimb";5786
+"nimeni";5787
+"nimerit";5788
+"nimic";5789
+"nimici (a)";5790
+"nimicire";5791
+"nins";5792
+"ninsoare";5793
+"nisa";5794
+"nisip";5795
+"nisipos";5796
+"niste";5797
+"nit";5798
+"nitui (a)";5799
+"nivel";5800
+"nivel(a)";5801
+"noapte";5802
+"noazeci";5803
+"nobil";5804
+"nobilime (mica)";5805
+"nod";5806
+"noduros";5807
+"noi";5808
+"nor";5809
+"nor. a jefui";5810
+"nora";5811
+"nord";5812
+"nordic";5813
+"norma";5814
+"normal";5815
+"noroc";5816
+"norocos";5817
+"norod";5818
+"noroi";5819
+"noros";5820
+"nostim";5821
+"nostru";5822
+"nota";5823
+"nota (a)";5824
+"nota de plata";5825
+"notare";5826
+"notariat";5827
+"notatie";5828
+"notita";5829
+"notiune";5830
+"nou";5831
+"noua";5832
+"noualea (al)";5833
+"nouazecilea (al)";5834
+"nousprezece";5835
+"nousprezecelea (al)";5836
+"noutate";5837
+"nu";5838
+"nu ajuta (a)";5839
+"nu asculta (de) (a)";5840
+"nu atinge (a)";5841
+"nu crede (a)";5842
+"nu fi de acord (a)";5843
+"nu putea suferi (a)";5844
+"nu se intelege (a)";5845
+"nu sti/cunoaste (a)";5846
+"nu uita (a)";5847
+"nuanta";5848
+"nuc(a)";5849
+"nuca de cocos";5850
+"nucleu";5851
+"nud";5852
+"nuia";5853
+"nul";5854
+"numai";5855
+"numar";5856
+"numara (a)";5857
+"numarul doi";5858
+"nume";5859
+"numi (a)";5860
+"numi in functie (a)";5861
+"numire";5862
+"nunta";5863
+"nurca";5864
+"nutri (a)";5865
+"o data";5866
+"o mie";5867
+"oaie";5868
+"oala";5869
+"oale";5870
+"oameni";5871
+"oarecare";5872
+"oarecum";5873
+"oaspete";5874
+"oaza";5875
+"obada";5876
+"obicei";5877
+"obiect";5878
+"obiect de arta";5879
+"obiect de batjocura";5880
+"obiect de dispret";5881
+"obiect de valoare";5882
+"obiecta (a)";5883
+"obiecte recuperare";5884
+"obiectie";5885
+"obiectiv";5886
+"obisnuinta";5887
+"obisnuit";5888
+"oblic";5889
+"obliga (a)";5890
+"obligat sau menit sa (a fi)";5891
+"obligatie";5892
+"obligatoriu";5893
+"obloji (a)";5894
+"oblon";5895
+"oboseala";5896
+"obosit";5897
+"obositor";5898
+"obraz";5899
+"obraznic";5900
+"obraznicatura";5901
+"obraznicie";5902
+"obscen";5903
+"obscenitate";5904
+"obscenitati";5905
+"obscur";5906
+"obscuringress";5907
+"obscuritate";5908
+"obseda (a)";5909
+"observa (a)";5910
+"observatie";5911
+"observator";5912
+"obstacol";5913
+"obtine (a)";5914
+"obtuz";5915
+"ocara";5916
+"ocari (a)";5917
+"ocazie";5918
+"occidental";5919
+"ocean";5920
+"ocheada";5921
+"ochelari";5922
+"ochelari (de protectie)";5923
+"ochi";5924
+"ochi de geam";5925
+"ochire";5926
+"ochisor";5927
+"ochiuri romanesti";5928
+"ocnas";5929
+"ocol";5930
+"ocolit";5931
+"ocroti (a)";5932
+"ocrotire";5933
+"ocupa (a)";5934
+"ocupat";5935
+"ocupatie";5936
+"oda";5937
+"odgon";5938
+"odihna";5939
+"odihnitor";5940
+"odinioara";5941
+"odrasle";5942
+"ofensa";5943
+"ofensiva";5944
+"oferi (a)";5945
+"oferit (ca jertfa)";5946
+"oferta";5947
+"ofertant";5948
+"oficia (a)";5949
+"oficial";5950
+"oficiul starii civile";5951
+"ofili (a)(se)";5952
+"ofili(a se)";5953
+"ofilire";5954
+"ofilit";5955
+"ofranda";5956
+"ofsaid (in sau din)";5957
+"oftat";5958
+"oftica";5959
+"oglinda";5960
+"oglindi (a)";5961
+"oi";5962
+"oina";5963
+"olarit";5964
+"om";5965
+"om bagaret";5966
+"om bolnavicios";5967
+"om de actiune";5968
+"om de afaceri";5969
+"om de nimic";5970
+"om ironic";5971
+"om plicticos";5972
+"om sovaitor";5973
+"om.baiat";5974
+"omagiu";5975
+"omenire";5976
+"omenos";5977
+"omisiune";5978
+"omite (a)";5979
+"omnibuz";5980
+"omogen";5981
+"omolog";5982
+"omonim";5983
+"omor";5984
+"omori (a)";5985
+"omucidere";5986
+"omulet";5987
+"omusor";5988
+"onctuos";5989
+"ondulat";5990
+"ondulatie";5991
+"onorabil";5992
+"onorariu";5993
+"onorific";5994
+"opac";5995
+"opera";5996
+"operatie";5997
+"operativ";5998
+"opereta";5999
+"opinie";6000
+"opinie (publica)";6001
+"oportun";6002
+"opozitie";6003
+"opreliste";6004
+"opri (a)";6005
+"opri(a se)";6006
+"oprire";6007
+"opritoare";6008
+"opt";6009
+"optime";6010
+"optimist";6011
+"optsprezecelea (al)";6012
+"optulea (al)";6013
+"optzeci";6014
+"optzecilea (al)";6015
+"opus";6016
+"ora";6017
+"ora de clasa";6018
+"ora practica";6019
+"oracait";6020
+"oral";6021
+"orar";6022
+"oras";6023
+"orasel";6024
+"oraseni";6025
+"oratorie";6026
+"orb";6027
+"orbi (a)";6028
+"orbire";6029
+"orbita";6030
+"orbitoare";6031
+"orbitor";6032
+"orchestra";6033
+"ordin";6034
+"ordinar";6035
+"ordinat";6036
+"ordine";6037
+"ordonanta";6038
+"ore suplimentare";6039
+"oreion";6040
+"orez";6041
+"orfan";6042
+"orfelinat";6043
+"orga";6044
+"organ";6045
+"orgolios";6046
+"orhidee";6047
+"ori de cite ori";6048
+"oribil";6049
+"oricare";6050
+"orice";6051
+"oricind";6052
+"oricit de";6053
+"oricum";6054
+"orienta (catre est) (a)";6055
+"oriental";6056
+"orientare";6057
+"original";6058
+"origine";6059
+"oriunde";6060
+"orizont";6061
+"ornament";6062
+"ornamentatie";6063
+"ornamente";6064
+"oroare";6065
+"ortodoxie";6066
+"orzoaica";6067
+"os";6068
+"oscila (a)";6069
+"oscilatie";6070
+"osie";6071
+"osinda";6072
+"osindi (a)";6073
+"osos";6074
+"ospat";6075
+"ospata (a)";6076
+"ospata (a)(se)";6077
+"ospatarie";6078
+"ostatic";6079
+"osteneala";6080
+"ostentatie";6081
+"ostentativ";6082
+"ostil";6083
+"ostilitate";6084
+"ostrov";6085
+"otelit";6086
+"otet";6087
+"otrava";6088
+"otravi (a)";6089
+"otravitor";6090
+"ou";6091
+"oua jumari";6092
+"ovatie";6093
+"ovationa (a)";6094
+"ovaz";6095
+"pacala";6096
+"pacaleala";6097
+"pacali";6098
+"pacali (a)";6099
+"pacat";6100
+"pacat trupesc";6101
+"pacatos";6102
+"pacatui (a)";6103
+"pace";6104
+"pachebot";6105
+"pachet";6106
+"pachet (de carti)";6107
+"pacient";6108
+"pacifica (a)";6109
+"pacoste";6110
+"pact";6111
+"padela";6112
+"paduche";6113
+"paduchios";6114
+"padurar";6115
+"padure";6116
+"paduros";6117
+"pagin";6118
+"pagina";6119
+"paginatate";6120
+"paguba";6121
+"pahar";6122
+"pahar plin";6123
+"pahar(fara picior)";6124
+"paharel";6125
+"paiete";6126
+"paisprezece";6127
+"paisprezecime";6128
+"pajiste";6129
+"pal(id)";6130
+"palarie";6131
+"palarier";6132
+"palat";6133
+"palavrageala";6134
+"palavre";6135
+"palid";6136
+"palier";6137
+"palma";6138
+"palpabil";6139
+"palpitant";6140
+"palton";6141
+"pamatuf";6142
+"pamflet";6143
+"pamint";6144
+"pamintesc";6145
+"pamintiu";6146
+"pana";6147
+"pana (de despicat)";6148
+"pana de gisca";6149
+"pandantiv";6150
+"panglica";6151
+"panica";6152
+"panou";6153
+"panseluta";6154
+"panta";6155
+"pantalon de catifea reiata";6156
+"pantaloni";6157
+"pantaloni de (calarie)";6158
+"pantaloni de balet";6159
+"pantaloni largi";6160
+"pantaloni scurti";6161
+"pantof";6162
+"paos";6163
+"pap";6164
+"papa";6165
+"papa-lapte";6166
+"papadie";6167
+"papagal";6168
+"papalitate";6169
+"papion";6170
+"papistasime";6171
+"papuc";6172
+"papuc de casa";6173
+"papusa";6174
+"par";6175
+"par cret";6176
+"par tepos";6177
+"par tuns scurt";6178
+"para";6179
+"para (a)";6180
+"parada";6181
+"paradis";6182
+"parafina";6183
+"paragina";6184
+"paraginit";6185
+"paralela";6186
+"paraliza (a)";6187
+"paralizie";6188
+"paranteza";6189
+"parasi (a)";6190
+"parasire";6191
+"parasit";6192
+"paravan";6193
+"parazit";6194
+"parc";6195
+"parc de trandafiri";6196
+"parca (a)";6197
+"parcela";6198
+"parcela (a)";6199
+"parchet";6200
+"parcurge din nou (a)";6201
+"pardesiu";6202
+"pardoseala";6203
+"parea (a)";6204
+"parere";6205
+"parfum";6206
+"parfumat";6207
+"paria";6208
+"paria (a)";6209
+"parinte";6210
+"parintesc";6211
+"paritate";6212
+"pariu. a paria";6213
+"parlament";6214
+"parodie";6215
+"paroh";6216
+"parohial";6217
+"parohie";6218
+"parola";6219
+"paros";6220
+"parte";6221
+"parte din fata";6222
+"partea de sus";6223
+"partener";6224
+"partial";6225
+"particular";6226
+"particularitate";6227
+"partid";6228
+"partida";6229
+"partinire";6230
+"parvenit";6231
+"pasabil";6232
+"pasager";6233
+"pasaj";6234
+"pasaport";6235
+"pasare";6236
+"pasare cintatoare";6237
+"pasare de curte";6238
+"pasarela";6239
+"pasari domestice";6240
+"pasarica";6241
+"pasionat";6242
+"pasiune";6243
+"pasiv";6244
+"pasnic";6245
+"pasta";6246
+"pastai";6247
+"pastaie";6248
+"pastaie de soia";6249
+"paste (a)";6250
+"pastel (culori)";6251
+"pastirnac";6252
+"pastor";6253
+"pastorita";6254
+"pastos";6255
+"pastra (a)";6256
+"pastra (cu grija) (a)";6257
+"pastrare";6258
+"pastrav";6259
+"pasune";6260
+"pat";6261
+"pat (de pusca)";6262
+"pat de campanie";6263
+"pat de copil";6264
+"pata";6265
+"pata (a se)";6266
+"pata (a)";6267
+"patent";6268
+"paternitate";6269
+"pateu";6270
+"pati (a)";6271
+"patina";6272
+"patinoar";6273
+"patiserie";6274
+"patlagica rosie";6275
+"patos";6276
+"patrie";6277
+"patrime";6278
+"patron";6279
+"patrona (a)";6280
+"patronaj";6281
+"patru";6282
+"patrula";6283
+"patrula (a)";6284
+"patrulater";6285
+"patrulea (al)";6286
+"patrunde (a)";6287
+"patrundere";6288
+"patrunjel";6289
+"patruns";6290
+"patrunzator";6291
+"patruped";6292
+"patruzeci";6293
+"patruzecilea (al)";6294
+"patura";6295
+"patut";6296
+"pauza";6297
+"paza";6298
+"pazi (a)";6299
+"pazi (de)(a se)";6300
+"pazitor";6301
+"paznic";6302
+"paznic (de paduri)";6303
+"paznic de sclavi";6304
+"pe";6305
+"pe ascuns";6306
+"pe cale de disparitie";6307
+"pe care";6308
+"pe cind";6309
+"pe cine";6310
+"pe de-a intregul";6311
+"pe deasupra";6312
+"pe ea";6313
+"pe linga";6314
+"pe linga asta";6315
+"pe merit";6316
+"pe mine";6317
+"pe muchie";6318
+"pe nestiute";6319
+"pe noi";6320
+"pe picioare";6321
+"pe punctul de a";6322
+"pe scurt";6323
+"pe sfirsite";6324
+"pe urma";6325
+"pe uscat";6326
+"pe vremuri";6327
+"pecete";6328
+"pedant";6329
+"pedeapsa";6330
+"pedepsi";6331
+"pedepsi (a)";6332
+"pedestru";6333
+"peiorativ";6334
+"peisaj";6335
+"pelerin";6336
+"peltea";6337
+"peluza";6338
+"penaj";6339
+"pendula";6340
+"penibil";6341
+"penita";6342
+"penitenta";6343
+"pensa";6344
+"penseta";6345
+"pensie";6346
+"pensie alimentara";6347
+"pensionar";6348
+"pentru";6349
+"pentru ce";6350
+"pentru si contra";6351
+"pentru tineret";6352
+"penurie";6353
+"pepene";6354
+"percepe (a)";6355
+"percepere";6356
+"perceptibil";6357
+"perchezitie";6358
+"perdea";6359
+"pereche";6360
+"pereche de boi";6361
+"perete";6362
+"perfect";6363
+"perfectiune";6364
+"perfid";6365
+"perforator";6366
+"pergament";6367
+"pericol";6368
+"periculos";6369
+"perie";6370
+"periferic";6371
+"periferie";6372
+"perioada";6373
+"perla";6374
+"permanent";6375
+"permis";6376
+"permisie";6377
+"permisiune";6378
+"permite (a)";6379
+"permite (a-si)";6380
+"perna (de canapea)";6381
+"perna de dormit";6382
+"perna de sprijin";6383
+"pernita";6384
+"peron";6385
+"peroratie";6386
+"persecuta (a)";6387
+"perseverent";6388
+"persoana";6389
+"persoana bine";6390
+"persoana care ia masa";6391
+"persoana in doliu";6392
+"persoana mai virstnica";6393
+"persoana prezenta";6394
+"personal";6395
+"perspectiva";6396
+"perspective (cu)";6397
+"perspicacitate";6398
+"peruca";6399
+"peruzea";6400
+"pervaz";6401
+"pervers";6402
+"perverti (a)";6403
+"pescar";6404
+"pescarus";6405
+"pescuit";6406
+"peste";6407
+"peste bord";6408
+"peste noapte";6409
+"peste tot";6410
+"pesti";6411
+"pestisori mici";6412
+"petic";6413
+"petire";6414
+"petitie";6415
+"petrecere";6416
+"petrol";6417
+"pian";6418
+"piata";6419
+"piata circulara";6420
+"piatra de riu";6421
+"piatra ponce";6422
+"pic";6423
+"pic(atura)";6424
+"pica";6425
+"picaj";6426
+"picant";6427
+"picatura";6428
+"picioare de porc";6429
+"picior";6430
+"picior de pod";6431
+"picior dinainte";6432
+"picla";6433
+"picnic";6434
+"pictor";6435
+"pictura";6436
+"picup";6437
+"picura (a)";6438
+"picurare";6439
+"piedica";6440
+"piele";6441
+"piele de antilopa";6442
+"piele de foca";6443
+"piele fina";6444
+"piele(lucrata)";6445
+"piele(tabacita)";6446
+"pielita";6447
+"piept";6448
+"pieptar";6449
+"pieptene";6450
+"pierde (a)";6451
+"pierde vara";6452
+"pierde vremea (a)";6453
+"pierdere";6454
+"pierderi";6455
+"pierdut";6456
+"piersica";6457
+"piesa";6458
+"piesa sau roata de rezerva";6459
+"pietate";6460
+"pieton";6461
+"pietricica";6462
+"pietris";6463
+"pietroi";6464
+"pietrui (a)";6465
+"piftie";6466
+"pigmeu";6467
+"piine";6468
+"piine muiata";6469
+"piine prajita";6470
+"pijama";6471
+"pilc";6472
+"pili (a)";6473
+"pilitura";6474
+"pilnie";6475
+"pilon";6476
+"pilot";6477
+"pilota";6478
+"pilpiit. flacara";6479
+"pilula";6480
+"pin";6481
+"pina acum";6482
+"pina la";6483
+"pinda";6484
+"pindi (a)";6485
+"pingari (a)";6486
+"pinguin";6487
+"pintec";6488
+"pintecele mamei";6489
+"pinza (de corabie)";6490
+"pinza alba";6491
+"pinza aspra";6492
+"pinza de doc";6493
+"pinza de paianjen";6494
+"pinza de traforaj";6495
+"pinzar";6496
+"pinzeturi de in";6497
+"pion";6498
+"pioner";6499
+"pioneza";6500
+"pios";6501
+"pipai (a)";6502
+"pipait";6503
+"piper";6504
+"piperat";6505
+"pirat";6506
+"piraterie";6507
+"pireu";6508
+"pirghie";6509
+"pirit";6510
+"piriu";6511
+"piroteala";6512
+"pirpiriu";6513
+"pisa (a)";6514
+"pisalog";6515
+"piscatura";6516
+"piscot";6517
+"pisic(uta)";6518
+"pisica";6519
+"pisicuta";6520
+"pisla";6521
+"pista";6522
+"pistil";6523
+"pistol";6524
+"pistrui";6525
+"pitic";6526
+"pitigoi";6527
+"pitoresc";6528
+"pitpalac";6529
+"pitulice";6530
+"piulita";6531
+"pivnita";6532
+"pizma";6533
+"pizmas";6534
+"pizmui (a)";6535
+"placa";6536
+"placa turnata";6537
+"placarda";6538
+"placere";6539
+"placid";6540
+"placinta";6541
+"placut";6542
+"placut la vedere";6543
+"plafon";6544
+"plagia (a)";6545
+"plagiat";6546
+"plaja";6547
+"plamin";6548
+"plan";6549
+"plan de invatamint";6550
+"plan rau";6551
+"planor";6552
+"planta";6553
+"planta agatatoare";6554
+"planui (a)";6555
+"plapind";6556
+"plasa";6557
+"plasa (ochi de)";6558
+"plasatoare";6559
+"plasator";6560
+"plasmuire";6561
+"plat";6562
+"plata";6563
+"platibil";6564
+"platitudine";6565
+"pleava";6566
+"pleca (a)";6567
+"plecaciune";6568
+"plecare";6569
+"pled";6570
+"pledoarie";6571
+"plenitudine";6572
+"pleoapa";6573
+"plescait";6574
+"plesni (a)";6575
+"plesnitura";6576
+"plesuv";6577
+"pliant";6578
+"plic";6579
+"plicticos";6580
+"plictiseala";6581
+"plictisit";6582
+"plictisitor";6583
+"plimbare";6584
+"plimbare cu un vehicul";6585
+"plin";6586
+"plin (a fi)";6587
+"plin de (primejdii)";6588
+"plin de abnegatie";6589
+"plin de buruieni";6590
+"plin de fum";6591
+"plin de hopuri";6592
+"plin de regret";6593
+"plin de regrete";6594
+"plin de repros";6595
+"plin de resurse";6596
+"plin de sapun";6597
+"plin de seminte";6598
+"plin de tact";6599
+"plin ochi";6600
+"plin(atate)";6601
+"plin(de)";6602
+"plingaret";6603
+"plinge (a)(de)";6604
+"plinge(a se)";6605
+"plingere";6606
+"plinset";6607
+"pliseu";6608
+"pliu";6609
+"ploaie";6610
+"ploaie scurta";6611
+"ploconi(a se)";6612
+"ploenasm";6613
+"ploios";6614
+"plonjon";6615
+"plop";6616
+"plosnita";6617
+"plug";6618
+"plumb (ca de)";6619
+"plus";6620
+"pluta";6621
+"plutas";6622
+"pluti (a)";6623
+"pluti in aer (a)";6624
+"pluton";6625
+"plutonier major";6626
+"poala";6627
+"poarta";6628
+"poate";6629
+"poate (se prea)";6630
+"poavaza (a)";6631
+"pocainta";6632
+"pocait";6633
+"pocher";6634
+"pocni (a)";6635
+"pocnitura";6636
+"pod";6637
+"pod (al casei)";6638
+"pod basculant";6639
+"podgorean";6640
+"podgorie";6641
+"podoaba";6642
+"podoabe";6643
+"poem";6644
+"poem epic";6645
+"poezie";6646
+"pofta";6647
+"pofta (cu)";6648
+"pofticios";6649
+"pogon";6650
+"poiana";6651
+"pojar";6652
+"pol";6653
+"polei (a)";6654
+"poleiala";6655
+"polenizare";6656
+"poligam";6657
+"poliomelita";6658
+"polita caminului";6659
+"polita de asigurari";6660
+"politai";6661
+"politete";6662
+"politica";6663
+"politicos";6664
+"politicos (prea)";6665
+"politie";6666
+"politist";6667
+"polonic";6668
+"polua (a)";6669
+"poluare";6670
+"pomada";6671
+"pomana";6672
+"pomenit anterior";6673
+"pompa";6674
+"pompe funebre";6675
+"pompos";6676
+"ponegri (a)";6677
+"ponei";6678
+"popa";6679
+"popic";6680
+"popor";6681
+"populariza (a)";6682
+"populat";6683
+"porc";6684
+"porc mistret";6685
+"porcarii";6686
+"porcesc";6687
+"porecli (a)";6688
+"porni (a)";6689
+"port";6690
+"portar";6691
+"portavoce";6692
+"portelan";6693
+"portelanuri";6694
+"portie";6695
+"portita";6696
+"portiune";6697
+"portocala";6698
+"portocaliu";6699
+"portofel";6700
+"portofoliu";6701
+"portretiza (a)";6702
+"portvizit";6703
+"porumb";6704
+"porumbel";6705
+"porunca";6706
+"porunca.";6707
+"porunci (a)";6708
+"poseda (a)";6709
+"posesie";6710
+"posesiune";6711
+"posibil";6712
+"posibilitate de alegere";6713
+"posibilitati";6714
+"posomorit";6715
+"post";6716
+"post-mortem";6717
+"post-scriptum";6718
+"posta";6719
+"postav";6720
+"postav (cu dungi)";6721
+"postbelic";6722
+"postum";6723
+"potcoava";6724
+"potcovar";6725
+"potcovarie";6726
+"poteca";6727
+"potirniche";6728
+"potoli (a)";6729
+"potolit";6730
+"potop";6731
+"potpuriu";6732
+"potrivi (a)(se)";6733
+"potrivire";6734
+"potrivire in timp";6735
+"potrivit";6736
+"potrivit pentru (a fi)";6737
+"potroace";6738
+"povara";6739
+"poveste";6740
+"povesti (a)";6741
+"povestire";6742
+"povincie";6743
+"povirnis";6744
+"poza";6745
+"pozitie";6746
+"pozitie dominanta";6747
+"pozitiv";6748
+"poznas";6749
+"prabusi(a se)";6750
+"prabusire";6751
+"practic";6752
+"practica";6753
+"practica (a)";6754
+"practicabil";6755
+"practicant";6756
+"prada";6757
+"pradaciune";6758
+"pradalnic";6759
+"praf";6760
+"praf (fir de)";6761
+"praf(de )pusca";6762
+"prafuit";6763
+"prag";6764
+"prag de sus al usii";6765
+"praji(a se)";6766
+"prajina";6767
+"prajitura";6768
+"prajiturica";6769
+"prapadit";6770
+"prapastie";6771
+"prastie";6772
+"pravalie";6773
+"praz";6774
+"praznic";6775
+"prea";6776
+"prea lung";6777
+"prea poate (se)";6778
+"prea putini";6779
+"preaviz";6780
+"precaut";6781
+"precautie";6782
+"precede (a)";6783
+"precedent";6784
+"precis";6785
+"preciza (a)";6786
+"preconceput";6787
+"predare";6788
+"predecesor";6789
+"predestina (a)";6790
+"predica";6791
+"predilectie";6792
+"predispune";6793
+"predispune (a)";6794
+"predominant";6795
+"predominant (a fi)";6796
+"prefabricat";6797
+"prefacatorie";6798
+"prefacere";6799
+"prefacut";6800
+"prefata";6801
+"prefera (a)";6802
+"preferinta";6803
+"pregatire";6804
+"pregatit";6805
+"preistoric";6806
+"prejudecata";6807
+"prejudiciu";6808
+"prelata";6809
+"prelegere";6810
+"preludiu";6811
+"prelungi (a)";6812
+"prelungire";6813
+"prematur";6814
+"premergator";6815
+"premiat";6816
+"premisa";6817
+"premisa falsa";6818
+"premiu";6819
+"preocupat";6820
+"preot";6821
+"preotie";6822
+"preparare a mincarii";6823
+"preparat";6824
+"prepelicar";6825
+"prepelita";6826
+"prerie";6827
+"presa";6828
+"presant";6829
+"presara (a)";6830
+"presatoare";6831
+"preschimbare";6832
+"prescrie (a)";6833
+"presedinte";6834
+"presimtire";6835
+"presiune";6836
+"prestidigitatie";6837
+"prestigiu";6838
+"presupune (a)";6839
+"presupunere";6840
+"pret";6841
+"preta(a se)";6842
+"pretendent";6843
+"pretentie";6844
+"pretentios";6845
+"pretinde (a)";6846
+"pretios";6847
+"pretutindeni";6848
+"preupune (a)";6849
+"prevedea (a)";6850
+"prevedere";6851
+"preveni (a)";6852
+"preventie";6853
+"prevesti (a)";6854
+"prevesti (rau) (a)";6855
+"prevestire";6856
+"prevestitor de rau";6857
+"prevestitor de rele";6858
+"previzibil";6859
+"previziune";6860
+"prezbiteriu";6861
+"prezent";6862
+"prezenta";6863
+"prezenta (a)";6864
+"prezentare";6865
+"prezicator";6866
+"prezice (a)";6867
+"prezidiu";6868
+"pricepere";6869
+"priceput";6870
+"pridvor";6871
+"prieten";6872
+"prieten bun";6873
+"prieten la toarta";6874
+"prietenie";6875
+"prietenos";6876
+"prihor(ie)";6877
+"prilej";6878
+"prilej favorabil";6879
+"prim";6880
+"prim-plan";6881
+"prima";6882
+"primar";6883
+"primavaratec";6884
+"primejdie";6885
+"primejdui (a)";6886
+"primi (a)";6887
+"primii";6888
+"primire";6889
+"primire buna";6890
+"primitiv";6891
+"primitor";6892
+"primul";6893
+"primul jurat";6894
+"primula";6895
+"prin";6896
+"prin delegat";6897
+"princiar";6898
+"principal";6899
+"principialitate";6900
+"principiu";6901
+"prinde (a)";6902
+"prinde (a)(se)";6903
+"prinde (din nou) (a)";6904
+"prinde in capcana (a)";6905
+"prinde puteri (a)";6906
+"print";6907
+"printesa";6908
+"prinz";6909
+"prioritate";6910
+"pripa";6911
+"pripit";6912
+"pripon";6913
+"priponi (a)";6914
+"prisma";6915
+"priva (a)";6916
+"privatiune";6917
+"priveghi";6918
+"priveliste";6919
+"privi (a)";6920
+"privi gales (a)";6921
+"privire";6922
+"privire aspra";6923
+"privire insistenta";6924
+"privire la (cu)";6925
+"privire scirboasa";6926
+"privitor";6927
+"priza";6928
+"proaspat";6929
+"proba";6930
+"probabil";6931
+"probabil (a fi)";6932
+"probabil (foarte)";6933
+"probabilitate";6934
+"problema";6935
+"problema dificila";6936
+"procedeu";6937
+"procedura";6938
+"procentaj";6939
+"proces";6940
+"proces verbal";6941
+"proces-verbal";6942
+"procese-verbale";6943
+"procesiune";6944
+"procura (a)";6945
+"procurist";6946
+"procuror";6947
+"producator";6948
+"produce (a)";6949
+"produce(a se)";6950
+"productie";6951
+"produs";6952
+"profan";6953
+"profesa (a)";6954
+"profesie";6955
+"profesional";6956
+"profesionist";6957
+"profesionist(liber)";6958
+"profesiune";6959
+"profesoara";6960
+"profesor";6961
+"profesori la facultate";6962
+"profit";6963
+"profitabil";6964
+"profitor";6965
+"profund";6966
+"progenitura";6967
+"program";6968
+"progres";6969
+"progresi(e)";6970
+"progresist";6971
+"progresiv";6972
+"prohab";6973
+"proiect";6974
+"proiecta (a)";6975
+"proiectant";6976
+"proiectare";6977
+"proiectie";6978
+"proiectil";6979
+"proiector";6980
+"prolix";6981
+"prolixitate";6982
+"promenada";6983
+"promisiune";6984
+"promitator";6985
+"promoroaca";6986
+"promova (a)";6987
+"promovare";6988
+"prompt";6989
+"promulga (a)";6990
+"pronunta gresit (a)";6991
+"pronuntare neclara";6992
+"pronuntat";6993
+"propasire";6994
+"propietar";6995
+"proportie";6996
+"proportii";6997
+"proportional";6998
+"proprietar";6999
+"proprietarul unei ferme";7000
+"proprietate";7001
+"propriu";7002
+"propune (a-si)";7003
+"propune un canditat (a)";7004
+"propunere";7005
+"propunere(de casatorie)";7006
+"prora";7007
+"prosop";7008
+"prospect";7009
+"prosper";7010
+"prospera (a)";7011
+"prosperitate";7012
+"prospetime";7013
+"prost";7014
+"prost crescut";7015
+"prost dispus";7016
+"prostanac";7017
+"prosternat";7018
+"prostesc";7019
+"prosti (a)";7020
+"prostie";7021
+"prostii";7022
+"prostituate";7023
+"prostovan";7024
+"prostratie";7025
+"protectie";7026
+"protector";7027
+"proteja (a)";7028
+"protest";7029
+"protesta (a)";7030
+"protocolar";7031
+"provadui (a)";7032
+"proveni (a)";7033
+"providenta";7034
+"provizii";7035
+"provizoriu";7036
+"provocare";7037
+"provocator";7038
+"proza";7039
+"proza epica";7040
+"prozaic";7041
+"prozodie";7042
+"prudent";7043
+"pruna uscata";7044
+"prundis";7045
+"psihiatru";7046
+"public";7047
+"publica (a)";7048
+"publicare";7049
+"publicatie";7050
+"publicatie lunara";7051
+"publicitate";7052
+"pudel";7053
+"pudra";7054
+"pudrat";7055
+"pudriera";7056
+"puf";7057
+"pufait";7058
+"pufos";7059
+"pui";7060
+"pui de leu";7061
+"pui de somn";7062
+"pui de vulpe";7063
+"pui iesiti din ou";7064
+"pulbere";7065
+"pulover";7066
+"pulpa";7067
+"pulpa de fructe";7068
+"puls";7069
+"pumn";7070
+"pumnal";7071
+"punct";7072
+"punct dureros";7073
+"punct si virgula";7074
+"puncta (a)";7075
+"punctuatie";7076
+"pune (a)";7077
+"pune in functiune (a)";7078
+"pune la punct (a)";7079
+"pune sub acuzatie (a)";7080
+"pune unde nu trebuie (a)";7081
+"punere sub acuzare";7082
+"punga";7083
+"pungas";7084
+"pungasie";7085
+"puns";7086
+"punte";7087
+"pupa";7088
+"pupaza";7089
+"pupila";7090
+"pupitru";7091
+"pur";7092
+"pur si simplu";7093
+"purgativ";7094
+"purice";7095
+"purifica (a)";7096
+"puritate";7097
+"puroi";7098
+"purpura";7099
+"purpuriu";7100
+"purta (a)";7101
+"purta prin aer (a)";7102
+"purta rau(a se)";7103
+"purta(a se)";7104
+"purtare";7105
+"purtare rea";7106
+"purtare.maniere";7107
+"purtator";7108
+"pus gresit";7109
+"pus la punct";7110
+"pusca";7111
+"puscasi";7112
+"pusti";7113
+"pustii (a)";7114
+"pustiu";7115
+"pustnic";7116
+"put";7117
+"putea (a)";7118
+"putere";7119
+"putere de cumparare";7120
+"puternic";7121
+"putin adinc";7122
+"putin probabil";7123
+"putin(tel)";7124
+"putinel";7125
+"putintel";7126
+"putred";7127
+"putregai";7128
+"putreziciune";7129
+"rabat";7130
+"rabatabil";7131
+"rabdare";7132
+"rabla";7133
+"raboj";7134
+"rabufneala";7135
+"rac";7136
+"raceala";7137
+"racheta";7138
+"racheta (de tenis)";7139
+"rachita";7140
+"rachiu";7141
+"rachiu de secara";7142
+"raci (a)";7143
+"racila";7144
+"racoare";7145
+"racori (a)";7146
+"racoros";7147
+"radacina";7148
+"rade (a)";7149
+"radia (a)";7150
+"radiator";7151
+"radiera";7152
+"radio";7153
+"radiografie";7154
+"rafala";7155
+"rafina (a)(se)";7156
+"rafinament";7157
+"rafinament (formal)";7158
+"rafinarie";7159
+"rafinat";7160
+"rafturi";7161
+"rafuiala";7162
+"ragaz";7163
+"raglan";7164
+"ragusit";7165
+"rahitic";7166
+"rahitism";7167
+"raid";7168
+"raion";7169
+"rama";7170
+"ramas bun";7171
+"ramasag";7172
+"ramasita";7173
+"ramasite (ale unei distrugeri)";7174
+"rambursa (a)";7175
+"ramine (a)";7176
+"ramine in urma (a)";7177
+"ramoleala";7178
+"ramolit";7179
+"ramura";7180
+"ramura principala";7181
+"ramurica";7182
+"rana";7183
+"ranchiuna";7184
+"rang";7185
+"rangul de pair";7186
+"rani (a)";7187
+"ranita";7188
+"rapaiala";7189
+"rapi (a)";7190
+"rapid";7191
+"rapiditate";7192
+"rapire";7193
+"rapita";7194
+"raport";7195
+"rar";7196
+"rar(eori)";7197
+"raritate";7198
+"rasa";7199
+"rasa de ciini de vinatoare";7200
+"rasarit";7201
+"rascoala";7202
+"rascruce";7203
+"rascula(a se)";7204
+"rascumpara (a)";7205
+"rasfata (a)";7206
+"rasfatat";7207
+"rasfringe (a)";7208
+"rasfringere";7209
+"rasial";7210
+"rasina";7211
+"rasism";7212
+"rasol";7213
+"rasoli (a)";7214
+"raspicat";7215
+"raspindi (a)";7216
+"raspindire";7217
+"raspindit";7218
+"rasplata";7219
+"rasplati (a)";7220
+"raspunde la (a)";7221
+"raspundere";7222
+"raspuns";7223
+"raspunzator";7224
+"rastignire";7225
+"rasturna (a)";7226
+"rasturna (a)(se)";7227
+"rasturnare";7228
+"rasuci (a)";7229
+"rasucire";7230
+"rasucit";7231
+"rasuflare";7232
+"rasuflare intretaiata";7233
+"rasuna (a)";7234
+"rasunator";7235
+"rasunet";7236
+"rata";7237
+"rataci (a)";7238
+"ratacitor";7239
+"ratat";7240
+"rational";7241
+"rationaliza (a)";7242
+"ratiune";7243
+"ratoi";7244
+"raturnare";7245
+"rau";7246
+"rau (a-i pare)";7247
+"rau inteles";7248
+"rau(mirositor)";7249
+"rautacios";7250
+"rautate";7251
+"rauvoitor";7252
+"ravagii";7253
+"ravaseala";7254
+"raza";7255
+"raza (de actiune)";7256
+"razatoare";7257
+"razaturi";7258
+"razboi";7259
+"razboi de partizani";7260
+"razboi de tesut";7261
+"razboinic";7262
+"razbuna (a)(se)";7263
+"razbuna pe(a se)";7264
+"razbuna(a se)";7265
+"razbunare";7266
+"razbunator";7267
+"razor";7268
+"razvrati(a se)";7269
+"razvratit";7270
+"reactie";7271
+"reactiona (a)";7272
+"reactiv";7273
+"real";7274
+"realitate";7275
+"realitati";7276
+"realiza (a)";7277
+"realizabil";7278
+"reaparea (a)";7279
+"rearanja (a)";7280
+"rearanjare";7281
+"rebel";7282
+"rebeliune";7283
+"rebut";7284
+"recadere";7285
+"recapata (a)";7286
+"recasatori(a se)";7287
+"rece";7288
+"recensamint";7289
+"receptie";7290
+"receptiv";7291
+"receptor";7292
+"rechemare";7293
+"rechin";7294
+"rechizitie";7295
+"reciproc";7296
+"recistiga (a)";7297
+"recita (a)";7298
+"recitare";7299
+"reclama";7300
+"reclamant";7301
+"recolta";7302
+"recolta (a)";7303
+"recomanda (a)";7304
+"recomandabil";7305
+"recomandat";7306
+"recompensa";7307
+"reconsiderare";7308
+"recreatie";7309
+"recrut";7310
+"rector";7311
+"recul";7312
+"recunoaste (a)";7313
+"recunoastere";7314
+"recunoscator";7315
+"recunostinta";7316
+"recupera (a)";7317
+"recuperare";7318
+"recurent";7319
+"recurgere";7320
+"recuzita";7321
+"reda (a)";7322
+"redacta (a)";7323
+"redactor (sef)";7324
+"redare";7325
+"redeschide(a se)";7326
+"reduce (a)";7327
+"reducere";7328
+"redus";7329
+"reface (a)";7330
+"reface(a se)";7331
+"referi(a se)";7332
+"referire";7333
+"referitor la gura";7334
+"reflecta (a)";7335
+"reflectie";7336
+"reflector";7337
+"reflux";7338
+"refolosi (a)";7339
+"reforma";7340
+"refractar";7341
+"refren";7342
+"refugiat";7343
+"refugiu";7344
+"refugiu obisnuit";7345
+"refuz";7346
+"refuza (a)";7347
+"reg(u)la (a)";7348
+"regal";7349
+"regat";7350
+"rege";7351
+"regesc";7352
+"regie";7353
+"regim";7354
+"registru";7355
+"regiune";7356
+"regizor(principal)";7357
+"regres";7358
+"regret";7359
+"regretabil";7360
+"regula";7361
+"regulament";7362
+"regularitate";7363
+"regulat";7364
+"regulator";7365
+"reguli eticheta";7366
+"reinarmare";7367
+"reincepere";7368
+"reinnoire";7369
+"reinoi (a)";7370
+"reintoarcere";7371
+"reinvia (a)";7372
+"reinviere";7373
+"relata (a)";7374
+"relatare";7375
+"relatie";7376
+"relativ";7377
+"relicva";7378
+"religiozitate";7379
+"relua (a-si)";7380
+"reluare";7381
+"remania (a)";7382
+"remarcabil";7383
+"remedia (a)";7384
+"remediu";7385
+"remi";7386
+"remite (a)";7387
+"remiza";7388
+"remodela (a)";7389
+"remorca";7390
+"remuscare";7391
+"ren";7392
+"renastere";7393
+"renega (a)";7394
+"renegat";7395
+"rentabil";7396
+"renume";7397
+"renunta (a)";7398
+"renunta la (a)";7399
+"renuntare";7400
+"repara (a)";7401
+"repartiza (a)";7402
+"repaus";7403
+"repeta (a)";7404
+"repeta(a se)";7405
+"repetat";7406
+"repetat (mereu)";7407
+"repetitie";7408
+"repezit";7409
+"replica";7410
+"replica (prompta)";7411
+"replica (spirituala)";7412
+"reportaj";7413
+"represalii";7414
+"reprezenta (a)";7415
+"reprezentant";7416
+"reprezentantul parchetului";7417
+"reprima (a)";7418
+"repriza";7419
+"reproducere";7420
+"reprofila (a)";7421
+"repros";7422
+"republica";7423
+"repulsie";7424
+"repune (a)";7425
+"reputatie";7426
+"resemnare";7427
+"resentiment";7428
+"respect";7429
+"respecta (a)";7430
+"respectare";7431
+"respectuos";7432
+"respingator";7433
+"respinge (a)";7434
+"respingere";7435
+"respira (a)";7436
+"responsabil";7437
+"rest";7438
+"rest(uri)";7439
+"restabili (a)";7440
+"restant";7441
+"restaurare";7442
+"restitui (a)";7443
+"restituire";7444
+"restrictie";7445
+"restringe (a)";7446
+"resturi";7447
+"resursa";7448
+"resurse";7449
+"reteta";7450
+"reteta (culinara)";7451
+"reteza (a)";7452
+"retine (a)";7453
+"retine preventiv (a)";7454
+"retine(dinainte) (a)";7455
+"retipari (a)";7456
+"retractare";7457
+"retrage (a)(se)";7458
+"retrage(a se)";7459
+"retragere";7460
+"retras";7461
+"retrograd";7462
+"retrospectiva";7463
+"reuniune";7464
+"revansa";7465
+"revelatie";7466
+"revendica (a)";7467
+"revendicare";7468
+"reveni (a)";7469
+"reveni (a-si)";7470
+"reveni la (a)";7471
+"revenire";7472
+"revenire la";7473
+"rever(de haina)";7474
+"reverenta";7475
+"revers";7476
+"revista (trecere in)";7477
+"revista ilustrata";7478
+"revizie generala";7479
+"revizui (a)";7480
+"revocare";7481
+"revolta";7482
+"revoltator";7483
+"revolutionar";7484
+"rezerva";7485
+"rezervat";7486
+"rezervatie";7487
+"rezervor";7488
+"reziduu";7489
+"rezista la (a)";7490
+"rezistent";7491
+"rezistenta";7492
+"rezolutie";7493
+"rezolva (a)";7494
+"rezolvabil";7495
+"rezolvare";7496
+"rezonabil";7497
+"rezulta (a)";7498
+"rezultat";7499
+"rezuma (a)";7500
+"rezumat";7501
+"rica";7502
+"ricoseu";7503
+"ride (a)";7504
+"ride pe infundate (a)";7505
+"ridica (a)";7506
+"ridica (a)(se)";7507
+"ridica la(a se)";7508
+"ridica(a se)";7509
+"ridicare";7510
+"ridicare din umeri";7511
+"ridiche";7512
+"ridicol";7513
+"ridiculiza (a)";7514
+"rigla";7515
+"rigoare";7516
+"rigola";7517
+"riguros";7518
+"riie";7519
+"riios";7520
+"rila";7521
+"rima";7522
+"rinced";7523
+"rind";7524
+"rind de loji";7525
+"rindunica";7526
+"ring";7527
+"rinichi";7528
+"rinjet";7529
+"rinjet(satisfacut)";7530
+"ripa";7531
+"riposta";7532
+"ris";7533
+"ris (hohot de)";7534
+"risc";7535
+"risca (a)";7536
+"riscant";7537
+"risipa";7538
+"risipi (a)(se)";7539
+"risipit";7540
+"risipitor";7541
+"risling";7542
+"risnita";7543
+"ritm";7544
+"ritual";7545
+"riu";7546
+"rivalitate";7547
+"rivaliza (a)";7548
+"rivni (a)";7549
+"roaba";7550
+"roade";7551
+"roade (a)";7552
+"roade (a)(se)";7553
+"roata";7554
+"roata dintata";7555
+"rob";7556
+"roba";7557
+"robi (a)";7558
+"robie";7559
+"robinet";7560
+"roca";7561
+"rochie";7562
+"rocoare";7563
+"rodie";7564
+"roditor";7565
+"rodnic";7566
+"rogojina";7567
+"roib";7568
+"rol";7569
+"rola";7570
+"rom";7571
+"roman";7572
+"roman cavaleresc";7573
+"roman foileton";7574
+"roman politist";7575
+"romancier";7576
+"romantism";7577
+"romb";7578
+"rond";7579
+"ropot";7580
+"ros";7581
+"rosatura";7582
+"roseata";7583
+"rosi (a)";7584
+"rosiatic";7585
+"rosie";7586
+"rosti (a)";7587
+"rostire";7588
+"rostogoli (a)(se)";7589
+"rosu";7590
+"roti(a se)";7591
+"rotila";7592
+"rotire";7593
+"rotitor";7594
+"rotofei";7595
+"rotund";7596
+"rotunjime";7597
+"roua";7598
+"roz";7599
+"rozator";7600
+"rozmarin";7601
+"rubin";7602
+"rubiniu";7603
+"rubla";7604
+"rubrica";7605
+"rucsac";7606
+"ruda";7607
+"rude";7608
+"rude prin alianta";7609
+"rudenie";7610
+"rufarie";7611
+"rufarie data la spalat";7612
+"rufe date la spalatorie";7613
+"rug";7614
+"ruga (a)";7615
+"ruga (a)(se)";7616
+"rugaciune";7617
+"rugaminte";7618
+"rugator";7619
+"rugbi";7620
+"rugina";7621
+"ruginit";7622
+"ruina";7623
+"ruinator";7624
+"ruj";7625
+"ruja(a se)";7626
+"rulare";7627
+"ruleta";7628
+"rulou";7629
+"rumega (a)";7630
+"rumeni (a)(se)";7631
+"rumoare";7632
+"ruptura";7633
+"rusinat";7634
+"rusine";7635
+"rusinos";7636
+"ruta";7637
+"sa";7638
+"sabie";7639
+"sablon";7640
+"sabotor";7641
+"sac";7642
+"saciz";7643
+"sacristie";7644
+"sacru";7645
+"safir";7646
+"sageata";7647
+"sah";7648
+"sah mat";7649
+"saisprezece";7650
+"saisprezecime";7651
+"saizeci";7652
+"saizecilea (al)";7653
+"sal";7654
+"sala";7655
+"sala de gimnastica";7656
+"sala de mese";7657
+"salam";7658
+"salanjer";7659
+"salariat";7660
+"salariu";7661
+"salariu (de functionar)";7662
+"salas";7663
+"salata";7664
+"salata verde";7665
+"salbatic";7666
+"salbaticie";7667
+"salcie";7668
+"salcim";7669
+"sale";7670
+"salon";7671
+"salonas";7672
+"salopeta";7673
+"salt";7674
+"saltea";7675
+"salubritate";7676
+"salupa";7677
+"salut";7678
+"salut(are)";7679
+"saluta (a)";7680
+"salutare";7681
+"salutari";7682
+"salva";7683
+"salva (a)";7684
+"salvare";7685
+"salvie";7686
+"saminta";7687
+"saminta de in";7688
+"sampanie";7689
+"sampon";7690
+"samur";7691
+"sanatate";7692
+"sanatos";7693
+"sanctiune";7694
+"sanctuar";7695
+"sandala";7696
+"sanie";7697
+"sanie (cu cai)";7698
+"sanie (lunga)";7699
+"sanitar";7700
+"sansa";7701
+"sanse";7702
+"sant";7703
+"santal";7704
+"santier";7705
+"santinela";7706
+"sapa";7707
+"sapa (a)";7708
+"sapca";7709
+"sapirograf";7710
+"saptamina";7711
+"saptaminal";7712
+"sapte";7713
+"saptelea (al)";7714
+"saptesprezecelea (al)";7715
+"saptezecilea (al)";7716
+"sapun";7717
+"sara (a)";7718
+"sarac";7719
+"saracacioasa";7720
+"saracacios";7721
+"saraci (a)";7722
+"saracie";7723
+"saracimea";7724
+"saramura";7725
+"sarat";7726
+"sarbatoare";7727
+"sarbatori (a)";7728
+"sarbatorire";7729
+"sarcina";7730
+"sardiea";7731
+"sare";7732
+"sareta";7733
+"sari (a)";7734
+"saritor";7735
+"saritura";7736
+"sarlatan";7737
+"sarlatanie";7738
+"sarpe";7739
+"sarut";7740
+"saruta (a)(se)";7741
+"sarutare";7742
+"sase";7743
+"saselea (al)";7744
+"sasiu";7745
+"sat";7746
+"satean";7747
+"saten";7748
+"satira";7749
+"satiriza (a)";7750
+"satisface (a)";7751
+"satul pina-n git";7752
+"satura (a)";7753
+"sau";7754
+"savant";7755
+"savirsi (a)";7756
+"savoare";7757
+"savura (a)";7758
+"scadea (a)";7759
+"scadent";7760
+"scadere";7761
+"scafandru";7762
+"scai";7763
+"scaldat";7764
+"scaldat in lacrimi";7765
+"scaldatoare";7766
+"scalp";7767
+"scama";7768
+"scamator";7769
+"scamosa (a)";7770
+"scanda (a)";7771
+"scandalagiu";7772
+"scandalizare";7773
+"scandalos";7774
+"scandare";7775
+"scapa (a)";7776
+"scapa de (a)";7777
+"scapa din vedere (a)";7778
+"scapare";7779
+"scapat nevatamat";7780
+"scapatat";7781
+"scara rulanta";7782
+"scarita";7783
+"scatoalca";7784
+"scaun";7785
+"scenariu";7786
+"sceptic";7787
+"schela";7788
+"schelarie";7789
+"schelet";7790
+"schema";7791
+"scheuna (a)";7792
+"scheunat";7793
+"schia (a)";7794
+"schima";7795
+"schimb";7796
+"schimb de vederi";7797
+"schimba (a)";7798
+"schimbare";7799
+"schimbare in rau";7800
+"schimbare totala";7801
+"schimbator";7802
+"schiop";7803
+"schiopatat";7804
+"schior";7805
+"schita";7806
+"schita (a)";7807
+"schitat";7808
+"schiu";7809
+"scincet";7810
+"scindura";7811
+"scinteia (a)";7812
+"scinteie";7813
+"scinteiere";7814
+"scinteiuta";7815
+"scirbi (a)";7816
+"scirbit";7817
+"scirbos";7818
+"scirtiit";7819
+"sciziune";7820
+"sclav";7821
+"sclavagism";7822
+"sclivisit";7823
+"scoaba";7824
+"scoala";7825
+"scoala de corectie";7826
+"scoarta";7827
+"scoarta de copac";7828
+"scoate (a)";7829
+"scoate (pui) (a)";7830
+"scoate din uz (a)";7831
+"scoate fum (a)";7832
+"scoate in afara legii (a)";7833
+"scoatere din lupta";7834
+"scobitura";7835
+"scobitura a piciorului";7836
+"scoica";7837
+"scolar";7838
+"scolarizare";7839
+"sconcs";7840
+"scop";7841
+"scor";7842
+"scorbut";7843
+"scormoneala";7844
+"scorpie";7845
+"scortisoara";7846
+"scortos";7847
+"scrib";7848
+"scrie (a)";7849
+"scrie gresit (a)";7850
+"scriere";7851
+"scriitor";7852
+"scrima";7853
+"scripca";7854
+"scripete";7855
+"scris";7856
+"scris printe rinduri";7857
+"scrisni (din dinti) (a)";7858
+"scrisoare";7859
+"scroafa";7860
+"scrum";7861
+"scrumbie";7862
+"scrumbie afumata";7863
+"scrupul";7864
+"scruta (a)";7865
+"scrutare";7866
+"scufunda(a se)";7867
+"scugere";7868
+"scul (de lina)";7869
+"sculpta (a)";7870
+"sculptura";7871
+"scump";7872
+"scumpete";7873
+"scund";7874
+"scurge incet(a se)";7875
+"scurge(a se)";7876
+"scurgere";7877
+"scurgere (de apa)";7878
+"scurt";7879
+"scurt si indesat";7880
+"scurta (a)";7881
+"scurta (a)(se)";7882
+"scut";7883
+"scuter";7884
+"scutit";7885
+"scuza";7886
+"scuza (a)";7887
+"se";7888
+"seaman";7889
+"seara";7890
+"sec";7891
+"secera";7892
+"secera (a)";7893
+"secerator";7894
+"seceris";7895
+"seceta";7896
+"secetos";7897
+"sechestru";7898
+"secol";7899
+"secret";7900
+"secret tinut bine";7901
+"secretos";7902
+"secta";7903
+"sectar";7904
+"sectiune";7905
+"sectiune transversala";7906
+"secund";7907
+"secunda";7908
+"secundar";7909
+"securea pieilor rosii";7910
+"secventa";7911
+"sedea (a)";7912
+"sedea pe vine (a)";7913
+"sedere";7914
+"sedere intr-o rina";7915
+"sedinta";7916
+"seduce (a)";7917
+"sef";7918
+"sef de echipa";7919
+"seful echipajului";7920
+"select";7921
+"semana cu (a)";7922
+"semantoare";7923
+"semet";7924
+"semiluna";7925
+"seminar";7926
+"seminar (catolic)";7927
+"semn";7928
+"semn (rau)";7929
+"semn de intrebare";7930
+"semn facut cu ochiul";7931
+"semn rau";7932
+"semnal";7933
+"semnatar";7934
+"semnatura";7935
+"semnificatie";7936
+"semnificativ";7937
+"senin";7938
+"sens";7939
+"sens general";7940
+"sens giratoriu";7941
+"sensibil";7942
+"sensibilitate";7943
+"sentiment";7944
+"sentiment de confort";7945
+"sentimental";7946
+"sentinta";7947
+"senzatie";7948
+"senzorial";7949
+"senzual";7950
+"separa (a)";7951
+"separat";7952
+"separat (unul de altul)";7953
+"separatie";7954
+"sepie";7955
+"septime";7956
+"ser";7957
+"sergent";7958
+"serie";7959
+"serif";7960
+"serii";7961
+"serios";7962
+"seriozitate";7963
+"serj";7964
+"serpentina";7965
+"serpuire";7966
+"sertar";7967
+"servanta";7968
+"servetel";7969
+"servi (a)";7970
+"serviabil";7971
+"serviabil (ultra)";7972
+"service";7973
+"serviciu";7974
+"servieta";7975
+"servil";7976
+"servitor";7977
+"sesime";7978
+"sesiune";7979
+"sesizare";7980
+"set";7981
+"sete";7982
+"seu";7983
+"seva";7984
+"sevalet";7985
+"sever";7986
+"sezatoare";7987
+"sezon";7988
+"sezonier";7989
+"sfat";7990
+"sfatui (a)";7991
+"sfaturi";7992
+"sfecla";7993
+"sfert";7994
+"sfert de penny";7995
+"sfesnic";7996
+"sfetnic";7997
+"sfiala";7998
+"sfida (a)";7999
+"sfidare";8000
+"sfidator";8001
+"sfint";8002
+"sfint(a)";8003
+"sfintenie";8004
+"sfinti (a)";8005
+"sfircul sinului";8006
+"sfiriit";8007
+"sfirsit";8008
+"sfisia (a)";8009
+"sfisiere";8010
+"sforai (a)";8011
+"sforait";8012
+"sfortare";8013
+"sfredel";8014
+"sfredeli (a)";8015
+"sfrijit";8016
+"si";8017
+"si anume";8018
+"sicana (a)";8019
+"sicanator";8020
+"sicriu";8021
+"sigur";8022
+"siguranta";8023
+"sili (a)";8024
+"siling";8025
+"silitor";8026
+"siloz";8027
+"silueta";8028
+"simbol";8029
+"simbure";8030
+"simpatic";8031
+"simpatie";8032
+"simplist";8033
+"simplitate";8034
+"simplu";8035
+"simt";8036
+"simt practic";8037
+"simti (a)";8038
+"simtire";8039
+"simula (a)";8040
+"simulacru";8041
+"simulare";8042
+"simulat";8043
+"sin";8044
+"sin(i)";8045
+"sina";8046
+"sincer";8047
+"sinceritate";8048
+"sindicalist";8049
+"sindrila";8050
+"singe";8051
+"singe (inchegat)";8052
+"singeros";8053
+"singur";8054
+"singur(a)";8055
+"singurat(ic)";8056
+"singuratate";8057
+"singuratic";8058
+"sinistru";8059
+"sintagma";8060
+"sir";8061
+"sira spinarii";8062
+"sire";8063
+"sirena";8064
+"siret";8065
+"sirma";8066
+"sirmos";8067
+"sirop";8068
+"sisiiala";8069
+"sistem de greutati";8070
+"sita";8071
+"situatie";8072
+"situatie foarte proasta";8073
+"situatie grea";8074
+"situatie proasta";8075
+"sivicultura";8076
+"slab";8077
+"slabanog";8078
+"slabi (a)";8079
+"slabi (exigenta) (a)";8080
+"slabiciune";8081
+"slanina";8082
+"slavi (a)";8083
+"slavire";8084
+"sleampat";8085
+"slei (a)";8086
+"slei(a se)";8087
+"slit";8088
+"slobod";8089
+"sloi";8090
+"sluga";8091
+"slujba";8092
+"sluji (pe) (a)";8093
+"smalt";8094
+"smarald";8095
+"smead";8096
+"smecherie";8097
+"smerenie";8098
+"smintina";8099
+"smintini (a)";8100
+"smirna";8101
+"smoc";8102
+"smochina";8103
+"smoching";8104
+"smucitura";8105
+"smulge (a)";8106
+"smulgere";8107
+"snob";8108
+"snop";8109
+"soapta";8110
+"soarece";8111
+"soarta";8112
+"soba";8113
+"sobita pentru jaratec";8114
+"sobolan";8115
+"sobru";8116
+"soc";8117
+"societate";8118
+"societate pe actiuni";8119
+"socoteala";8120
+"socoti (a)";8121
+"sofer";8122
+"sofran";8123
+"soim";8124
+"soios";8125
+"sol";8126
+"sold";8127
+"soldat";8128
+"soldat britanic";8129
+"solemn";8130
+"solemn (aer)";8131
+"solicita (a)";8132
+"solicitant";8133
+"solid";8134
+"solist";8135
+"solubil";8136
+"solutie";8137
+"solutie apoasa";8138
+"solz";8139
+"somaj";8140
+"somer";8141
+"somiera";8142
+"somn";8143
+"somnoros";8144
+"somoiog";8145
+"somon";8146
+"sonda";8147
+"sonda (a)";8148
+"sondare";8149
+"sonerie";8150
+"sonor";8151
+"sonora";8152
+"sonoritate";8153
+"sopirla";8154
+"sopron";8155
+"sopti (a)";8156
+"sora";8157
+"sorbi (a)";8158
+"sorbi (cu lacomie) (a)";8159
+"sorbi din ochi (a)";8160
+"sorbitura";8161
+"sort";8162
+"sort(ulet)";8163
+"sos";8164
+"sos picant";8165
+"sosea";8166
+"soseta";8167
+"sosiera";8168
+"sosire";8169
+"soson";8170
+"sot";8171
+"sotie";8172
+"sotie de lord";8173
+"sovai (a)";8174
+"sovaiala";8175
+"sovaielnic";8176
+"sovaitor";8177
+"sovin";8178
+"sovinism";8179
+"sovirv";8180
+"spaima";8181
+"spala si a calca (a)";8182
+"spalacit";8183
+"spalare";8184
+"spalator";8185
+"spalatoreasa";8186
+"spalatorie (de rufe)";8187
+"spalatura";8188
+"spalier";8189
+"spargator";8190
+"spargator de greva";8191
+"spargere";8192
+"spartura";8193
+"spate";8194
+"spatios";8195
+"spatiu";8196
+"spatiu verde";8197
+"specialist";8198
+"specie";8199
+"specific";8200
+"specifica (a)";8201
+"spectacol";8202
+"spectaculos";8203
+"spectator";8204
+"spectral";8205
+"spectru";8206
+"speculatie";8207
+"speculativ";8208
+"speranta";8209
+"speria (a)";8210
+"speria (a)(se)";8211
+"speriat";8212
+"sperietoare";8213
+"sperjur";8214
+"speta";8215
+"speteaza";8216
+"spic";8217
+"spicui (a)";8218
+"spin";8219
+"spinare (de berbec)";8220
+"spinos";8221
+"spinzura (a)";8222
+"spinzurare";8223
+"spinzurat";8224
+"spinzuratoare";8225
+"spionaj";8226
+"spirala";8227
+"spiridus";8228
+"spirit";8229
+"spiritual";8230
+"spita";8231
+"spital";8232
+"splendid";8233
+"splendoare";8234
+"spoiala";8235
+"spor";8236
+"spor de salariu";8237
+"spori";8238
+"spori (a)";8239
+"sport cirmaci";8240
+"sport craul";8241
+"sport disc";8242
+"sport fara cirmaci";8243
+"sport luptator";8244
+"sport lupte";8245
+"sportul cu vele";8246
+"sporturi nautice";8247
+"spovedanie";8248
+"spre";8249
+"spre deosebire de";8250
+"spre interior (indreptat)";8251
+"spre nord";8252
+"sprijin";8253
+"sprijini (a)";8254
+"spuma";8255
+"spuma (de sapun)";8256
+"spumega (a)";8257
+"spumos";8258
+"spune (a)";8259
+"spurca (a)";8260
+"sreang";8261
+"srigat";8262
+"sta (a)";8263
+"sta intins (a)";8264
+"sta la baza (a)";8265
+"sta la caldura (a)";8266
+"sta la pinda (a)";8267
+"stabili (a)";8268
+"stabili dinainte (a)";8269
+"stabilire";8270
+"stabilit";8271
+"stacheta";8272
+"stacojiu";8273
+"stafeta";8274
+"stafida";8275
+"stagiu";8276
+"stagiune";8277
+"stamba";8278
+"stampila";8279
+"stapin";8280
+"stapina";8281
+"stapini (a)";8282
+"stapinire";8283
+"stapinire de sine";8284
+"stapinitor";8285
+"stare (buna)";8286
+"stare de spirit";8287
+"staret";8288
+"stareta";8289
+"starui (a)";8290
+"statiune balneara";8291
+"stavilar";8292
+"steag";8293
+"stejar";8294
+"stepa";8295
+"stergator";8296
+"sterge (a)";8297
+"sterge (cuvinte) (a)";8298
+"sterge(a se)";8299
+"stergere";8300
+"steril";8301
+"sterp";8302
+"sterpeli (a)";8303
+"sters";8304
+"stevie";8305
+"stewardesa";8306
+"sti (a)";8307
+"sticla";8308
+"sticlos";8309
+"sticluta";8310
+"sticluta de doctorie";8311
+"sticluta(pentru otet";8312
+"stigmat";8313
+"stiinta";8314
+"stiintific";8315
+"stil";8316
+"stilci (a)";8317
+"stilcire";8318
+"stilp";8319
+"stilp (de gard)";8320
+"stima";8321
+"stimula (a)";8322
+"stimulent";8323
+"stina";8324
+"stinca";8325
+"stincos";8326
+"stindard";8327
+"stinga";8328
+"stingaci";8329
+"stingaci (a fi)";8330
+"stinge (a)";8331
+"stinge (varul) (a)";8332
+"stinghie";8333
+"stinjen";8334
+"stinjenel";8335
+"stinjeni (a)";8336
+"stins";8337
+"stipendiu";8338
+"stirb";8339
+"stire";8340
+"stiri";8341
+"stirni (a)";8342
+"stirni (a)(se)";8343
+"stirv";8344
+"stiuca";8345
+"stiulete";8346
+"stoarce (a)";8347
+"stoarce (bani) (a)";8348
+"stoarce profituri (a)";8349
+"stofa ecosez";8350
+"stofa fina";8351
+"stofa sport";8352
+"stol";8353
+"stomatologie";8354
+"stor";8355
+"stors";8356
+"strabate (a)";8357
+"stradanie";8358
+"stradui(a se)";8359
+"strain";8360
+"straluci (a)";8361
+"stralucire";8362
+"stralucitor";8363
+"stramos";8364
+"strana";8365
+"strana(pt. dascali)";8366
+"straniu";8367
+"stranut";8368
+"stranuta (a)";8369
+"strapunge (a)";8370
+"strasnic";8371
+"strat";8372
+"stravechi";8373
+"streang";8374
+"streasina";8375
+"streche";8376
+"strecura (a)(se)";8377
+"strecura(a..prin contrabanda)";8378
+"strecuratoare";8379
+"strengar";8380
+"strengaresc";8381
+"strengarie";8382
+"stresatura";8383
+"strica (a)";8384
+"stricaciune";8385
+"stricat";8386
+"stricata";8387
+"strict";8388
+"strident";8389
+"stridie";8390
+"striga (a)";8391
+"strigat";8392
+"strigator la cer";8393
+"strigoi";8394
+"strimb";8395
+"strimba(a se)";8396
+"strimbatura";8397
+"strimt";8398
+"strimtoare";8399
+"strimtorare";8400
+"stringe (a)";8401
+"stringe (a)(se)";8402
+"stringe in brate (a)";8403
+"stringere de mina";8404
+"strins";8405
+"strinsoare";8406
+"strivi (a)";8407
+"strofa";8408
+"structura";8409
+"strugure";8410
+"strung";8411
+"strungar";8412
+"strut";8413
+"student";8414
+"studia (a)";8415
+"stuf";8416
+"stufos";8417
+"stup";8418
+"stupefiant";8419
+"stupid";8420
+"stupiditate";8421
+"sub";8422
+"subaltern";8423
+"subaprecia (a)";8424
+"subconstient";8425
+"subcutanat";8426
+"subdezvoltat";8427
+"subevalua (a)";8428
+"subiect";8429
+"subiect de invidie";8430
+"subinginer";8431
+"sublinia (a)";8432
+"subliniat";8433
+"subliniere";8434
+"sublocotenent";8435
+"submina (a)";8436
+"subnutrit";8437
+"subofiter";8438
+"subordonat";8439
+"subred";8440
+"subsemnatul";8441
+"subsol";8442
+"substanta";8443
+"substantiv";8444
+"subteran";8445
+"subtil";8446
+"subtilitate";8447
+"subtirel";8448
+"subtirime";8449
+"subversiv";8450
+"suc";8451
+"succes";8452
+"succesiune";8453
+"suci (a)";8454
+"sucire";8455
+"suculent";8456
+"sud";8457
+"sud (dinspre)";8458
+"suda (a)(se)";8459
+"sudic";8460
+"sueta";8461
+"suferi (a)";8462
+"suficient";8463
+"suflare";8464
+"suflet";8465
+"sufragerie";8466
+"sugativa";8467
+"sugera (a)";8468
+"sugestie";8469
+"sughit";8470
+"suiera (a)";8471
+"suierat";8472
+"suita (regala)";8473
+"sul";8474
+"sulita";8475
+"sumbru";8476
+"suna (a)";8477
+"sunca";8478
+"sunet";8479
+"sunet de clopot";8480
+"supa";8481
+"supa (concentrata)";8482
+"supapa";8483
+"supara (a)";8484
+"suparacios";8485
+"suparare";8486
+"suparat";8487
+"suparator";8488
+"superficial";8489
+"superior";8490
+"supiera";8491
+"supliment";8492
+"suplimentar";8493
+"suplinitor";8494
+"suplu";8495
+"suportabil";8496
+"supraabundent";8497
+"supraaglomera";8498
+"supracoperta";8499
+"supraestima (a)";8500
+"suprafata";8501
+"suprafata dreapta";8502
+"supraincarca (a)";8503
+"supranatural";8504
+"supraproductie";8505
+"suprapune(a se)";8506
+"suprasarcina";8507
+"suprasolicita (a)";8508
+"suprataxa";8509
+"supraveghea (a)";8510
+"supraveghetor";8511
+"supravetui (a)";8512
+"suprem";8513
+"suprimare";8514
+"supune (a)";8515
+"supune la(a se)";8516
+"supunere";8517
+"supura (a)";8518
+"supus";8519
+"surd";8520
+"surdina";8521
+"surescitat";8522
+"surghiuni (a)";8523
+"surghiunit";8524
+"surmenaj";8525
+"surplus";8526
+"surprinde (a)";8527
+"surprindere";8528
+"surprins";8529
+"sursa";8530
+"surub";8531
+"surveni (a)";8532
+"surzenie";8533
+"susan";8534
+"susceptibil";8535
+"suspendare";8536
+"suspin";8537
+"sustinator";8538
+"sustinatori";8539
+"sustine (a)";8540
+"sustinere";8541
+"sustrage de la (a)";8542
+"sustragere";8543
+"susul in jos (cu)";8544
+"sut";8545
+"suta";8546
+"sutalea (al o)";8547
+"sutien";8548
+"sutime";8549
+"suveica";8550
+"suvenir";8551
+"suveran";8552
+"suvita";8553
+"ta";8554
+"tabacar";8555
+"tabara";8556
+"tabel";8557
+"tabla";8558
+"tabla ondulata";8559
+"tableta";8560
+"tablita";8561
+"tablou";8562
+"tacere";8563
+"tachina (a)";8564
+"tacimuri";8565
+"taciune";8566
+"tactica";8567
+"tacut";8568
+"tai";8569
+"taia (a)";8570
+"taietei";8571
+"taietor";8572
+"taietura";8573
+"taina";8574
+"tainic";8575
+"tainui (a)";8576
+"tainuit";8577
+"tainuitor";8578
+"taios";8579
+"talas";8580
+"talaz";8581
+"tale";8582
+"talent";8583
+"taler";8584
+"talie";8585
+"talmes balmes";8586
+"talpa";8587
+"taluz";8588
+"tamiie";8589
+"tampon";8590
+"tampon.mapa de birou";8591
+"tamtam";8592
+"tanc";8593
+"tanc petrolier";8594
+"tandrete";8595
+"tandru";8596
+"tanin";8597
+"tap";8598
+"tap ispasitor";8599
+"tapet";8600
+"tapisa (a)";8601
+"tapiserie";8602
+"tapsan";8603
+"tara";8604
+"taraba";8605
+"taran";8606
+"taranesc";8607
+"taranime";8608
+"taranoi";8609
+"tarc";8610
+"tare";8611
+"tarie de caracter";8612
+"tarim";8613
+"tarina";8614
+"tarm";8615
+"tarta";8616
+"tarus";8617
+"tata";8618
+"taticu";8619
+"tatuaj";8620
+"tau";8621
+"taun";8622
+"tavita";8623
+"taxa";8624
+"taxa postala";8625
+"taxe";8626
+"taxe scolare";8627
+"taxi";8628
+"teaca";8629
+"teama";8630
+"teanc";8631
+"teapa";8632
+"teapan";8633
+"teasc";8634
+"teatru de revista";8635
+"teava";8636
+"tei";8637
+"tejghea";8638
+"telal";8639
+"telegrama";8640
+"telina";8641
+"tema";8642
+"temeinic";8643
+"temelie";8644
+"temere";8645
+"temnicer";8646
+"temnita";8647
+"tempera (a)";8648
+"temperament";8649
+"templu";8650
+"ten";8651
+"tenace";8652
+"tencuiala";8653
+"tendinta";8654
+"tendinta( generala)";8655
+"tendon";8656
+"tenor";8657
+"tensiune";8658
+"tenta";8659
+"teolog";8660
+"tepos";8661
+"terasa";8662
+"tercere";8663
+"terci";8664
+"terci (de ovaz)";8665
+"tercut";8666
+"terebentina";8667
+"teren";8668
+"teren de parada";8669
+"teren sportiv";8670
+"tergiversa (a)";8671
+"teribil";8672
+"teribil (de)";8673
+"termen";8674
+"termina (a)";8675
+"terminat";8676
+"terminatie";8677
+"terminus";8678
+"terorist";8679
+"teroriza";8680
+"teroriza (a)";8681
+"tesator";8682
+"tesatura";8683
+"tesaturi de bumbac";8684
+"tese (a)(se)";8685
+"tesut";8686
+"tevarie";8687
+"text de cintec";8688
+"tezaur";8689
+"tibie";8690
+"tic nervos";8691
+"ticait";8692
+"ticalos";8693
+"ticalosie";8694
+"tichet";8695
+"tifna";8696
+"tifnos";8697
+"tifos(exantematic)";8698
+"tigaie cu coada";8699
+"tigaie de incalzit";8700
+"tigaie(cu coada)";8701
+"tigan(ca)";8702
+"tiganesc";8703
+"tigara";8704
+"tigla";8705
+"tigroaica";8706
+"tigru";8707
+"tihna";8708
+"tihnit";8709
+"tija";8710
+"tilhar";8711
+"tilharie";8712
+"timbru";8713
+"timid";8714
+"timiditate";8715
+"timp";8716
+"timp al verbului";8717
+"timp de";8718
+"timpan";8719
+"timpenie";8720
+"timpit";8721
+"timpla";8722
+"timplar";8723
+"timpuriu";8724
+"tinar";8725
+"tinc";8726
+"tine in friu (a)";8727
+"tine predici (a)";8728
+"tinere";8729
+"tineresc";8730
+"tineret";8731
+"tinerete";8732
+"tinichea";8733
+"tinichigiu";8734
+"tinind seama de";8735
+"tinji (a)";8736
+"tinji(dupa) (a)";8737
+"tinta";8738
+"tinta (de bocanc)";8739
+"tintar";8740
+"tinti (a)";8741
+"tinti prea departe (a)";8742
+"tintui (a)";8743
+"tinut";8744
+"tinut secret";8745
+"tinuta";8746
+"tip";8747
+"tip (ciudat)";8748
+"tipa (a)";8749
+"tipar";8750
+"tipari (a)";8751
+"tipat";8752
+"tipat (sinistru)";8753
+"tipator";8754
+"tipic";8755
+"tipograf";8756
+"tir";8757
+"tiraj";8758
+"tiran";8759
+"tirfa";8760
+"tirg";8761
+"tirguieli";8762
+"tiri (a)";8763
+"tiri cu greu(a se)";8764
+"tiri(a se)";8765
+"tirire";8766
+"tiritura";8767
+"tirnacop";8768
+"tirtita";8769
+"tirziu";8770
+"tisa";8771
+"tisnire";8772
+"titei";8773
+"titlu (de coloana)";8774
+"titlu drept";8775
+"tiuiala";8776
+"tiv";8777
+"tivi (a)";8778
+"toaleta";8779
+"toamna";8780
+"toata lumea";8781
+"toate";8782
+"toba";8783
+"tobosar";8784
+"toca (a)";8785
+"tocana";8786
+"tocator";8787
+"tocatura";8788
+"toci (a)";8789
+"tocit";8790
+"tocmeala";8791
+"tocmi(a se)";8792
+"tolba de sageti";8793
+"tolera (a)";8794
+"ton";8795
+"tona";8796
+"tonaj";8797
+"tonic";8798
+"tonomat";8799
+"top de hirtie";8800
+"topai (a)";8801
+"topaiala";8802
+"topi (a)(se)";8803
+"topi(a se)";8804
+"topirlan";8805
+"topitorie";8806
+"topogan";8807
+"toptan";8808
+"torent";8809
+"toropeala";8810
+"toropit";8811
+"torpila";8812
+"torpoare";8813
+"tort. cozonac";8814
+"torta";8815
+"tortura";8816
+"tot(al)";8817
+"tot(ul)";8818
+"total";8819
+"totalizator";8820
+"toti";8821
+"totul (cu)";8822
+"totusi";8823
+"tovaras";8824
+"tovarasie";8825
+"toxicoman";8826
+"trabuc";8827
+"tractiune";8828
+"trada (a)(se)";8829
+"tradare";8830
+"tradatoare";8831
+"tradator";8832
+"traditie";8833
+"traditional";8834
+"traducator";8835
+"traduce (a)";8836
+"traducere";8837
+"trafic";8838
+"tragaci";8839
+"trage (a)";8840
+"trage pe sfoara (a)";8841
+"trage(a se)";8842
+"tragere";8843
+"trai";8844
+"trai (mijloace de)";8845
+"trainic";8846
+"tramvai";8847
+"trancaneala";8848
+"trandafir";8849
+"trandafiriu";8850
+"transcrie (a)";8851
+"transee";8852
+"transfer";8853
+"transfera (a)";8854
+"transforma (a)";8855
+"transformator";8856
+"translatie";8857
+"transmisie";8858
+"transmite";8859
+"transmite (a)";8860
+"transmitere";8861
+"transparent";8862
+"transpira (a)";8863
+"transpiratie";8864
+"transport";8865
+"transporta (a)";8866
+"transportat";8867
+"transpune (a)";8868
+"transpunere";8869
+"transversal";8870
+"tranzactie";8871
+"tranzatie";8872
+"trap";8873
+"trapa";8874
+"trapas";8875
+"trasa (a)";8876
+"trasatura";8877
+"trasatura(caracteristica)";8878
+"trasnet";8879
+"trasor";8880
+"trasura";8881
+"trata de sus (a)";8882
+"tratative";8883
+"traversa";8884
+"traversare";8885
+"travestire";8886
+"treaba";8887
+"treapta";8888
+"treaz";8889
+"trebui (a)";8890
+"trecator";8891
+"trece (a)";8892
+"trece (peste) (a)";8893
+"trece cu vederea (a)";8894
+"trece peste (a)";8895
+"trece prin (a)";8896
+"trece usor peste (a)";8897
+"trecere";8898
+"trecere in revista";8899
+"trecut";8900
+"trecut simplu";8901
+"trei";8902
+"trei penny";8903
+"treiera (a)";8904
+"treierat";8905
+"treime";8906
+"treisprezce";8907
+"treisprezecelea (al)";8908
+"treizeci";8909
+"treizecilea (al)";8910
+"tremur";8911
+"tremur (cu)";8912
+"tremura (a)";8913
+"tremura(t)";8914
+"tremurat";8915
+"tremurator";8916
+"tren care merge in provincie";8917
+"tren local";8918
+"tren pentru londra";8919
+"trepied";8920
+"treptat";8921
+"tresarire";8922
+"trestie";8923
+"trezi (a)(se)";8924
+"trezi la realitate (a)";8925
+"trezi.a stirni (a)";8926
+"trezie";8927
+"tribun";8928
+"tribuna";8929
+"tribuna (pentru orator)";8930
+"tribunal";8931
+"tribunal.curte";8932
+"tribut";8933
+"tributar";8934
+"triciclu";8935
+"tricota (a)";8936
+"tricotat";8937
+"trifoi";8938
+"trilion";8939
+"trimbita";8940
+"trimbita (a)";8941
+"trimbitas";8942
+"trimestrial";8943
+"trimestru";8944
+"trimis";8945
+"trimite (a)";8946
+"trindav";8947
+"trindaveala";8948
+"trindavi (a)";8949
+"trindavie";8950
+"trinti (a)(se)";8951
+"trinti la examen (a)";8952
+"trintor";8953
+"triplu";8954
+"trisor";8955
+"trist";8956
+"tristete";8957
+"triumf";8958
+"triumfal";8959
+"triumfator";8960
+"triunghi";8961
+"triunghiular";8962
+"troaca";8963
+"troc";8964
+"trofeu";8965
+"troliu";8966
+"tromba";8967
+"trompeta";8968
+"trompetist";8969
+"tron";8970
+"tropait";8971
+"tropot";8972
+"trosnet";8973
+"trotineta";8974
+"truc";8975
+"truda";8976
+"trudi (a)";8977
+"truditor";8978
+"trufa";8979
+"trufas";8980
+"trunchi";8981
+"trup";8982
+"trupa";8983
+"trupa(artistica)";8984
+"trupesc";8985
+"trusa";8986
+"trust";8987
+"tu";8988
+"tu insuti";8989
+"tub";8990
+"tub(aj)";8991
+"tuberculos";8992
+"tufis";8993
+"tulbura (a)";8994
+"tulburare";8995
+"tulburat";8996
+"tulbure";8997
+"tumba";8998
+"tumplarie";8999
+"tumult";9000
+"tun";9001
+"tunar";9002
+"tunde";9003
+"tunet";9004
+"tunsoare";9005
+"tunta";9006
+"tupeu";9007
+"tura";9008
+"turba";9009
+"turbare";9010
+"turbat";9011
+"turbina";9012
+"turboreactor";9013
+"turbulent";9014
+"turela";9015
+"turism";9016
+"turma";9017
+"turn";9018
+"turna (a)";9019
+"turneu";9020
+"turnir";9021
+"turnulet";9022
+"turta";9023
+"turti (a)";9024
+"turti (a)(se)";9025
+"turture";9026
+"turturea";9027
+"tuse";9028
+"tuseu";9029
+"tusiera";9030
+"tutela";9031
+"tutore";9032
+"tutun";9033
+"tutun de mestecat";9034
+"tutungerie";9035
+"tutungiu";9036
+"ubtire";9037
+"ucenic";9038
+"ucide (a)";9039
+"ucigas";9040
+"ucigator";9041
+"ud";9042
+"ud leoarca";9043
+"uda (a)";9044
+"uda leoarca (a)";9045
+"udare";9046
+"udeala";9047
+"uger";9048
+"uimi (a)";9049
+"uita (a)";9050
+"uitare";9051
+"uituc";9052
+"ulcer";9053
+"ulei";9054
+"uleios";9055
+"ulita";9056
+"uliu";9057
+"ulm";9058
+"ultim";9059
+"ultimul examen";9060
+"ultramoralist";9061
+"ultrasensibil";9062
+"ului (a)";9063
+"uluire";9064
+"uluit";9065
+"uluitor";9066
+"uman";9067
+"umar";9068
+"umar de haine";9069
+"umbla (a)";9070
+"umbla agale (a)";9071
+"umbla dupa femei (a)";9072
+"umblat";9073
+"umbra";9074
+"umbreluta de soare";9075
+"umbri (a)(ad)";9076
+"umbros";9077
+"umed";9078
+"umezeala";9079
+"umezi (a)(se)";9080
+"umfla (a)";9081
+"umfla (a)(se)";9082
+"umfla(a se)";9083
+"umflat";9084
+"umflatura";9085
+"umil";9086
+"umili (a)";9087
+"umor";9088
+"umple (a)";9089
+"umplutura";9090
+"un altul";9091
+"un oarecare";9092
+"una";9093
+"unanim";9094
+"unchi";9095
+"uncie";9096
+"unda";9097
+"unde";9098
+"undui (a)";9099
+"undui (a)(se)";9100
+"unealta";9101
+"unge cu unt (a)";9102
+"unghie";9103
+"uni (a)";9104
+"uni (a)(se)";9105
+"uni(a se)";9106
+"uni(fica) (a)";9107
+"unic";9108
+"uniform";9109
+"uniforma";9110
+"unire";9111
+"unit";9112
+"unitate";9113
+"uniune";9114
+"univers";9115
+"universitate";9116
+"unsoare";9117
+"unsprezece";9118
+"unsprezecime";9119
+"unsuportabil";9120
+"unsuros";9121
+"unt";9122
+"untdelemn";9123
+"untura";9124
+"unul";9125
+"unul din trei gemeni";9126
+"ura";9127
+"uragan";9128
+"urare";9129
+"urcior";9130
+"urcus";9131
+"ureche(muzicala)";9132
+"urgent";9133
+"urgenta";9134
+"urias";9135
+"uricios";9136
+"urit";9137
+"urla (a)";9138
+"urlet";9139
+"urma";9140
+"urma (a)";9141
+"urma nefasta";9142
+"urma sa (a)";9143
+"urmare";9144
+"urmari (a)";9145
+"urmari in justitie (a)";9146
+"urmarire";9147
+"urmaritor";9148
+"urmator";9149
+"urna";9150
+"urs";9151
+"urticarie";9152
+"uruit";9153
+"urzeala";9154
+"urzica";9155
+"urzupator";9156
+"usa";9157
+"usa din dos";9158
+"usca (a)(se)";9159
+"uscat";9160
+"usor";9161
+"ustensil";9162
+"usturator";9163
+"usturoi";9164
+"usura (a)";9165
+"usurare";9166
+"usurinta";9167
+"uter";9168
+"util";9169
+"utilizare";9170
+"utopic";9171
+"uvula";9172
+"uza (a)(se)";9173
+"uzat";9174
+"uzura";9175
+"vaca";9176
+"vacanta";9177
+"vad";9178
+"vaduv";9179
+"vaduva";9180
+"vaduva mostenitoare bogata";9181
+"vag";9182
+"vagabond";9183
+"vagabonda (a)";9184
+"vagabondaj";9185
+"vagon";9186
+"vagon de dormit";9187
+"vagon de marfa";9188
+"vagon de pasageri";9189
+"vagon-restaurant";9190
+"vagonet";9191
+"val";9192
+"valabil";9193
+"valabilitate";9194
+"vale";9195
+"valet";9196
+"valiza cu doua parti";9197
+"valoare";9198
+"valorifica (a)";9199
+"vals";9200
+"valsa (a)";9201
+"valurele";9202
+"valuri";9203
+"valurile vietii";9204
+"valuta";9205
+"vampa";9206
+"vanitate";9207
+"var";9208
+"vara";9209
+"varia (a)";9210
+"variat";9211
+"variatie";9212
+"varieteu";9213
+"variola";9214
+"varsa lacrimi (a)";9215
+"varsat";9216
+"varsatura";9217
+"varza";9218
+"vas";9219
+"vas comercial";9220
+"vas de aprovizionare";9221
+"vas de pescari";9222
+"vas de racire";9223
+"vasalitate";9224
+"vast";9225
+"vatra";9226
+"vatrai";9227
+"vaz";9228
+"vaza";9229
+"veac";9230
+"vecernie";9231
+"vechi";9232
+"vechituri";9233
+"vecin";9234
+"vecinatate";9235
+"vecini";9236
+"vedea (a)";9237
+"vedenie";9238
+"vedere";9239
+"vegetatie";9240
+"veghe";9241
+"vehement";9242
+"vehementa";9243
+"vehicul";9244
+"velatura";9245
+"venerabil";9246
+"veneratie";9247
+"veneric";9248
+"veni (a)";9249
+"veni in contact (a)";9250
+"venin";9251
+"veninos";9252
+"venit";9253
+"ventila (a)";9254
+"ventuza";9255
+"veranda";9256
+"verb";9257
+"verbal";9258
+"verde";9259
+"verde (spatiu)";9260
+"verdeata";9261
+"veridicitate";9262
+"verifica (a)";9263
+"verificare";9264
+"veriga";9265
+"veritabil";9266
+"vermut";9267
+"verniu";9268
+"vers";9269
+"versat";9270
+"versifica (a)";9271
+"versiune";9272
+"versuri";9273
+"vertical";9274
+"verzui";9275
+"vesel";9276
+"veselie";9277
+"vesmint";9278
+"vesminte";9279
+"vest";9280
+"vesta";9281
+"veste";9282
+"vesteji (a)(se)";9283
+"vestejit";9284
+"vesti";9285
+"vesti (a)";9286
+"vestigiu";9287
+"vestitor";9288
+"veterinar";9289
+"viata";9290
+"viata politica";9291
+"vibratie";9292
+"vicar";9293
+"vicerege";9294
+"vicia (a)";9295
+"vicios";9296
+"vicisitudine";9297
+"viciu";9298
+"viclean";9299
+"viclenie";9300
+"viconte";9301
+"victima";9302
+"victorie";9303
+"vid";9304
+"vidra";9305
+"vie";9306
+"vier";9307
+"vierme";9308
+"viespe";9309
+"vigilenta";9310
+"vigoare";9311
+"viguros";9312
+"viitor";9313
+"viitor(de)";9314
+"vijiit";9315
+"vila";9316
+"vilcea";9317
+"vilisoara";9318
+"vilvataie";9319
+"vin rosu";9320
+"vin xeres";9321
+"vina";9322
+"vina (a)";9323
+"vinat";9324
+"vinatoare";9325
+"vinatoare de pasari";9326
+"vinator";9327
+"vinci";9328
+"vinde (a)";9329
+"vinde cu amanuntul (a)";9330
+"vindeca (a)(se)";9331
+"vindecabil";9332
+"vinetiu";9333
+"vinjos";9334
+"vinovat";9335
+"vinovatie";9336
+"vint";9337
+"vint din sud-vest";9338
+"vint puternic";9339
+"vintos";9340
+"vintura (a)";9341
+"vinzare";9342
+"vinzator";9343
+"vinzator ambulant";9344
+"vinzator ambululant de fructe";9345
+"vioara";9346
+"vioi";9347
+"vioiciune";9348
+"viol";9349
+"viola (a)";9350
+"violent";9351
+"violenta";9352
+"violet(a)";9353
+"violoncel";9354
+"vipera";9355
+"vira (a)";9356
+"virf";9357
+"virf (cu)";9358
+"virf de sulita";9359
+"virgula";9360
+"viroza";9361
+"virsta";9362
+"virtej";9363
+"virtuos";9364
+"virtuozitate";9365
+"virtute";9366
+"virulent";9367
+"virulenta";9368
+"virus";9369
+"vis";9370
+"visa (a)";9371
+"visare";9372
+"visator";9373
+"visc";9374
+"viscol";9375
+"viscos";9376
+"visin(a)";9377
+"visla";9378
+"vislas";9379
+"vita (de vie)";9380
+"vital";9381
+"vitalitate";9382
+"vitamina";9383
+"vite (cornute)";9384
+"viteaz";9385
+"vitejie";9386
+"vitel";9387
+"viteza";9388
+"vitezometru";9389
+"vitriol";9390
+"viu";9391
+"vivace";9392
+"viza";9393
+"vizavi";9394
+"vizibil";9395
+"vizionar";9396
+"vizionare";9397
+"vizita";9398
+"vizita (a)";9399
+"vizita (lunga)";9400
+"vizita (oficiala)";9401
+"vizitator";9402
+"vizitiu";9403
+"vizuina";9404
+"vlastar";9405
+"vlastare";9406
+"voal";9407
+"vocabular";9408
+"vocal";9409
+"vocala";9410
+"vocatie";9411
+"voce tare";9412
+"voga";9413
+"voi";9414
+"voi insiva";9415
+"voiciune";9416
+"voinic";9417
+"vointa";9418
+"vointa (libera)";9419
+"volan";9420
+"volanas";9421
+"volant";9422
+"volatil";9423
+"volitiv";9424
+"volum";9425
+"voluminos";9426
+"voluntar";9427
+"voluptos";9428
+"voluptuos";9429
+"vopsea";9430
+"vopsitorie";9431
+"vorba de duh";9432
+"vorbaret";9433
+"vorbarie";9434
+"vorbarie(goala)";9435
+"vorbe";9436
+"vorbe de claca";9437
+"vorbe goale";9438
+"vorbi pe larg (a)";9439
+"vorbi sau scrie pe larg (a)";9440
+"vorbire";9441
+"vorbire indirecta";9442
+"vorbire nazala";9443
+"vorbire taraganata";9444
+"vorbitor";9445
+"vot pentru";9446
+"vrabie";9447
+"vraja";9448
+"vraji (a)";9449
+"vraji(torie)";9450
+"vrajit";9451
+"vrajitoare";9452
+"vrajitor";9453
+"vreme";9454
+"vrind nevrind";9455
+"vuiet";9456
+"vulcan";9457
+"vulcanic";9458
+"vulgar";9459
+"vulgaritate";9460
+"vulgatiza (a)";9461
+"vulpe";9462
+"vultur";9463
+"yankeu";9464
+"zabovi (a)";9465
+"zabrele de lemn";9466
+"zacea (a)";9467
+"zada";9468
+"zadarnic";9469
+"zadarnici (a)";9470
+"zadarnicie";9471
+"zagaz";9472
+"zahar";9473
+"zale";9474
+"zambila";9475
+"zanganit";9476
+"zapaceala";9477
+"zapaci (a)";9478
+"zapacit";9479
+"zapada";9480
+"zari (a)";9481
+"zaruri";9482
+"zarva";9483
+"zavor";9484
+"zbengui(a se)";9485
+"zbircit";9486
+"zbircitura";9487
+"zbirli (a)";9488
+"zbirniit";9489
+"zbor";9490
+"zbura (a)";9491
+"zburator";9492
+"zburda (a)";9493
+"zburlit";9494
+"zdreanta";9495
+"zdrenturos";9496
+"zdrobi (a)";9497
+"zdrobire";9498
+"zdruncina (a)(se)";9499
+"zdruncinatura";9500
+"zeama de carne";9501
+"zebra";9502
+"zece";9503
+"zecilea (al)";9504
+"zecime";9505
+"zeita";9506
+"zeitate";9507
+"zel";9508
+"zelos";9509
+"zemos";9510
+"zer";9511
+"zero";9512
+"zestre";9513
+"zevzec";9514
+"zgarda";9515
+"zgircenie";9516
+"zgirci";9517
+"zgirci(a se)";9518
+"zgircit";9519
+"zgiria (a)";9520
+"zgirie-brinza";9521
+"zgirietura";9522
+"zglobiu";9523
+"zgomot";9524
+"zgomotos";9525
+"zgudui (a)";9526
+"zguduire";9527
+"zgura";9528
+"zi";9529
+"ziar";9530
+"zicala";9531
+"zice (a)";9532
+"zidar";9533
+"zidarie";9534
+"zilele noastre";9535
+"zilnic";9536
+"zimbet";9537
+"zimbet afectat";9538
+"zimbet dispretuitor";9539
+"zimbet prostesc";9540
+"zimbi (a)";9541
+"zimbru";9542
+"zina";9543
+"ziua cadourilor";9544
+"zmeu";9545
+"zmeura";9546
+"zona";9547
+"zoolog";9548
+"zori (a)";9549
+"zornait";9550
+"zorzoane";9551
+"zugrav";9552
+"zugravi (a)";9553
+"zuluf";9554
+"zumzai (a)";9555
+"zumzet";9556
+"zvircoleala";9557
+"zvirli (a)";9558
+"zvon";9559
+"zvon de clopote";9560
+"elefant";9561
+"abac";9562
+"conflict";9563
+"retoric";9564
+"reusi";9565
+"balast";9566
+"balansare";9567
+"";0
+"blestemat";9568
+"azi";9569
+"revarsat";9570
+"scapa (de ceva)";9571

@@ -1,0 +1,18 @@
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\bin\Debug\DictionarBD.exe.config
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\bin\Debug\DictionarBD.exe
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\bin\Debug\DictionarBD.pdb
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csprojResolveAssemblyReference.cache
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Form1.resources
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Properties.Resources.resources
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csproj.GenerateResource.Cache
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.exe
+c:\users\brand\documents\visual studio 2015\Projects\DictionarBD\DictionarBD\obj\Debug\DictionarBD.pdb
+E:\DictionarBD\DictionarBD\bin\Debug\DictionarBD.exe.config
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.exe
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.pdb
+E:\DictionarBD\DictionarBD\bin\Debug\DictionarBD.exe
+E:\DictionarBD\DictionarBD\bin\Debug\DictionarBD.pdb
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csprojResolveAssemblyReference.cache
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Form1.resources
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Properties.Resources.resources
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csproj.GenerateResource.Cache
