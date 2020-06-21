@@ -23,6 +23,7 @@ namespace DictionarBD
         List<Cuvant> listEN;
         //daca cuvantul este nou introdus sau nu
         bool checkExistEN;
+        bool checkExistRO;
         public AdaugareCuvinte() {
             cuvantRO = new Cuvant();
             cuvantEN = new Cuvant();
@@ -89,17 +90,17 @@ namespace DictionarBD
             
         }
         public void getIdRO() {
-            bool exit = false;
+            checkExistRO = false;
             for (int i = 0; i < listRO.Count; i++)
             {
                 if (String.Equals(listRO[i].Text.Trim(), cuvantRO.Text))
                 {
                     cuvantRO.ID=listRO[i].ID;
-                    exit = true;
+                    checkExistRO = true;
                 }
 
             }
-            if (!exit) {
+            if (!checkExistRO) {
                 //daca nu exista atunci maximul +1
                 cuvantRO.ID = Cuvant.searchMaxId(listRO) + 1;
             }
@@ -143,7 +144,47 @@ namespace DictionarBD
 
 
         }
+        //make in similar way with AddRO_EN
+        public bool inserareCuvinteEN_RO(string txEN, string txRO) {
+            Cuvant cuvantRO_EN = new Cuvant();
+            Cuvant cuvantEN_RO = new Cuvant();
+            //trebuie sa fac inserarea in cele 4 fisiere 
+            //dar mai intai trebuie sa verific daca mai exista cuvantul respectiv 
+            if (verificareCuvantExista(txEN, listRO))
+            {
+                //nu am in ce insera deoarece cuvantul in engleza exista deja
+                return false;
+            }
+            cuvantRO.Text = txRO;
+            cuvantEN.Text = txEN;
+            getIdRO();
+            getIdEN();
+            //id in engleza 
+            //cuvantul in romana
+            cuvantRO_EN.ID = cuvantRO.ID;
+            cuvantRO_EN.Text = cuvantEN.Text;
+            cuvantEN_RO.ID = cuvantEN.ID;
+            cuvantEN_RO.Text = cuvantRO.Text;
+            listRO.Add(cuvantRO);
+            listEN.Add(cuvantEN);
+            listRO_EN.Add(cuvantRO_EN);
+            listEN_RO.Add(cuvantEN_RO);
+            Cuvant.scrieInFisier(PATH + "EN.txt", listEN);
+            //daca nu exista atunci il adaug in fisier
+            if (!checkExistRO)
+            {
+                Cuvant.scrieInFisier(PATH + "RO.txt", listRO);
+            }
+            Cuvant.scrieInFisier(PATH + "RO_EN.txt", listRO_EN);
+            Cuvant.scrieInFisier(PATH + "EN_RO.txt", listEN_RO);
 
+
+
+
+
+            return true;
+
+        }
 
 
 
