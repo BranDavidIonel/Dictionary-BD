@@ -19,7 +19,7 @@ namespace DictionarBD
         List<Cuvant> rezultat_cautare;
         List<Cuvant> rezultat_traducere;
 
-        bool insetRO_EN = true;
+        bool insertRO_EN = true;
 
       
         public Form1()
@@ -113,7 +113,7 @@ namespace DictionarBD
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnSearch_Click(object sender, EventArgs e)
         {
             if (cuvant.Text.Trim().Length > 0) cauta(cuvant.Text);
         }
@@ -180,7 +180,10 @@ namespace DictionarBD
             MessageBox.Show(sb.ToString());
         }
 
-        private void btnAdaugare_Click(object sender, EventArgs e)
+        //begin add words
+
+
+        private void btnInsert_Click(object sender, EventArgs e)
         {
            
             AdaugareCuvinte addCuvant= new AdaugareCuvinte(listaRO, listaEN, listaRO_EN,listaEN_RO, @"resurse\");
@@ -188,38 +191,57 @@ namespace DictionarBD
                 //Cuvant addR = new Cuvant(txInserareR.Text,idRo);
                 //Cuvant addE = new Cuvant(txInserareE.Text, idRo);               
                 //listaRO.Add(addR);
-                if (addCuvant.inserareCuvanteRO_EN(txInserareR.Text,txInserareE.Text))
+                if (insertRO_EN)
                 {
+                    if (addCuvant.inserareCuvanteRO_EN(txInserareR.Text, txInserareE.Text))
+                    {
 
-                    MessageBox.Show("Este inserat!");
-                    citeste_cuvinte();
+                        MessageBox.Show("Este inserat!");
+                        citeste_cuvinte();
+                    }
+                    else
+                    {
+
+                        MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
+                    }
                 }
                 else {
+                    //insert english to romanian word
+                    if (addCuvant.inserareCuvinteEN_RO(txInserareR.Text, txInserareE.Text))
+                    {
 
-                    MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
+                        MessageBox.Show("Este inserat!");
+                        citeste_cuvinte();
+                    }
+                    else
+                    {
+
+                        MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
+                    }
+
                 }
 
 
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnRefresh_Click(object sender, EventArgs e)
         {
             citeste_cuvinte();
         }
 
         private void btnSwitch_Click(object sender, EventArgs e)
         {
-            if (insetRO_EN)
+            if (insertRO_EN)
             {
-                labelTxIn.Text = "Cuvantul in romana:";
-                labelTxTran.Text = "Traducerile in engleza:";
-                insetRO_EN = false;
+                labelTxIn.Text = "The word in english:";
+                labelTxTran.Text = "The word in romanian:";
+                insertRO_EN = false;
             }
             else {
-                labelTxIn.Text = "Cuvantul in engleza:";
-                labelTxTran.Text = "Traducerile in romana:";
-                insetRO_EN = true;
+                labelTxIn.Text = "The word in romanian:";
+                labelTxTran.Text = "The word in english:";
+                insertRO_EN = true;
 
             }
          

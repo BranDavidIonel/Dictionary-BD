@@ -17599,3 +17599,4 @@
 "azi";8944
 "revarsat";10292
 "scapa (de ceva)";10293
+"incadrare";10294

@@ -9570,3 +9570,4 @@
 "azi";9569
 "revarsat";9570
 "scapa (de ceva)";9571
+"incadrare";9572

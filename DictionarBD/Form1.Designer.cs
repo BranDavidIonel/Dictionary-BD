@@ -40,11 +40,11 @@
             this.cuvant = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.txInserareR = new System.Windows.Forms.TextBox();
-            this.btnAdaugare = new System.Windows.Forms.Button();
+            this.btnInsert = new System.Windows.Forms.Button();
             this.txInserareE = new System.Windows.Forms.TextBox();
             this.labelTxIn = new System.Windows.Forms.Label();
             this.labelTxTran = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnRefresh = new System.Windows.Forms.Button();
             this.btnSwitch = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
@@ -110,8 +110,8 @@
             // raportCuvinteToolStripMenuItem
             // 
             this.raportCuvinteToolStripMenuItem.Name = "raportCuvinteToolStripMenuItem";
-            this.raportCuvinteToolStripMenuItem.Size = new System.Drawing.Size(98, 37);
-            this.raportCuvinteToolStripMenuItem.Text = "Raport Cuvinte";
+            this.raportCuvinteToolStripMenuItem.Size = new System.Drawing.Size(103, 37);
+            this.raportCuvinteToolStripMenuItem.Text = "Report to words";
             this.raportCuvinteToolStripMenuItem.Click += new System.EventHandler(this.raportCuvinteToolStripMenuItem_Click);
             // 
             // infoToolStripMenuItem
@@ -167,7 +167,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(538, 19);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Inserare noua";
+            this.label1.Text = "New insert";
             // 
             // txInserareR
             // 
@@ -179,17 +179,17 @@
             this.txInserareR.Size = new System.Drawing.Size(124, 22);
             this.txInserareR.TabIndex = 10;
             // 
-            // btnAdaugare
+            // btnInsert
             // 
-            this.btnAdaugare.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAdaugare.Location = new System.Drawing.Point(436, 419);
-            this.btnAdaugare.Margin = new System.Windows.Forms.Padding(2);
-            this.btnAdaugare.Name = "btnAdaugare";
-            this.btnAdaugare.Size = new System.Drawing.Size(67, 29);
-            this.btnAdaugare.TabIndex = 11;
-            this.btnAdaugare.Text = "&Adaugare";
-            this.btnAdaugare.UseVisualStyleBackColor = true;
-            this.btnAdaugare.Click += new System.EventHandler(this.btnAdaugare_Click);
+            this.btnInsert.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnInsert.Location = new System.Drawing.Point(436, 419);
+            this.btnInsert.Margin = new System.Windows.Forms.Padding(2);
+            this.btnInsert.Name = "btnInsert";
+            this.btnInsert.Size = new System.Drawing.Size(67, 29);
+            this.btnInsert.TabIndex = 11;
+            this.btnInsert.Text = "&Adaugare";
+            this.btnInsert.UseVisualStyleBackColor = true;
+            this.btnInsert.Click += new System.EventHandler(this.btnInsert_Click);
             // 
             // txInserareE
             // 
@@ -207,33 +207,33 @@
             this.labelTxIn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.labelTxIn.AutoSize = true;
             this.labelTxIn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTxIn.Location = new System.Drawing.Point(26, 428);
+            this.labelTxIn.Location = new System.Drawing.Point(9, 425);
             this.labelTxIn.Name = "labelTxIn";
-            this.labelTxIn.Size = new System.Drawing.Size(143, 16);
+            this.labelTxIn.Size = new System.Drawing.Size(160, 16);
             this.labelTxIn.TabIndex = 13;
-            this.labelTxIn.Text = "Cuvantul in romana:";
+            this.labelTxIn.Text = "The word in romanian:";
             // 
             // labelTxTran
             // 
             this.labelTxTran.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.labelTxTran.AutoSize = true;
             this.labelTxTran.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTxTran.Location = new System.Drawing.Point(2, 462);
+            this.labelTxTran.Location = new System.Drawing.Point(12, 465);
             this.labelTxTran.Name = "labelTxTran";
-            this.labelTxTran.Size = new System.Drawing.Size(167, 16);
+            this.labelTxTran.Size = new System.Drawing.Size(146, 16);
             this.labelTxTran.TabIndex = 14;
-            this.labelTxTran.Text = "Traducerile in engleza:";
+            this.labelTxTran.Text = "The word in english:";
             // 
-            // button3
+            // btnRefresh
             // 
-            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.button3.Location = new System.Drawing.Point(436, 459);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(67, 28);
-            this.button3.TabIndex = 16;
-            this.button3.Text = "Refresh";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.btnRefresh.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnRefresh.Location = new System.Drawing.Point(436, 459);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(67, 28);
+            this.btnRefresh.TabIndex = 16;
+            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
             // btnSwitch
             // 
@@ -256,7 +256,7 @@
             this.button1.Size = new System.Drawing.Size(55, 38);
             this.button1.TabIndex = 6;
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // Form1
             // 
@@ -264,11 +264,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(538, 522);
             this.Controls.Add(this.btnSwitch);
-            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.labelTxTran);
             this.Controls.Add(this.labelTxIn);
             this.Controls.Add(this.txInserareE);
-            this.Controls.Add(this.btnAdaugare);
+            this.Controls.Add(this.btnInsert);
             this.Controls.Add(this.txInserareR);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.l2);
@@ -301,11 +301,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ToolStripMenuItem raportCuvinteToolStripMenuItem;
         private System.Windows.Forms.TextBox txInserareR;
-        private System.Windows.Forms.Button btnAdaugare;
+        private System.Windows.Forms.Button btnInsert;
         private System.Windows.Forms.TextBox txInserareE;
         private System.Windows.Forms.Label labelTxIn;
         private System.Windows.Forms.Label labelTxTran;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnRefresh;
         private System.Windows.Forms.ToolStripMenuItem ROtoEN;
         private System.Windows.Forms.Button btnSwitch;
     }

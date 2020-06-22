@@ -159,8 +159,7 @@ namespace DictionarBD
             cuvantEN.Text = txEN;
             getIdRO();
             getIdEN();
-            //id in engleza 
-            //cuvantul in romana
+           
             cuvantRO_EN.ID = cuvantRO.ID;
             cuvantRO_EN.Text = cuvantEN.Text;
             cuvantEN_RO.ID = cuvantEN.ID;
