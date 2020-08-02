@@ -9571,3 +9571,6 @@
 "revarsat";9570
 "scapa (de ceva)";9571
 "incadrare";9572
+"merisor";9573
+"sefuit";9574
+"vas de coasta";9575

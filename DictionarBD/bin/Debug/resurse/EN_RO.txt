@@ -17600,3 +17600,6 @@
 "revarsat";10292
 "scapa (de ceva)";10293
 "incadrare";10294
+"merisor";10295
+"sefuit";10296
+"vas de coasta";10297

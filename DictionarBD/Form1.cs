@@ -12,12 +12,12 @@ namespace DictionarBD
 {
     public partial class Form1 : Form
     {
-        List<Cuvant> listaRO;//lista cuvinte romana
-        List<Cuvant> listaEN;//lista cuvinte engleza
-        List<Cuvant> listaRO_EN;//lista cuvinte traduse din romana
-        List<Cuvant> listaEN_RO;//lsita cuvinte traduse din engleza in romana
-        List<Cuvant> rezultat_cautare;
-        List<Cuvant> rezultat_traducere;
+        List<Word> listaRO;//lista cuvinte romana
+        List<Word> listaEN;//lista cuvinte engleza
+        List<Word> listaRO_EN;//lista cuvinte traduse din romana
+        List<Word> listaEN_RO;//lsita cuvinte traduse din engleza in romana
+        List<Word> rezultat_cautare;
+        List<Word> rezultat_traducere;
 
         bool insertRO_EN = true;
 
@@ -29,25 +29,25 @@ namespace DictionarBD
         private void Form1_Load(object sender, EventArgs e)
         {
             citeste_cuvinte();
-            rezultat_cautare = new List<Cuvant>();
+            rezultat_cautare = new List<Word>();
             
         }
         void citeste_cuvinte()
         {
-            listaRO = Cuvant.citeste_cuvinte(@"resurse\RO.txt");
-            listaEN = Cuvant.citeste_cuvinte(@"resurse\EN.txt");
-            listaRO_EN = Cuvant.citeste_cuvinte(@"resurse\RO_EN.txt");
-            listaEN_RO = Cuvant.citeste_cuvinte(@"resurse\EN_RO.txt");
+            listaRO = Word.citeste_cuvinte(@"resurse\RO.txt");
+            listaEN = Word.citeste_cuvinte(@"resurse\EN.txt");
+            listaRO_EN = Word.citeste_cuvinte(@"resurse\RO_EN.txt");
+            listaEN_RO = Word.citeste_cuvinte(@"resurse\EN_RO.txt");
             
 
 
         }
         void cauta(String text)
         {
-            rezultat_cautare = new List<Cuvant>();
+            rezultat_cautare = new List<Word>();
             if (ROtoEN.Checked)
             {
-                foreach (Cuvant cuv in listaRO)
+                foreach (Word cuv in listaRO)
                 {
                     if (cuv.Text.StartsWith(text))
                         rezultat_cautare.Add(cuv);
@@ -56,7 +56,7 @@ namespace DictionarBD
             }
             else
             {
-                foreach (Cuvant cuv in listaEN)
+                foreach (Word cuv in listaEN)
                 {
                     if (cuv.Text.StartsWith(text))
                         rezultat_cautare.Add(cuv);
@@ -69,7 +69,7 @@ namespace DictionarBD
         {
             l1.Items.Clear();
             l2.Items.Clear();
-            foreach (Cuvant cuv in rezultat_cautare)
+            foreach (Word cuv in rezultat_cautare)
             {
                 l1.Items.Add(cuv.Text);
             }
@@ -80,12 +80,12 @@ namespace DictionarBD
 
 
         }
-        void cauta_traducere(Cuvant cuv)
+        void cauta_traducere(Word cuv)
         {
-            rezultat_traducere = new List<Cuvant>();
+            rezultat_traducere = new List<Word>();
             if (ROtoEN.Checked)
             {
-                foreach (Cuvant cuvant in listaRO_EN)
+                foreach (Word cuvant in listaRO_EN)
                 {
                     if (cuvant.ID == cuv.ID)
                         rezultat_traducere.Add(cuvant);
@@ -94,7 +94,7 @@ namespace DictionarBD
             }
             else
             {
-                foreach (Cuvant cuvant in listaEN_RO)
+                foreach (Word cuvant in listaEN_RO)
                 {
                     if (cuvant.ID == cuv.ID)
                         rezultat_traducere.Add(cuvant);
@@ -105,7 +105,7 @@ namespace DictionarBD
         void afiseaza_traducere()
         {
             l2.Items.Clear();
-            foreach (Cuvant cuv in rezultat_traducere)
+            foreach (Word cuv in rezultat_traducere)
             {
                 l2.Items.Add(cuv.Text);
             }
@@ -193,6 +193,15 @@ namespace DictionarBD
                 //listaRO.Add(addR);
                 if (insertRO_EN)
                 {
+                    if (txInserareE.Text.Contains(",")&& addCuvant.insertWordsRO_EN(txInserareR.Text, txInserareE.Text)) {
+                        MessageBox.Show("Este inserat!");
+                        citeste_cuvinte();
+                    }
+                    else
+                    {
+
+                        MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
+                    }
                     if (addCuvant.inserareCuvanteRO_EN(txInserareR.Text, txInserareE.Text))
                     {
 
@@ -207,6 +216,7 @@ namespace DictionarBD
                 }
                 else {
                     //insert english to romanian word
+
                     if (addCuvant.inserareCuvinteEN_RO(txInserareR.Text, txInserareE.Text))
                     {
 

@@ -7,16 +7,18 @@ using System.Threading.Tasks;
 
 namespace DictionarBD
 {
-    class Cuvant
+    class Word
     {
         string text;
         int id;
-        public Cuvant() {
+       
+
+        public Word() {
 
             this.text = "";
             this.id = 0;
         }
-        public Cuvant(string text, int id)
+        public Word(string text, int id)
         {
             this.text = text;
             this.id = id;
@@ -33,9 +35,9 @@ namespace DictionarBD
             set { this.id = value; }
 
         }
-        public static List<Cuvant> citeste_cuvinte(String nume_fisier)
+        public static List<Word> citeste_cuvinte(String nume_fisier)
         {
-            List<Cuvant> lista = new List<Cuvant>();
+            List<Word> lista = new List<Word>();
             FileStream fs = null;
             StreamReader sr = null;
             try
@@ -59,7 +61,7 @@ namespace DictionarBD
                         line = line.Substring(index + 1);
                         try
                         {
-                            lista.Add(new Cuvant(temp_tex, Convert.ToInt32(line)));
+                            lista.Add(new Word(temp_tex, Convert.ToInt32(line)));
                         }
                         catch (Exception ex) { }
                     }
@@ -89,7 +91,7 @@ namespace DictionarBD
 
         //vreau sa fac o metoda care scrie in fisierele text din lista
         //in caz ca vreau sa il rescriu cu noua forma la lista de cuvinte
-        public static bool scrieInFisier(string path, List<Cuvant> lista) {
+        public static bool scrieInFisier(string path, List<Word> lista) {
             StringBuilder sb = new StringBuilder();
             FileStream fs = null;
             StreamWriter sw = null;
@@ -129,7 +131,7 @@ namespace DictionarBD
 
 
         //caut cel mai mare id , ca sa stiu dupa care sa inserez
-        public static int searchMaxId(List<Cuvant> list) {
+        public static int searchMaxId(List<Word> list) {
             int idMax = 0;
             if (list==null){
                 return -1;
