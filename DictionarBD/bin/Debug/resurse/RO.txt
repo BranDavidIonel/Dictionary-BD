@@ -9574,3 +9574,4 @@
 "merisor";9573
 "sefuit";9574
 "vas de coasta";9575
+"calorifer";9576

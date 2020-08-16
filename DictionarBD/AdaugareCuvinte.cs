@@ -111,8 +111,28 @@ namespace DictionarBD
             }
             return id;
         }
-
-
+        bool checkExistInListEN(string en_txt)
+        {
+            for (int i = 0; i < listEN.Count; i++)
+            {
+                if (String.Equals(listEN[i].Text.Trim(), en_txt))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        bool checkExistInListRO(string ro_txt)
+        {
+            for (int i = 0; i < listRO.Count; i++)
+            {
+                if (String.Equals(listRO[i].Text.Trim(), ro_txt))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
         public void getIdRO() {
             checkExistRO = false;
             for (int i = 0; i < listRO.Count; i++)
@@ -169,7 +189,14 @@ namespace DictionarBD
             //seting for EN words
             for (int i = 0; i < words.Count; i++) {
                 int idEn = getIdEN2(words[i].Text);
-                words.setWordInsert(words[i].Text, idEn);
+                words.setWords(words[i].Text, idEn);
+                //check and I insert in list final for EN
+                if (!checkExistInListEN(words[i].Text))
+                {
+                    listEN.Add(words[i]);
+
+                }
+
 
             }
             //list for insert final
@@ -179,24 +206,77 @@ namespace DictionarBD
             //RO_EN
             for (int i = 0; i < words.Count; i++)
             {
+                wordRO_EN = new Word();
                 wordRO_EN.ID = words.getWordInsert().ID;
                 wordRO_EN.Text = words[i].Text;
-                listRO_EN.Add(wordEN_RO);
+                listRO_EN.Add(wordRO_EN);
             }
             //EN_RO
             for (int i = 0; i < words.Count; i++)
             {
+                wordEN_RO = new Word();
                 wordEN_RO.ID = words[i].ID;
                 wordEN_RO.Text = words.getWordInsert().Text;
                 listEN_RO.Add(wordEN_RO);
             }
             //EN check if exist and after that I insert
+            //for (int i = 0; i < words.Count; i++)
+            //{
+            //    if (!checkExistInListEN(words[i].Text)) {
+            //        listEN.Add(words[i]);
+
+            //    }
+            //}
+            Word.scrieInFisier(PATH + "RO.txt", listRO);
+            Word.scrieInFisier(PATH + "EN.txt", listEN);
+            Word.scrieInFisier(PATH + "RO_EN.txt", listRO_EN);
+            Word.scrieInFisier(PATH + "EN_RO.txt", listEN_RO);
+
+            return true;
+        }
+        //trebuie testat
+        public bool insertWordEN_RO(string txRo, string txEN) {
+            Words words = new Words(txRo);
+            Word wordRO_EN = new Word();
+            Word wordEN_RO = new Word();
+            if (verificareCuvantExista(txEN, listEN))
+            {
+                //nu am in ce insera deoarece cuvantul in engleza exista deja
+                return false;
+            }
+            //seting for ro word
+            int idEN = getIdEN2(txEN);
+            words.setWordInsert(txEN, idEN);
+            //seting for EN words
             for (int i = 0; i < words.Count; i++)
             {
-                if (!checkExistEN) {
-                    listEN.Add(words[i]);
+                int idRO = getIdEN2(words[i].Text);
+                words.setWords(words[i].Text, idRO);
+                //check and I insert in list final for RO
+                if (!checkExistInListRO(words[i].Text))
+                {
+                    listRO.Add(words[i]);
 
                 }
+
+
+            }
+            listEN.Add(words.getWordInsert());
+            //EN_RO
+            for (int i = 0; i < words.Count; i++)
+            {
+                wordEN_RO = new Word();
+                wordEN_RO.Text = words[i].Text;
+                wordEN_RO.ID = words.getWordInsert().ID;
+                listEN_RO.Add(wordEN_RO);
+            }
+            //RO_EN
+            for (int i = 0; i < words.Count; i++)
+            {
+                wordRO_EN = new Word();
+                wordRO_EN.ID = words.getWordInsert().ID;
+                wordRO_EN.Text = words[i].Text;
+                listRO_EN.Add(wordRO_EN);
             }
             Word.scrieInFisier(PATH + "RO.txt", listRO);
             Word.scrieInFisier(PATH + "EN.txt", listEN);
@@ -204,6 +284,7 @@ namespace DictionarBD
             Word.scrieInFisier(PATH + "EN_RO.txt", listEN_RO);
 
             return true;
+
         }
         #endregion
 

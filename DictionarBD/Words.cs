@@ -13,6 +13,9 @@ namespace DictionarBD
         List <Word> listWordTranslation;
         Word wordInsert;
         public Words(string str_words) {
+          
+            listWordTranslation = new List<Word>();
+            wordInsert = new Word();
             Word w1 = new Word();
             foreach (string str in str_words.Split(',')){
                 w1 = new Word();

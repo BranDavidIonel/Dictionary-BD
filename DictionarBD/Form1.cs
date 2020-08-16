@@ -196,13 +196,9 @@ namespace DictionarBD
                     if (txInserareE.Text.Contains(",")&& addCuvant.insertWordsRO_EN(txInserareR.Text, txInserareE.Text)) {
                         MessageBox.Show("Este inserat!");
                         citeste_cuvinte();
+                        
                     }
-                    else
-                    {
-
-                        MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
-                    }
-                    if (addCuvant.inserareCuvanteRO_EN(txInserareR.Text, txInserareE.Text))
+                    else if (addCuvant.inserareCuvanteRO_EN(txInserareR.Text, txInserareE.Text))
                     {
 
                         MessageBox.Show("Este inserat!");
@@ -213,6 +209,8 @@ namespace DictionarBD
 
                         MessageBox.Show("Ceva nu a mers la inserare! Cuvantul poate exista deja ");
                     }
+                   
+                  
                 }
                 else {
                     //insert english to romanian word

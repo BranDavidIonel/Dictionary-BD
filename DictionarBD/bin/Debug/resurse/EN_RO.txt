@@ -17603,3 +17603,6 @@
 "merisor";10295
 "sefuit";10296
 "vas de coasta";10297
+"calorifer";10298
+"calorifer";10299
+"calorifer";8381

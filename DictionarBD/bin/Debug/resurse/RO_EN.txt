@@ -15231,3 +15231,6 @@
 "cranbery";9573
 "mugged";9574
 "coaster";9575
+"radiator";9576
+"calorifer";9576
+"stove";9576

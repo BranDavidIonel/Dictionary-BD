@@ -187,7 +187,7 @@
             this.btnInsert.Name = "btnInsert";
             this.btnInsert.Size = new System.Drawing.Size(67, 29);
             this.btnInsert.TabIndex = 11;
-            this.btnInsert.Text = "&Adaugare";
+            this.btnInsert.Text = "&Add";
             this.btnInsert.UseVisualStyleBackColor = true;
             this.btnInsert.Click += new System.EventHandler(this.btnInsert_Click);
             // 
@@ -231,7 +231,7 @@
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(67, 28);
             this.btnRefresh.TabIndex = 16;
-            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.Text = "&Refresh";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
