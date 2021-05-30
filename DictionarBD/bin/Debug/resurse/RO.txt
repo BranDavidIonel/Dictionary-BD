@@ -9575,3 +9575,9 @@
 "sefuit";9574
 "vas de coasta";9575
 "calorifer";9576
+"majoreta";9577
+"somer,inactiv,pasiv";9578
+"chifla";9579
+"trotuar";9580
+"sloi de gheata,turture";9581
+"scurgerile";9582

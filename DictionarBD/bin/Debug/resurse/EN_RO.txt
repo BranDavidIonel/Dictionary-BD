@@ -17606,3 +17606,9 @@
 "calorifer";10298
 "calorifer";10299
 "calorifer";8381
+"majoreta";10300
+"somer,inactiv,pasiv";10301
+"chifla";10302
+"trotuar";10303
+"sloi de gheata,turture";10304
+"scurgerile";10305

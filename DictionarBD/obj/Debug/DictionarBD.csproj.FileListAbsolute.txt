@@ -12,7 +12,8 @@ E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.exe
 E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.pdb
 E:\DictionarBD\DictionarBD\bin\Debug\DictionarBD.exe
 E:\DictionarBD\DictionarBD\bin\Debug\DictionarBD.pdb
-E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csprojResolveAssemblyReference.cache
 E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Form1.resources
 E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.Properties.Resources.resources
 E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csproj.GenerateResource.Cache
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csproj.AssemblyReference.cache
+E:\DictionarBD\DictionarBD\obj\Debug\DictionarBD.csproj.CoreCompileInputs.cache
